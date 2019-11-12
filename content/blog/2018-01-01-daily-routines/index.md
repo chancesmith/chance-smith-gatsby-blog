@@ -57,7 +57,7 @@ Routines can help with this. For us to succeed we'll need routines that will be 
 Here's my rough draft before typing and ordering:
 ![chance's rough rituals](./rituals.jpg)
 
-## Warp up
+## Wrap up
 
 My overarching goals are to: read more 📚, share progress 🎤, more fit 💪, and more focused 👀.
 
