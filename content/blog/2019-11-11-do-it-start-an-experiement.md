@@ -21,7 +21,7 @@ It's simple. Remove, add or replace a habit, clutter, friend, meeting time, etc.
 
 - archive all inboxed emails
 - unsubscribe from all emails
-- [reduce your kids toys to 25%](./2019-11-11-boys-and-fewer-toys/)
+- [reduce your kids toys to 25%](/2019-11-11-boys-and-fewer-toys/)
 - reduce dishes in kitchen to just enough for one meal
 - limit focused work to 25mins, then take a break #pomodoro
 - at work, everyone goes headsdown for an hour right after lunch
