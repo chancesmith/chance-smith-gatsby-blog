@@ -4,18 +4,18 @@ date: "2019-11-12T11:44:00.284Z"
 tags: development, sodium halogen
 ---
 
-At [Sodium Halogen](http://sodiumhalogen.com?ref=chancesmithio-blog) (SH), we're digging into a data rich project. The task at hand is to have a javascript timeline that has a number of features we're trying to fit in.
+At [Sodium Halogen](http://sodiumhalogen.com?ref=chancesmithio-blog) (SH), we're digging into a data-rich project. The task at hand is to have a javascript timeline that has several features we're trying to fit in.
 
-Thew options we have are to find something that matches closely or build our own. Today I'm digging through the internet to find the right solution.
+The options we have are to find something that matches closely or build our own. Today I'm digging through the internet to find the right solution.
 
 To protect our SH customer, some of the details are vague. That, I do apologize for.
 
 ## small scale mocks of the timeline idea
 
-gantt chart like with mini timeline map at the bottom
+Gantt chart like with mini timeline map at the bottom
 ![javascript-timeline-mock](./timeline-mock.png)
 
-inner elements inside a gantt chart bar
+Inner elements inside a gantt chart bar
 ![timeline-gantt-with-sub-elements](./timeline-gantt-with-sub-elements.png)
 
 ### features needed
@@ -31,7 +31,7 @@ Let the digging for solutions begin...
 
 ## Diving into the internet looking for a javascript timeline graph or framework
 
-I know [D3](https://d3js.org/) will show up along the way. I have run across D3 a lot looking a graph solutions. The D3 framework seems to be a mind-job to get started, but holds a lot of promise. We'll see...
+I know [D3](https://d3js.org/) will show up along the way. I have run across D3 a lot looking for graph solutions. The D3 framework seems to be a mind-job to get started, but holds a lot of promise. We'll see...
 
 ## D3.js Gantt Chart, example 3
 
@@ -71,7 +71,7 @@ amCharts has been in the running for this solution before. The visuals and anima
 
 ![amchart4-timeline-feature](./amchart4-timeline-feature.gif)
 
-I currently feel the graphs I see in the [new amChart4 timelines](https://www.amcharts.com/timeline-chart/) aren't a great fit for analysis, but great tools for telling a story with they data that is found.
+I currently feel the graphs I see in the [new amChart4 timelines](https://www.amcharts.com/timeline-chart/) aren't a great fit for analysis, but great tools for telling a story with the data that is found.
 
 There has been some hope we could use the Gantt chart.
 
@@ -97,7 +97,7 @@ https://www.anychart.com/products/anygantt/gallery/Gantt_Working_With_Data/
 
 ### AnyChart pros
 
-- hierarchy of of gantt bar elements (expandable with clicks)
+- hierarchy of gantt bar elements (expandable with clicks)
 
 ### AnyChart cons
 
@@ -109,7 +109,7 @@ https://www.anychart.com/products/anygantt/gallery/Gantt_Working_With_Data/
 
 ---
 
-An outdated branding, but super feature rich. This one has so many examples and usecases.
+An outdated branding, but super feature-rich. This one has so many examples and use-cases.
 
 ![visjsorg](./visjsorg.png)
 https://visjs.org/
@@ -152,12 +152,12 @@ https://www.cssscript.com/demo/simple-scrollable-timeline-chart-with-d3-js-d3-ti
 ### D3.js scrollable timeline pros
 
 - dots for moments in time
-- scrollable/panable, nice
+- scrollable/pannable, nice
 
 ### D3.js scrollable timeline cons
 
 - not sure how adding more rows will stack
-- eh, definitly not as pretty as some of the previous (not a deal breaker)
+- eh, definitely not as pretty as some of the previous (not a deal-breaker)
 
 Details: https://www.cssscript.com/simple-scrollable-timeline-chart-with-d3-js-d3-timeline/
 
@@ -165,12 +165,12 @@ Details: https://www.cssscript.com/simple-scrollable-timeline-chart-with-d3-js-d
 
 ---
 
-This is nice as well. The zoom feature is handy, but might conflict with the way we want to handle the node selection.
+This is nice as well. The zoom feature is handy but might conflict with the way we want to handle the node selection.
 
 ![vasturiano-timelines-chart](./vasturiano-timelines-chart.png)
 https://github.com/vasturiano/timelines-chart
 
-Also, a stackoverflow request that this tool is mentioned as the solution: https://stackoverflow.com/questions/48890790/d3-multi-layer-timeline
+Also, a StackOverflow request that this tool is mentioned as the solution: https://stackoverflow.com/questions/48890790/d3-multi-layer-timeline
 
 ### vasturiano pros
 
@@ -185,12 +185,12 @@ Also, a stackoverflow request that this tool is mentioned as the solution: https
 
 ---
 
-Kinda of a dated repo, but has quite a few examples to be inspired by.
+Kind of a dated repo, but has quite a few examples to be inspired by.
 
 ![jiahuang_d3-timeline](./jiahuang_d3-timeline.png)
 https://github.com/jiahuang/d3-timeline
 
-shows a stackoverflow request: https://stackoverflow.com/questions/13201749/draw-simple-timeline-with-d3
+shows a StackOverflow request: https://stackoverflow.com/questions/13201749/draw-simple-timeline-with-d3
 
 If we do a D3 build, this is another inspiring example.
 
@@ -218,6 +218,6 @@ http://bl.ocks.org/rengel-de/5603464
 
 ---
 
-With these in mind, I believe we can now pump out a few sandboxes. We'll probably start with vasturiano's timeline-chart and look futher into how we can add the features we need.
+With these in mind, I believe we can now pump out a few sandboxes. We'll probably start with vasturiano's timeline-chart and look further into how we can add the features we need.
 
 Got questions? Hit me!
