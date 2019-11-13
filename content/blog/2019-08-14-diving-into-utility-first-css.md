@@ -4,7 +4,7 @@ date: "2019-08-14T11:44:00.284Z"
 tags: CSS, BEM, Utility-First-CSS
 ---
 
-At [Sodium Halogen](http://sodiumhalogen.com?ref=chancesmithio-blog), we've seen many projects with different types of CSS methodolgies and frameworks (BEM, Bootstrap, Foundation, Bulma).
+At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio-blog), we've seen many projects with different types of CSS methodolgies and frameworks (BEM, Bootstrap, Foundation, Bulma).
 
 ## CSS + React has been wonderful with Styled Components
 
@@ -23,13 +23,27 @@ We didn't see this coming. It's also been a bit since we have had to create/writ
 Utility classes are tiny bits of CSS, tied to a class name, that do one thing. Here are a few examples...
 
 ```css
-.flex-1 {flex: 1;}
-.ml-5 {margin-left: 5px;}
-.ml-10 {margin-left: 10px;}
-.ml-20 {margin-left: 20px;}
-.pl-5 {padding-left: 5px;}
-.pl-10 {padding-left: 10px;}
-.pl-20 {padding-left: 20px;}
+.flex-1 {
+  flex: 1;
+}
+.ml-5 {
+  margin-left: 5px;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+.ml-20 {
+  margin-left: 20px;
+}
+.pl-5 {
+  padding-left: 5px;
+}
+.pl-10 {
+  padding-left: 10px;
+}
+.pl-20 {
+  padding-left: 20px;
+}
 ```
 
 ## Pros for Utility-First CSS
@@ -52,27 +66,50 @@ At UndergroundJS conf in Nashville, TN, a few of us meet with another dev that i
 We haven't used the Tailwind in our no-framework project, but we have been modeling our own utilities classes the same way. So far we're liking how much time we're saving on layout and spacing.
 
 ```css
-  /* layout */
-  .flex-24 {flex: 24 1 0%; margin-right: 30px;}
-  .flex-7 {flex: 7 1 0%; min-width: 400;}
-  .border-transparent, 
-  .hover\:border-transparent:hover {
-    border-color: transparent;
-  }
+/* layout */
+.flex-24 {
+  flex: 24 1 0%;
+  margin-right: 30px;
+}
+.flex-7 {
+  flex: 7 1 0%;
+  min-width: 400;
+}
+.border-transparent,
+.hover\:border-transparent:hover {
+  border-color: transparent;
+}
 
-  /* type */
-  .uppercase {text-transform: uppercase;}
-  .lowercase {text-transform: lowercase;}
-  .capitalize {text-transform: capitalize;}
+/* type */
+.uppercase {
+  text-transform: uppercase;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+.capitalize {
+  text-transform: capitalize;
+}
 
-  /* spacing */
-  .px-20 {padding-left: 20px; padding-right: 20px;}
-  .pl-20 {padding-left: 20px;}
-  .pl-30 {padding-left: 30px;}
+/* spacing */
+.px-20 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.pl-20 {
+  padding-left: 20px;
+}
+.pl-30 {
+  padding-left: 30px;
+}
 
-  /* size */
-  .h-full {height: 100%;}
-  .w-300 {width: 300px;}
+/* size */
+.h-full {
+  height: 100%;
+}
+.w-300 {
+  width: 300px;
+}
 ```
 
 We're going to give it a run by adding just what we need as we go. We'll be meshing BEM and Utility-classes.

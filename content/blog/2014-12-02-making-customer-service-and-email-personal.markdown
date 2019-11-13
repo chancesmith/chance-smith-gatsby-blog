@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to make email and customer service personal
-date: '2014-12-02T22:12:03.284Z'
+date: "2014-12-02T22:12:03.284Z"
 ---
 
 Want to make things personal for your clients?
@@ -10,7 +10,7 @@ Add your face. No, not just pictures.
 
 Add gifs! Done.
 
-At Sodium Halogen, [William](http://sodiumhalogen.com) (founder) encrouaged me to use animated gifs to help make our emails stand out to our clients. I have taken that advice and stepped it up a few levels.
+At Sodium Halogen, [William](https://sodiumhalogen.com) (founder) encrouaged me to use animated gifs to help make our emails stand out to our clients. I have taken that advice and stepped it up a few levels.
 
 **I make my own.**
 
@@ -21,6 +21,7 @@ Here is my **Top 10 Gif Collection for 2014** and how I use them.
 Client: "Great Job!"
 Me: "Thank you. Insert cool thumbs here. #gif"
 ![chance smith gif cool thumbs](http://chancesmith.org/gifs/chance-cool-thumb.gif)
+
 <hr/>
 Me: "If you need anything I'll be down here. #gif"
 ![chance smith down here gif](http://chancesmith.org/gifs/chance-down-here-gif.gif)

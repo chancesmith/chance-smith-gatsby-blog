@@ -4,7 +4,7 @@ date: "2019-03-21T11:44:00.284Z"
 tags: CITQ, S3, AWS
 ---
 
-At [Sodium Halogen](http://sodiumhalogen.com?ref=chancesmithio-blog), we've made several search fields, but thought it would be good to document an output. Here we go with just the Javascript part...
+At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio-blog), we've made several search fields, but thought it would be good to document an output. Here we go with just the Javascript part...
 
 ## data + search + filtering data = awesome
 

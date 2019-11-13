@@ -4,7 +4,7 @@ date: "2019-06-26T11:44:00.284Z"
 tags: GIT, Workflow
 ---
 
-At [Sodium Halogen](http://sodiumhalogen.com?ref=chancesmithio-blog), we use Git with every development project. Our primary Git hosts are Github, BitBucket, and GitLab (in that order).
+At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio-blog), we use Git with every development project. Our primary Git hosts are Github, BitBucket, and GitLab (in that order).
 
 ## quick workflow reference
 

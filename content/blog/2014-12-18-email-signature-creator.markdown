@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Email Signature Creator
-date: '2014-12-18T22:12:03.284Z'
+date: "2014-12-18T22:12:03.284Z"
 tags:
-- web-development
+  - web-development
 ---
 
 ![cover-image](/content/images/2014/12/Screenshot-2014-12-17-23-26-42.png)
@@ -11,17 +11,18 @@ tags:
 Here I have built a web application that creates email signatures based on a static design. The design would need to change for each company or individual but...yeah, this is for an agency or web developer that happens to make a email signature.
 
 #Demo links
-* [signature creator app demo](http://chancesmith.org/project/signature-app/)
-* [github](https://github.com/chancesmith/chancesmith-site/tree/master/project/signature-app)
+
+- [signature creator app demo](http://chancesmith.org/project/signature-app/)
+- [github](https://github.com/chancesmith/chancesmith-site/tree/master/project/signature-app)
 
 #Why?
-A [Sodium Halogen](http://sodiumhalogen.com) client made a request for us to design and code them a email signature. They needed 7-8 different signatures for different team members.
+A [Sodium Halogen](https://sodiumhalogen.com) client made a request for us to design and code them a email signature. They needed 7-8 different signatures for different team members.
 
 With the number of signatures needed I asked these questions:
 
-* Will they need more email signatures made in the future?
-* Could I give them a tool for them to create their own?
-* Could that tool be rigid enough so no one could alter the design?
+- Will they need more email signatures made in the future?
+- Could I give them a tool for them to create their own?
+- Could that tool be rigid enough so no one could alter the design?
 
 The answer was yes to all three. Thus an app is born.
 

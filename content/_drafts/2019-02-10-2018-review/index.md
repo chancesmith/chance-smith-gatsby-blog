@@ -24,7 +24,7 @@ My guess is 2017 was better performed than 2018, but a lot of cool things happen
 
 There are frameworks, libraries, and methods I wanted to try. I ended up getting to take a stab at each one last year.
 
-The Code for the Kingdom hackahton helped with ReactJS + GraphQL. Since then it's been a whirlwind and deepdive into ReactJS with [Sodium Halogen](http://sodiumhalogen.com) (SH) projects.
+The Code for the Kingdom hackahton helped with ReactJS + GraphQL. Since then it's been a whirlwind and deepdive into ReactJS with [Sodium Halogen](https://sodiumhalogen.com) (SH) projects.
 
 As for SH, we've dived into unit/integration testing as a workflow. It was a challenge, but totaly worth it.
 

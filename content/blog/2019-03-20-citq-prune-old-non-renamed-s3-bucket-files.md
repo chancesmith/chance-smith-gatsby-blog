@@ -8,7 +8,7 @@ CITQ = Challenge in the Queue
 
 status: `testing`
 
-At [Sodium Halogen](http://sodiumhalogen.com?ref=chancesmithio-blog), we put a lot of screenshots and quick uploads into an S3 bucket with a tool called Dropzone. It's a fast way for us to share files with eachother and our customers. We used to use FileShuttle to FTP files up to a server, until it stopped working for us mid 2018.
+At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio-blog), we put a lot of screenshots and quick uploads into an S3 bucket with a tool called Dropzone. It's a fast way for us to share files with eachother and our customers. We used to use FileShuttle to FTP files up to a server, until it stopped working for us mid 2018.
 
 This Challenge in the Queue is to delete old files from the S3 bucket that we don't rename from it's default name. Like the Mac's screenshot files: `Screenshot 2019-03-19 14.31.55.png`. The rule should be, if we don't rename the screenshot then ditch it.
 
