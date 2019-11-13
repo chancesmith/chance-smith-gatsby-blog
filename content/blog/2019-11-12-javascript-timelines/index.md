@@ -39,7 +39,7 @@ I know [D3](https://d3js.org/) will show up along the way. I have run across D3 
 
 This solution looks like a good start for a custom timeline graph. Not a bad place to begin the search. 💪
 
-![d3 timeline gantt chart](/Users/chance/wip/chance-smith-gatsby-blog/content/_drafts/2019-11-12-javascript-timelines/d3-gantt-chart-example-3.png)
+![d3 timeline gantt chart](./d3-gantt-chart-example-3.png)
 http://bl.ocks.org/dk8996/5538271
 
 ### example D3.js pros
