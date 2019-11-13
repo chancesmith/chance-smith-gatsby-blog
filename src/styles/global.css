@@ -9,3 +9,7 @@ code {
 .decoration-none {
   text-decoration: none;
 }
+
+main ul {
+  margin-left: 17px;
+}
