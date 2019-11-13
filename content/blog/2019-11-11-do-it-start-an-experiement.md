@@ -11,9 +11,8 @@ How do we adapt?<br/>
 Just start an experiment.<br/>
 Try something new.<br/>
 Sure, ask for permission. But who can say "No" to trying something once?<br/>
-<br/>
 
-## a model of a experiment
+## a model of an experiment
 
 It's simple. Remove, add or replace a habit, clutter, friend, meeting time, etc...
 
