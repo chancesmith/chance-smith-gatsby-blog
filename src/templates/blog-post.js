@@ -14,20 +14,27 @@ class BlogPostTemplate extends React.Component {
     const { previous, next } = this.props.pageContext;
 
     var ctaList = [
+      // <p>
+      //   Did this help or save you time?{" "}
+      //   <a href="http://bit.ly/2O1eTBn">Reward me with a ☕️❤️.</a>
+      // </p>,
+      // <p>
+      //   Did I help or save you time?{" "}
+      //   <a href="http://bit.ly/36QVlIj">Buy me a ☕️❤️.</a>
+      // </p>,
+      // <p>
+      //   Did I help or save you time?
+      //   <br />
+      //   <a href="http://bit.ly/34OpqXm" className="decoration-none">
+      //     <img src={bmcButtonSvg} width="180px" />
+      //   </a>
+      // </p>,
       <p>
-        Did this help or save you time?{" "}
-        <a href="http://bit.ly/2O1eTBn">Reward me with a ☕️❤️.</a>
+        No ads here. <a href="http://bit.ly/2pn2vmT">Buy me a coffee.</a>
       </p>,
       <p>
-        Did I help or save you time?{" "}
-        <a href="http://bit.ly/36QVlIj">Buy me a ☕️❤️.</a>
-      </p>,
-      <p>
-        Did I help or save you time?
-        <br />
-        <a href="http://bit.ly/34OpqXm" className="decoration-none">
-          <img src={bmcButtonSvg} width="180px" />
-        </a>
+        <strong>Giving Back.</strong> If this helped, you can always{" "}
+        <a href="http://bit.ly/2CMtI5n">buy me a ☕️.</a>
       </p>
     ];
 
