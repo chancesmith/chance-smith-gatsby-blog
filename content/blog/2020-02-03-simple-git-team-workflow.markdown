@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Git Workflow With A Team
-date: "2017-12-30T22:12:03.284Z"
+title: A Simple Git Team Workflow
+date: "2020-02-03T22:12:03.284Z"
 tags:
   - git
 ---
@@ -26,10 +26,10 @@ We've adapted how we do commits over the years. We aim to give context through e
 
 Example: `[cart/item] add price and discounts #24`
 
-Breakdown: `[context_here] MESSAGE: details of actions taken in present tense #ISSUE_NUM`
+Breakdown: `[context_here] SUBJECT: details of actions taken in present tense #ISSUE_NUM`
 
 - `[cart/item]` mentions where in the app and possibly what component specificly was changed
-- `MESSAGE:...`Being consistant with the tense gives less variety in our how the team writes the commit message.
+- `SUBJECT:...`Being consistant with the tense gives less variety in our how the team writes the commit sbject.
 - `#ISSUE_NUM` the GitHub issue where progress was made
 
 When you metion the issue number in a commit, your commit gets associated with that issue. It's pretty cool to see the paper trail of progress on an issue.
@@ -42,6 +42,23 @@ If you're really cool you add emojis to your commits. We all use git-emoji-commi
 - testing instructions
 - screenshot/gif
 
+Here is a full example:
+
+```
+fix #27
+
+## how to test
+
+- add item to cart
+- see prices are correct for each item
+- add discount code `20OFFNOVEMBER`
+- see 20% discount applied to whole order
+
+## screenshot
+
+(drag and drop screenshot of expected cart results)
+```
+
 ## Git workflow
 
 - create and look at issue in GitHub
@@ -49,7 +66,7 @@ If you're really cool you add emojis to your commits. We all use git-emoji-commi
 - make sure you are branching from master: `git checkout master`
 - create new feature branch with issue# prefix: `git checkout -b 27-timeline-view`
 - then make changes to that branch until the feature is complete
-- each commit starts with context in brackets: `[context_here] message #ISSUE_NUM` Example: `git commit -m "[timeline] add timeline chart #27"`
+- each commit starts with context in brackets: `[context_here] subject #ISSUE_NUM` Example: `git commit -m "[timeline] add timeline chart #27"`
 - create the PR in GitHub
 - mention the issues that need to be closed: `fix #72`
 - mention instrcuctions on how to test the addition
