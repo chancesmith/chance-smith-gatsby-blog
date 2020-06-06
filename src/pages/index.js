@@ -14,10 +14,7 @@ class Homepage extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title="Home"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-        />
+        <SEO title="Take Ownership" keywords={[`chance smith`]} />
         <div>
           <h1
             style={{
@@ -29,7 +26,7 @@ class Homepage extends React.Component {
             <span style={{ fontSize: ".7em", color: "#777" }}>
               Express what you want.
               <br />
-              Get what you want.
+              Go after it.
             </span>
           </h1>
 
