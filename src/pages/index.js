@@ -56,8 +56,30 @@ class Homepage extends React.Component {
 
           <h2>Store</h2>
 
-          <div style={{ display: "flex", marginBottom: rhythm(1) }}>
-            <div
+          <div
+            style={{
+              marginBottom: rhythm(1),
+            }}
+          >
+            <h3
+              style={{
+                marginBottom: rhythm(1 / 4),
+              }}
+            >
+              <Link
+                style={{ boxShadow: `none` }}
+                to="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
+              >
+                Hire Me Kit 📒
+              </Link>
+            </h3>
+            <small>
+              $40 - A proven template to catch the attention of your ideal boss.
+            </small>
+          </div>
+
+          {/* <div style={{ display: "flex", marginBottom: rhythm(1) }}> */}
+          {/* <div
               style={{
                 border: "1px solid #eee",
                 padding: rhythm(1 / 3),
@@ -73,8 +95,8 @@ class Homepage extends React.Component {
                 [Kit] I'm an Intern. Hire Me.
               </h3>
               <a href="https://www.buymeacoffee.com/l/internhireme">Buy Now</a>
-            </div>
-            {/* <div
+            </div> */}
+          {/* <div
               style={{
                 border: "1px solid #eee",
                 padding: rhythm(1 / 3),
@@ -92,7 +114,7 @@ class Homepage extends React.Component {
               <p>Book</p>
               Coming This 2020 Fall
             </div> */}
-          </div>
+          {/* </div> */}
 
           <hr />
 

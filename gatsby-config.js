@@ -6,10 +6,11 @@ module.exports = {
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `chance_smith`,
-      github: `chancesmith`
-    }
+      github: `chancesmith`,
+    },
   },
   plugins: [
+    `gatsby-plugin-netlify`,
     `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-favicon`,
@@ -40,14 +41,14 @@ module.exports = {
           opengraph: false,
           twitter: false,
           yandex: false,
-          windows: false
-        }
-      }
+          windows: false,
+        },
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-33562331-2"
+        trackingId: "UA-33562331-2",
         // Puts tracking script in the head instead of the body
         // head: false,
         // Setting this parameter is optional
@@ -66,21 +67,21 @@ module.exports = {
         // sampleRate: 5,
         // siteSpeedSampleRate: 10,
         // cookieDomain: "example.com",
-      }
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
-        name: `blog`
-      }
+        name: `blog`,
+      },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/assets`,
-        name: `assets`
-      }
+        name: `assets`,
+      },
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -89,20 +90,20 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590
-            }
+              maxWidth: 590,
+            },
           },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`
-            }
+              wrapperStyle: `margin-bottom: 1.0725rem`,
+            },
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`
-        ]
-      }
+          `gatsby-remark-smartypants`,
+        ],
+      },
     },
     `gatsby-plugin-styled-components`,
     `gatsby-transformer-sharp`,
@@ -117,16 +118,16 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#3968f0`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`
-      }
+        icon: `content/assets/gatsby-icon.png`,
+      },
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/utils/typography`
-      }
-    }
-  ]
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
+  ],
 };
