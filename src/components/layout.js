@@ -177,7 +177,9 @@ class Layout extends React.Component {
         </div>
         <header>{header}</header>
         <main>{children}</main>
-        <footer>© {new Date().getFullYear()}, Chance Smith</footer>
+        <footer>
+          © {new Date().getFullYear()}, <Link to="/about">Chance Smith</Link>
+        </footer>
       </div>
     );
   }

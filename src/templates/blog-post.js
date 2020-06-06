@@ -15,11 +15,13 @@ class BlogPostTemplate extends React.Component {
 
     var ctaList = [
       <p>
-        Did this help or save you time?{" "}
+        Did this help or save you time?
+        <br />
         <a href="http://bit.ly/2O1eTBn">Reward me with a ☕️❤️.</a>
       </p>,
       <p>
-        Did I help or save you time?{" "}
+        Did I help or save you time?
+        <br />
         <a href="http://bit.ly/36QVlIj">Buy me a ☕️❤️.</a>
       </p>,
       <p>
@@ -28,7 +30,7 @@ class BlogPostTemplate extends React.Component {
         <a href="http://bit.ly/34OpqXm" className="decoration-none">
           <img src={bmcButtonSvg} width="180px" />
         </a>
-      </p>
+      </p>,
     ];
 
     return (
@@ -40,21 +42,22 @@ class BlogPostTemplate extends React.Component {
             ...scale(-1 / 5),
             display: `block`,
             marginBottom: rhythm(1),
-            marginTop: rhythm(-1)
+            marginTop: rhythm(-1),
           }}
         >
-          {post.frontmatter.date}
+          {/* {post.frontmatter.date} */}
+          by Chance Smith
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{
-            marginBottom: rhythm(1)
+            marginBottom: rhythm(1),
           }}
         />
 
         {ctaList[Math.floor(Math.random() * ctaList.length)]}
 
-        <Bio />
+        {/* <Bio /> */}
 
         <ul
           style={{
@@ -62,7 +65,8 @@ class BlogPostTemplate extends React.Component {
             flexWrap: `wrap`,
             justifyContent: `space-between`,
             listStyle: `none`,
-            padding: 0
+            padding: 0,
+            margin: 0,
           }}
         >
           <li>

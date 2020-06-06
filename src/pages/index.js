@@ -5,6 +5,7 @@ import { Link, graphql } from "gatsby";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
+import Product from "../components/Product";
 
 class Homepage extends React.Component {
   render() {
@@ -16,122 +17,86 @@ class Homepage extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Take Ownership" keywords={[`chance smith`]} />
         <div>
-          <h1
-            style={{
-              marginTop: "0",
-            }}
-          >
-            Take ownership.
-            <br />
-            <span style={{ fontSize: ".7em", color: "#777" }}>
-              Express what you want.
+          <div>
+            <h1
+              style={{
+                marginTop: "0",
+                fontSize: "3.60675rem",
+              }}
+            >
+              Take ownership.
               <br />
-              Go after it.
-            </span>
-          </h1>
+              <span style={{ fontSize: ".7em", color: "#777" }}>
+                Express what you want.
+                <br />
+                Go after it.
+              </span>
+            </h1>
 
-          <h2
-            style={{
-              marginBottom: "-28px",
-            }}
-          >
-            Store
-          </h2>
-
-          <div
-            style={
-              {
-                // marginBottom: rhythm(1),
-              }
-            }
-          >
-            <h3
+            <h2
               style={{
-                marginBottom: rhythm(1 / 4),
+                marginBottom: "-28px",
               }}
             >
-              <Link
-                style={{ boxShadow: `none` }}
-                to="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
-              >
-                Hire Me Kit 📒
-              </Link>
-            </h3>
-            <small>
-              $40 - A proven template to catch the attention of your ideal boss.
-            </small>
-          </div>
-
-          {/* <div style={{ display: "flex", marginBottom: rhythm(1) }}> */}
-          {/* <div
-              style={{
-                border: "1px solid #eee",
-                padding: rhythm(1 / 3),
-                marginRight: rhythm(1),
-                width: "45%",
-              }}
-            >
-              <h3
-                style={{
-                  marginTop: "0",
-                }}
-              >
-                [Kit] I'm an Intern. Hire Me.
-              </h3>
-              <a href="https://www.buymeacoffee.com/l/internhireme">Buy Now</a>
-            </div> */}
-          {/* <div
-              style={{
-                border: "1px solid #eee",
-                padding: rhythm(1 / 3),
-                marginRight: rhythm(1),
-                width: "30%",
-              }}
-            >
-              <h3
-                style={{
-                  marginTop: "0",
-                }}
-              >
-                Impress
-              </h3>
-              <p>Book</p>
-              Coming This 2020 Fall
-            </div> */}
-          {/* </div> */}
-
-          <hr />
-
-          <h2
-            style={{
-              marginBottom: "-28px",
-            }}
-          >
-            Latest Post
-          </h2>
-          {[posts[0]].map(({ node }) => {
-            const title = node.frontmatter.title || node.fields.slug;
-            return (
-              <div
-                key={node.fields.slug}
-                style={{
-                  marginBottom: rhythm(1),
-                }}
-              >
-                <h3
+              Latest Post
+            </h2>
+            {[posts[0]].map(({ node }) => {
+              const title = node.frontmatter.title || node.fields.slug;
+              return (
+                <div
+                  key={node.fields.slug}
                   style={{
-                    marginBottom: rhythm(1 / 4),
+                    marginBottom: rhythm(1),
                   }}
                 >
-                  <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                    {title}
-                  </Link>
-                </h3>
-                <small>{node.frontmatter.date}</small>
-                {/* <p dangerouslySetInnerHTML={{ __html: node.excerpt }} /> */}
-              </div>
-            );
-          })}
+                  <h3
+                    style={{
+                      marginBottom: rhythm(1 / 4),
+                    }}
+                  >
+                    <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                      {title}
+                    </Link>
+                  </h3>
+                  {/* <small>{node.frontmatter.date}</small> */}
+                  {/* <p dangerouslySetInnerHTML={{ __html: node.excerpt }} /> */}
+                </div>
+              );
+            })}
+          </div>
+
+          {/* <div>
+            <h2
+              style={{
+                marginBottom: "-28px",
+              }}
+            >
+              Resources
+            </h2>
+
+            <Product
+              title={`Think Like A Partner`}
+              link="#"
+              subTitle="Big wins when you think like you own it."
+            />
+          </div> */}
+
+          <div>
+            <h2
+              style={{
+                marginBottom: "-28px",
+              }}
+            >
+              Store
+            </h2>
+
+            <Product
+              title={`"Hire Me" Kit 📒`}
+              price={20}
+              link="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
+              subTitle="A proven template to catch the their attention."
+            />
+          </div>
         </div>
       </Layout>
     );
