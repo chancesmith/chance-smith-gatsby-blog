@@ -11,6 +11,10 @@ Wait...wait...
 
 ## What is a Headless CMS?
 
+A headless CMS is an approach to reusing the same content across multiple platform.
+
+A CMS helps users create content and publish content into HTML. A headless CMS only delivers raw data, like JSON. This raw data can now be used across many platforms: website, software, mobile apps, internal staff tools.
+
 ## What are the benefits of a Headless CMS?
 
 From a development perspective, you are abstracting the CMS from the views. Now, your software or website isn't directly attached to the CMS you use, just as long as your data structure is the same. You can now change to any CMS you want in the future. [Uncle Bob would be proud.](https://blog.cleancoder.com/uncle-bob/2016/01/04/ALittleArchitecture.html) (Dependency Inversion Principle)
@@ -25,6 +29,7 @@ With Wordpress for example, every page is built by the server on each request fo
 
 Static-site generators build all of your pages into ready-to-serve HTML files.
 
+ONe more not about Wordpress and going headless. Here is a way to extract your data from Wordpress for Gatsby. We've used WPGraphQL in one project for a large CMA firm. WPGraphQL was a big help.
 https://www.wpgraphql.com/
 
 ## Our findings
