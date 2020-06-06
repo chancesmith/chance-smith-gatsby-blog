@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Strategic Business Card Ideas
-date: '2015-01-07T22:12:03.284Z'
+date: "2015-01-07T22Z"
 tags:
-- marketing
-- strategy
+  - marketing
+  - strategy
 ---
 
 When I created [my new business cards](http://blog.chancesmith.org/new-strategic-business-cards/) the experience helped me think of how I can be more strategic next time. Maybe these will spark some ideas for your next business cards too.

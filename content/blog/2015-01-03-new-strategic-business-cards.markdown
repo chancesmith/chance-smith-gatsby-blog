@@ -1,11 +1,11 @@
 ---
 layout: post
 title: New strategic business cards
-date: '2015-01-03T22:12:03.284Z'
+date: "2015-01-03T22Z"
 tags:
-- strategy
-- design
-- update
+  - strategy
+  - design
+  - update
 ---
 
 ![cover-image](/content/images/2015/01/9YkimE4V-JnL41LhoPZN32XMoOp-71QtkqVs09nDuSk.jpg)

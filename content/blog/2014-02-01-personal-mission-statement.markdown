@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Personal Mission Statement
-date: '2014-02-01T22:12:03.284Z'
+date: "2014-02-01T22Z"
 ---
 
 ![cover-image](/content/images/2014/Feb/personal_mission_statement_creation.jpg)

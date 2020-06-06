@@ -1,7 +1,7 @@
 ---
 layout: post
 title: May 2013 Motivation Package
-date: '2013-05-01T22:12:03.284Z'
+date: "2013-05-01T22Z"
 ---
 
 <h2 style="text-align: center;">Download this Month's</h2>

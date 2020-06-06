@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Gift Match App - One page app to match gifts for giving
-date: '2014-12-26T22:12:03.284Z'
+date: "2014-12-26T22Z"
 tags:
-- web-development
+  - web-development
 ---
 
 ![cover-image](/content/images/2014/12/giftmatch-app.png)
 
-I’ve posted a lot of web applications I’ve made from this year, and meant to spread them out a little more. Yet, it’s Christmas and this just *matched* so well. #dadJoke
+I’ve posted a lot of web applications I’ve made from this year, and meant to spread them out a little more. Yet, it’s Christmas and this just _matched_ so well. #dadJoke
 
 #Problem to solve
 My uncle Lance asked for a application that took a list of people and mixed-matched them into a list that could be shared.

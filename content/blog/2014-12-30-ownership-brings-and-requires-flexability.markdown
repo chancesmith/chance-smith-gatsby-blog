@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Ownership brings and requires flexability
-date: '2014-12-30T22:12:03.284Z'
+date: "2014-12-30T22Z"
 tags:
-- leadership
-- ownership
+  - leadership
+  - ownership
 ---
 
 When you own the business you have flexibility. When you take ownership of your responsibilities at work you’ll need flexibility to make things happen.
 
-Flexibility requires and *is* room to wiggle, work, maul, and overwhelm.
+Flexibility requires and _is_ room to wiggle, work, maul, and overwhelm.
 
-Seth Godin speaks of this as *thrashing*.
-Garry Vanerchuck considers this as *crushing it*.
+Seth Godin speaks of this as _thrashing_.
+Garry Vanerchuck considers this as _crushing it_.
 
 Ownership is the ability to make changes.
 Ownership is the option to make wild assumptions.

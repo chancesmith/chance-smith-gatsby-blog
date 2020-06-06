@@ -1,11 +1,11 @@
 ---
 layout: post
 title: When a boss asks you to ask for a raise | TLDR
-date: '2014-12-24T22:12:03.284Z'
+date: "2014-12-24T22Z"
 tags:
-- leadership
-- tldr
-- achievement
+  - leadership
+  - tldr
+  - achievement
 ---
 
 I’ve challenged my team to all ask for a raise in 2015, and here is what I said.

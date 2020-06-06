@@ -1,6 +1,6 @@
 ---
 title: ReactJS - Search and Filter Data Results
-date: "2019-03-21T11:44:00.284Z"
+date: "2019-03-21T11Z"
 tags: CITQ, S3, AWS
 ---
 
@@ -20,13 +20,13 @@ const movies = [
   {
     title: "Aussie and Teds Great Adventure",
     genre: "Adventure, Dog",
-    rating: "G"
+    rating: "G",
   },
-  { title: "Babe", genre: "Drama, Animal", rating: "G" }
+  { title: "Babe", genre: "Drama, Animal", rating: "G" },
 ];
 
 // Fuzzy Search >> source: https://stackoverflow.com/a/15252131/3979495
-String.prototype.fuzzy = function(s) {
+String.prototype.fuzzy = function (s) {
   var hay = this.toLowerCase(),
     i = 0,
     n = -1,
@@ -39,9 +39,9 @@ String.prototype.fuzzy = function(s) {
 // state variable
 const search = "Dsy";
 
-const moviesFound = movies.filter(movie =>
+const moviesFound = movies.filter((movie) =>
   Object.keys(movie)
-    .map(key => movie[key].fuzzy(search))
+    .map((key) => movie[key].fuzzy(search))
     .reduce((acc, bool) => (bool ? acc + 1 : acc))
 );
 

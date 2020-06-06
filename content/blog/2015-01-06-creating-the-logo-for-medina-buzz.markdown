@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Creating the logo for Medina Buzz
-date: '2015-01-06T22:12:03.284Z'
+date: "2015-01-06T22Z"
 tags:
-- project
-- design
-- identity
+  - project
+  - design
+  - identity
 ---
 
 ![cover-image](/content/images/2014/12/Evernote-Snapshot-20140830-095027.jpg)

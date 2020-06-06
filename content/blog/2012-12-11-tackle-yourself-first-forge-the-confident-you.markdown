@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 'Tackle Yourself First: Forge the Confident You'
-date: '2012-12-11T22:12:03.284Z'
+title: "Tackle Yourself First: Forge the Confident You"
+date: "2012-12-11T22Z"
 ---
 
 <strong>Tackle Yourself First</strong>: Be intentional about your success. When you make the smallest attempt to feel better, look better, or be better... you will! With the best intentions, you can fake it until you make it!
+
 <ul>
 	<li><strong>Diet- </strong> (No coke for a week, no eating-out for a month)- We all relate healthier decisions to better/smarter decisions. We are aiming for a successful feeling! Those efforts lead to more successful actions and more success feelings. See the pattern?</li>
 	<li><strong>Sleep </strong>(scheduled times, 8-9 hours) - I find that I wake up so much happier when am doing something productive, exciting, or anything I am passionate about. Late night TV or Games kills my next-morning energy. Get a steady amount of sleep and focus on your passion.</li>

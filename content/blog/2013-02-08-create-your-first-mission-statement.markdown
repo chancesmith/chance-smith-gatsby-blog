@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Create Your First Mission Statement
-date: '2013-02-08T22:12:03.284Z'
+date: "2013-02-08T22Z"
 tags:
-- growth
-- mission-statement
-- motivation
+  - growth
+  - mission-statement
+  - motivation
 ---
 
 Before I wrote my mission statement, or even knew what one was, I didn't know what to do next. I was reaching at straws for my next step.  If an idea came to me that would be my next step of action. There was no reason or purpose to by focus. This statement has changed my direction and habits of life immensely.
@@ -17,6 +17,7 @@ Ready to build your own now? Download your <a title="Personal Mission Statement"
 Mission Statement most likely reminds you of some generic statement on the wall of your company lobby or some highlighted phrase in your hiring paperwork. This statement was the focus of the company. Most CEO's or executives don't know their mission statement that their HR director created.
 
 <strong>A mission statement are your:</strong>
+
 <ul>
 	<li>skills</li>
 	<li>passions</li>

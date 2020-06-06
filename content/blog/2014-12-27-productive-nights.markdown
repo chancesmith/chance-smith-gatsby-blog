@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Reasons working at night seems more productive
-date: '2014-12-27T22:12:03.284Z'
+date: "2014-12-27T22Z"
 tags:
-- productivity-2
+  - productivity-2
 ---
 
 No one else is awake, and therefore there are less distractions.

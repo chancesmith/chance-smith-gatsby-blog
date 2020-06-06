@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Imagination: How you reach your dream.'
-date: '2015-01-09T22:12:03.284Z'
+title: "Imagination: How you reach your dream."
+date: "2015-01-09T22Z"
 tags:
-- ownership
+  - ownership
 ---
 
 Yes, work is great one day, then the next you’re in a lull.

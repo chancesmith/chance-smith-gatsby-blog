@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Leadership: She is Still Here?'
-date: '2012-11-08T22:12:03.284Z'
+title: "Leadership: She is Still Here?"
+date: "2012-11-08T22Z"
 tags:
-- accountability
-- leadership
-- no-gossip
+  - accountability
+  - leadership
+  - no-gossip
 ---
 
 "No, really! She is still here?"
@@ -13,6 +13,7 @@ tags:
 "I don't care if Lucy's sales numbers are great! She came in late twice, left early yesterday, and she spends more time on her phone than my teenager does in front of the TV!"
 
 At this point there are two things that mostly will happen:
+
 <ol>
 	<li> Gossip about you will begin.</li>
 	<li>Your good players are going to see themselves out the front door.</li>

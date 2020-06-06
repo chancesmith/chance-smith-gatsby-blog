@@ -1,6 +1,6 @@
 ---
 title: 2018 Review
-date: "2019-02-10T22:12:03.284Z'"
+date: "2019-02-10T22Z"
 tags:
   - goals
 ---

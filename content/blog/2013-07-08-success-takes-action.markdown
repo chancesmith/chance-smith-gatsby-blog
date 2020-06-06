@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Success Takes Action
-date: '2013-07-08T22:12:03.284Z'
+date: "2013-07-08T22Z"
 tags:
-- motivation
-- productivity-2
-- todo-list
+  - motivation
+  - productivity-2
+  - todo-list
 ---
 
 My wife thinks her day is cursed if she writes her todo list down. Once it hits her paper she believes that it will not get done. I have to agree that I have this problem from time to time. If I just fly by the seat of my pants I can get a whole lot done that I didn't have to plan for. Now there are two parts to this and I hope you take these ideas and turn them in to a action plan of your own.

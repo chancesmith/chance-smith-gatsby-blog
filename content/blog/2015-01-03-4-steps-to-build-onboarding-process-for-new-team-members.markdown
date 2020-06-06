@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 4 Steps to build an onboarding process for new team members
-date: '2015-01-03T22:12:03.284Z'
+date: "2015-01-03T22Z"
 tags:
-- leadership
-- onboarding
-- workshop
+  - leadership
+  - onboarding
+  - workshop
 ---
 
 ![cover-image](/content/images/2015/01/IMG_1213.jpg)

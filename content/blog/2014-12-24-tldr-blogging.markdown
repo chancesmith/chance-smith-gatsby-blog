@@ -1,9 +1,9 @@
 ---
 layout: post
 title: TLDR Blogging - Write Quick Helpful Posts
-date: '2014-12-24T22:12:03.284Z'
+date: "2014-12-24T22Z"
 tags:
-- tldr
+  - tldr
 ---
 
 Write a smaller version of your post to peak your readers interest. Save them time.

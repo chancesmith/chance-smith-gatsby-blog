@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Email Signature Creator
-date: "2014-12-18T22:12:03.284Z"
+date: "2014-12-18T22Z"
 tags:
   - web-development
 ---

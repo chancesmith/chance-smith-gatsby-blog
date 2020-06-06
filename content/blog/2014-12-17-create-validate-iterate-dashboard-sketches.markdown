@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Create-Validate-Iterate Dashboard Sketches
-date: "2014-12-17T22:12:03.284Z"
+date: "2014-12-17T22Z"
 tags:
   - strategy
 ---

@@ -1,6 +1,6 @@
 ---
 title: Custom Fields in Shopify
-date: "2019-03-08T10:12:03.284Z"
+date: "2019-03-08T10Z"
 ---
 
 With [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio-blog), I've used this tool before to put custom fields in for customers. It's not the ideal exprience for both devs and customer, but I thought a list of tools and the guide would be good for us all to share. 😁🤓

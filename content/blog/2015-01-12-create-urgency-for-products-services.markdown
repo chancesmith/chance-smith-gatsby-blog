@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'TLDR: How To Create Urgency For Your Product or Service'
-date: '2015-01-12T22:12:03.284Z'
+title: "TLDR: How To Create Urgency For Your Product or Service"
+date: "2015-01-12T22Z"
 tags:
-- tldr
-- strategy
+  - tldr
+  - strategy
 ---
 
 There are two ways to create urgency to get people to jump on your train.
 
-* time
-* number of units
+- time
+- number of units
 
 Limit either, or both.
 

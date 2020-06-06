@@ -1,23 +1,22 @@
 ---
 layout: post
 title: Project Manage Your Team and Self | TLDR
-date: '2015-01-25T22:12:03.284Z'
+date: "2015-01-25T22Z"
 tags:
-- productivity-2
-- tldr
-- project-management
+  - productivity-2
+  - tldr
+  - project-management
 ---
 
 Here are the questions I ask to keep myself productive. I'll also share a video next on how I use Asana, project management tool, to orginiaize my team, work and self.
 
 Questions:
 
-* What is in the queue for today?
-* What is the availablility?
-	* How busy are you?
-	* When can you take on more work?
-* Your cost in hours?
-	* How long does it take to complete each task?
+- What is in the queue for today?
+- What is the availablility?
+  _ How busy are you?
+  _ When can you take on more work?
+- Your cost in hours? \* How long does it take to complete each task?
 
 Setup:
 

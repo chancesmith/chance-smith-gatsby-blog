@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 13 Ways to onboard new team members easier and faster
-date: '2015-01-02T22:12:03.284Z'
+date: "2015-01-02T22Z"
 tags:
-- leadership
-- onboarding
+  - leadership
+  - onboarding
 ---
 
 I have interviewed and hired hundreds of team members. Once they have been hired, getting team members to a point where they feel comfortable and productive takes time and effort. I’ve found a few crucial things to do that can make the onboarding process easier on you, your company and even the new team member.

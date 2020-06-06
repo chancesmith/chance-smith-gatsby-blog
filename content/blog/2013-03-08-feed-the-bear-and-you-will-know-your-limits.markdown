@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Feed the Bear and You Will Know Your Limits
-date: '2013-03-08T22:12:03.284Z'
+date: "2013-03-08T22Z"
 tags:
-- motivation
-- successful-people
+  - motivation
+  - successful-people
 ---
 
 Feeding a bear? Now that sounds fun! I am scheduling a trip this year if you would like to join me. There is a signup form at the bottom for the "Bare Hand Bear Feeding" trip. Hope to see you there(sarcasm).
@@ -14,6 +14,7 @@ Maybe you are the person we all want to be and have done such a daring task and 
 A trait of a successful person is:<strong> being able to measure what yourself and others are capable of.</strong>
 
 Knowing where you, your friend, or team will peak at is a huge assest. You can choose wisely if you know what is possible. You can begin to know these limits and capabilities by doing the following:
+
 <ul>
 	<li>Listen and watch your friend or team members for areas of interest or success</li>
 	<li>Know your/their comfort zone</li>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Iterating off of the Lean Dashboard
-date: '2014-12-12T22:12:03.284Z'
+date: "2014-12-12T22Z"
 tags:
-- strategy
+  - strategy
 ---
 
 ![cover-image](/content/images/2014/12/lean-dashboard.png)
@@ -18,9 +18,9 @@ I love Maurya's dashboard, but I feel...
 
 ## The Dashboard Can Be Improved and Repurposed To Have...
 
-* multipurpose usecases
-* clear visual flow
-* multiple goals
+- multipurpose usecases
+- clear visual flow
+- multiple goals
 
 ## But Chance, You’re Screwing It Up
 
@@ -46,9 +46,9 @@ From the examples I’ve seen of the Lean Dashboard, the goal is always the same
 
 Example Goals:
 
-* 1,200 Users first quarter
-* 4,000 Users third quarter
-* 11,00 Users fourth quarter
+- 1,200 Users first quarter
+- 4,000 Users third quarter
+- 11,00 Users fourth quarter
 
 This is great for adding customers to your service and validating the business model. In a business that is already established there are serval goals that need to be achieved.
 
@@ -60,7 +60,7 @@ I’ve started sketches to rethinking the Lean Dashboard to help achieve the abo
 
 Maybe soon I'll have a name for it.
 
-
 ## #Kudos to
-* [Ash Maurya](http://practicetrumpstheory.com/)
-* [Lean Dashboard](http://leanstack.com/)
+
+- [Ash Maurya](http://practicetrumpstheory.com/)
+- [Lean Dashboard](http://leanstack.com/)

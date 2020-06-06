@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Building Motivation Muscles for Purpose
-date: '2013-01-08T22:12:03.284Z'
+date: "2013-01-08T22Z"
 tags:
-- motivation
-- purpose
+  - motivation
+  - purpose
 ---
 
 Welcome to the new year! The big 2013. Knowing that another year has past there is always a growing passion to do better this year. There isn't a huge shift in our lives on the 1st of January but we all are touched to innovate our situation. We want to make a change and finally show who we can be. We see this new year a turning point. It motivates us!
@@ -13,6 +13,7 @@ Motivation. Now that we can feel a little spark in our lives again let us get af
 
 You need to find your purpose
 This is no easy task to complete. This takes trial and error weighed against lots of action. As you may know my way through life starts with logic and lists. I need to know the routes to take and let me decipher from there. I recommend trying the following and answering the questions.
+
 <ul>
 	<li><span style="line-height: 13px"><span style="line-height: 13px"><strong>Read Proverbs and Ecclesiastes from the Bible</strong>. - Very short reads with great insight on wisdom. Wisdom leads to better paths and great decision making. I read a chapter of these two books every morning after my feet hit the ground.</span></span></li>
 	<li><strong>Volunteer your time in an area that your are skilled</strong>. A level of purpose comes through you serving others. Responsibly give the little you have and you will find you will receive more than you could have stolen or struggled for.</li>

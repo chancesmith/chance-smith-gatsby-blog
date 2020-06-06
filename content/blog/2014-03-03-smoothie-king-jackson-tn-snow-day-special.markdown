@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Snow Day Special - Smoothie King in Jackson, TN
-date: '2014-03-03T22:12:03.284Z'
+date: "2014-03-03T22Z"
 tags:
-- marketing
-- smoothie-king
+  - marketing
+  - smoothie-king
 ---
 
 Well everytime it gets cold around here the smoothie sales go down and that makes our team super sad. My wife, [Molly Smith](http://mollysmith.org), helped craft these posts to be relative to the Oscar winner film Frozen, by Disney.

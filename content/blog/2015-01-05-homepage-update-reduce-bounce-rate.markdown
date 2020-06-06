@@ -1,10 +1,10 @@
 ---
 layout: post
 title: homepage update - reduce bounce rate
-date: '2015-01-05T22:12:03.284Z'
+date: "2015-01-05T22Z"
 tags:
-- strategy
-- ab-testing
+  - strategy
+  - ab-testing
 ---
 
 I updated the homepage on Jan 3rd 2014.
@@ -38,4 +38,3 @@ I'm hoping that less options, graphic backgrounds, and ideal items of interest w
 
 #Next steps
 A/B testing is going to be next. I’ll want to test out text and background images that improve the bounce rate and CTR (click through rate). I'll build those tests in the next few weeks.
-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Put More Attention & Action into Your Values
-date: '2013-06-08T22:12:03.284Z'
+date: "2013-06-08T22Z"
 ---
 
 Distractions and laziness leads to our poverty, failures, and unhappiness no matter the case. If we do not plan for the future, set goals, and stay focused we will be <em>here</em> tomorrow. We will be standing in the exact same place we are today, tomorrow. For our lives to change we must change! This post helps with setting goals, "<a title="You Must Have Goals" href="http://www.chancesmith.org/if-you-dont-have-goals-you-plan-to-fail/" target="_blank">If You Don't Have Goals You Plan To Fail</a>."
@@ -20,5 +20,6 @@ The same amount of attention and actions put into our plans need to be in our va
 <strong>TeamWork/Honesty - </strong>"Hey Chance, I need some help could you come in for a bit?" I got this a lot at the restaurants that I managed. The choice was hard when it is your day off. It's harder if you just got off work and you are asked to go back. I knew that there would be situations in this person's life that they will be called to come in and this was a great time to be an example. There were cases that I couldn't but I made sure that I when I could help I was there. I also expressed a happiness to help and be there while I was there. They already know I rather be doing something else with my time away from the job but I wasn't going to show the slightest bit of frustration. Teamwork and honesty is the value that I have my attention set on.
 
 These happen to be more leadership examples but my actions had the same intention. Since my many failures, I have wanted to take action to my values and pay attention to the decisions I am making. I evaluate my progress daily by comparing myself to my mission statement. Your mission statement sets your values for your life and keeps you on track.
+
 <blockquote>You don't need a plan B, because it will only distract you from plan A" - Will Smith</blockquote>
 Your only plan is your mission statement. Build your <a title="Creating a Mission Statement" href="http://www.chancesmith.org/create-your-first-mission-statement/">Mission Statement</a> and put some action into your values.

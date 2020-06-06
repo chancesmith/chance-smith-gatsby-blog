@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Why great bosses want you on their team
-date: '2014-12-31T22:12:03.284Z'
+date: "2014-12-31T22Z"
 tags:
-- leadership
-- rockstar-effort
+  - leadership
+  - rockstar-effort
 ---
 
 And why most people are scared to get in your way.

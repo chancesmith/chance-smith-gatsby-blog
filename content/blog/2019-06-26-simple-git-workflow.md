@@ -1,6 +1,6 @@
 ---
 title: A Simple Git Workflow
-date: "2019-06-26T11:44:00.284Z"
+date: "2019-06-26T11Z"
 tags: GIT, Workflow
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Productivity: One Thing At A Time'
-date: '2012-11-21T22:12:03.284Z'
+title: "Productivity: One Thing At A Time"
+date: "2012-11-21T22Z"
 tags:
-- motivation
-- productivity-2
-- todo-list
+  - motivation
+  - productivity-2
+  - todo-list
 ---
 
 There is so much to do this week with work, traveling, family, and Thanksgiving  The one thing to have every morning is a todo list, if we are going to get everything done. Whether we make a list for the week or one every morning, it's best to have a method to the execution of the list. The first step to our productivity is planning where we want to be by the end of the day.

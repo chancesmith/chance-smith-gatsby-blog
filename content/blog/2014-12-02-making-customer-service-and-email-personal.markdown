@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to make email and customer service personal
-date: "2014-12-02T22:12:03.284Z"
+date: "2014-12-02T22Z"
 ---
 
 Want to make things personal for your clients?

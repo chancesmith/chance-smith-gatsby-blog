@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Monthly Update August 2012
-date: '2012-08-04T22:12:03.284Z'
+date: "2012-08-04T22Z"
 tags:
-- monthly-update-2
+  - monthly-update-2
 ---
 
 Well, August is here! I am rather excited! Besides the burning desire to end my summer class I am ready to embark on a few more business ventures, while I continue what I have. I have a few clients that I need to tie up loose ends with on website development. But I have been trying to reach out to a few older clients and help them on further developing the webspace they I helped them construct. So lets start with a few things I started in July and still working on.
@@ -25,6 +25,7 @@ Speaking of education, I absolutely love to learn. My wife and I always have thr
 
 <strong>Productivity</strong>
 This has ben a focus for me and wanted to push it to the blog. I have had so much trouble of staying focused and having all this time at home. It can sometimes be hard to keep your mind on the project at hand. I have been active in the area of how I can produce the most in the smallest amount of time (speaking of minimalist). Spending time with my wife is important and and building my income at home is the challenge. I am trying to tackle both with great intensity. For the majority of my time I feel I am not in the groove when the best opportunity arises to work or be with my wife. I am much like my mother and hate a regular routine. In my attempts to be productive I have done the following:
+
 <ol>
 	<li><strong>eat something for breakfast every morning (within the first 30mins)</strong>
 There is much need in stock piling your morning with high protein food for the body and mind. I know how I run on empty, thumbs down! Be productive by giving yourself the right fuel.</li>

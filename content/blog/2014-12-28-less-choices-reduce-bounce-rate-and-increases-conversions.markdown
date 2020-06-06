@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Less choices reduce bounce rate and increases conversions
-date: '2014-12-28T22:12:03.284Z'
+date: "2014-12-28T22Z"
 tags:
-- strategy
-- project
-- casestudy
-- ab-testing
+  - strategy
+  - project
+  - casestudy
+  - ab-testing
 ---
 
 ![cover-image](/content/images/2014/12/Axis-Deer-Hunting--Fallow-Deer-Hunting---Goodman-Ranch.png)

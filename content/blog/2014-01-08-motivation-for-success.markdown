@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Motivation for Success
-date: '2014-01-08T22:12:03.284Z'
+date: "2014-01-08T22Z"
 ---
 
 Welcome to the new year...again! The big 2014. It's time to role up your sleeves! Ready to do something different? Are you ready to find some success with your ?
@@ -11,6 +11,7 @@ Start taking action this year and read my Traites of Successful People posts.
 Option 1: Read each awesome motivational post.
 
 Killer Traites of Successful People
+
 <ol>
 	<li><a title="Building Your Purpose" href="http://www.chancesmith.org/building-motivation-muscles-for-success/">Know what your purpose is</a>.</li>
 	<li><a title="Create Your First Mission Statement" href="http://www.chancesmith.org/create-your-first-mission-statement/">Know your Mission</a> - Create a Mission Statement</li>
