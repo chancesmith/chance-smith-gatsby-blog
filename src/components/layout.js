@@ -9,7 +9,7 @@ import { rhythm, scale } from "../utils/typography";
 // #region Styled Components
 const NavLink = styled(Link)`
   margin: 1.2rem 0.5rem 0.4rem;
-  box-shadow: ${props => (props.isActive ? null : "none")};
+  box-shadow: ${(props) => (props.isActive ? null : "none")};
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
@@ -23,6 +23,7 @@ class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props;
     const isRootPath = location.pathname === `${__PATH_PREFIX__}/`;
+    const isAboutPath = location.pathname === `${__PATH_PREFIX__}/about`;
     const isBlogPath = location.pathname === `${__PATH_PREFIX__}/blog`;
     let header;
 
@@ -30,7 +31,7 @@ class Layout extends React.Component {
       header = (
         <div
           style={{
-            marginBottom: "0"
+            marginBottom: "0",
           }}
         >
           <span>
@@ -40,13 +41,13 @@ class Layout extends React.Component {
               style={{
                 width: 100,
                 height: 100,
-                borderRadius: "50%"
+                borderRadius: "50%",
               }}
             />
           </span>
         </div>
       );
-    } else if (isBlogPath) {
+    } else if (isBlogPath || isAboutPath) {
       header = (
         <>
           <span>
@@ -56,7 +57,7 @@ class Layout extends React.Component {
               style={{
                 width: 100,
                 height: 100,
-                borderRadius: "50%"
+                borderRadius: "50%",
               }}
             />
           </span>
@@ -66,14 +67,14 @@ class Layout extends React.Component {
               fontFamily: `Montserrat, sans-serif`,
               // fontFamily: `Major Mono Display, monospace`,
               // textTransform: "uppercase",
-              marginTop: "0px"
+              marginTop: "0px",
             }}
           >
             <Link
               style={{
                 boxShadow: `none`,
                 textDecoration: `none`,
-                color: `inherit`
+                color: `inherit`,
               }}
               to={`/`}
             >
@@ -87,21 +88,21 @@ class Layout extends React.Component {
         <div
           style={{
             display: `flex`,
-            marginTop: "12px"
+            marginTop: "12px",
           }}
         >
           <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
-              color: `inherit`
+              color: `inherit`,
             }}
             to={`/`}
           >
             <span>
               <StaticQuery
                 query={authorPhoto}
-                render={data => (
+                render={(data) => (
                   <Image
                     fixed={data.avatar.childImageSharp.fixed}
                     alt="chance smith"
@@ -109,10 +110,10 @@ class Layout extends React.Component {
                       marginRight: rhythm(1 / 2),
                       marginBottom: 0,
                       minWidth: 50,
-                      borderRadius: `100%`
+                      borderRadius: `100%`,
                     }}
                     imgStyle={{
-                      borderRadius: `50%`
+                      borderRadius: `50%`,
                     }}
                   />
                 )}
@@ -147,12 +148,12 @@ class Layout extends React.Component {
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(21),
-          padding: `${rhythm(0.4)} ${rhythm(3 / 4)} ${rhythm(1.5)}`
+          padding: `${rhythm(0.4)} ${rhythm(3 / 4)} ${rhythm(1.5)}`,
         }}
       >
         <div
           style={{
-            position: "relative"
+            position: "relative",
           }}
         >
           <div
@@ -160,11 +161,14 @@ class Layout extends React.Component {
               display: "flex",
               flexDirection: "row-reverse",
               position: "absolute",
-              right: 0
+              right: 0,
             }}
           >
             <NavLink to={`/blog`} isActive={isBlogPath}>
               Blog
+            </NavLink>
+            <NavLink to={`/about`} isActive={isAboutPath}>
+              About
             </NavLink>
             <NavLink to={`/`} isActive={isRootPath}>
               Front

@@ -8,13 +8,13 @@ function Bio() {
   return (
     <StaticQuery
       query={bioQuery}
-      render={data => {
+      render={(data) => {
         const { author } = data.site.siteMetadata;
         return (
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(2.5)
+              marginBottom: rhythm(2.5),
             }}
           >
             <Image
@@ -24,15 +24,15 @@ function Bio() {
                 marginRight: rhythm(1 / 2),
                 marginBottom: 0,
                 minWidth: 50,
-                borderRadius: `100%`
+                borderRadius: `100%`,
               }}
               imgStyle={{
-                borderRadius: `50%`
+                borderRadius: `50%`,
               }}
             />
             <p>
               Hi, I'm <strong>{author}</strong>. I reside in Jackson, TN
-              building motivated teams, and apps with Javascript with{" "}
+              coaching innovators, building motivated teams, and software with{" "}
               <a href="https://sodiumhalogen.com?ref=chancesmithio-blog">
                 Sodium Halogen
               </a>

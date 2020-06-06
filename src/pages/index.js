@@ -32,34 +32,21 @@ class Homepage extends React.Component {
               Get what you want.
             </span>
           </h1>
-          <p>
-            Chance is growing teams and building software at{" "}
-            <a href="https://sodiumhalogen.com?ref=chancesmith.io">
-              Sodium Halogen
-            </a>
-          </p>
-          {/* <p>
-            <strong>At home</strong> he helps his wife (Molly) with there three
-            boys (under 6). They enjoy dinner together, books, driveway bike
-            rides 😆, hammocks, swimming, night walks, and movie nights.
-          </p> */}
-          {/* <p>
-            <strong>Small Businesses</strong> hire him when they are looking to
-            build a scalable app that solves a problem for their team and/or
-            customer.
-          </p> */}
-          <p>
-            <strong>Chance has worked with</strong> prostigious and innovative
-            companies like: Chick-fil-a, Vanderbuilt University, and Popvox.
-            He's also a 4x 🥇🥇🥇🥇 1st place hackathon winner.
-          </p>
 
-          <h2>Store</h2>
+          <h2
+            style={{
+              marginBottom: "-28px",
+            }}
+          >
+            Store
+          </h2>
 
           <div
-            style={{
-              marginBottom: rhythm(1),
-            }}
+            style={
+              {
+                // marginBottom: rhythm(1),
+              }
+            }
           >
             <h3
               style={{
