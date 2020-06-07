@@ -38,33 +38,49 @@ class Layout extends React.Component {
             marginBottom: "0",
           }}
         >
-          <span>
-            <img
-              src="/chancesmith_s.jpg"
-              alt="chance smith"
-              style={{
-                width: 100,
-                height: 100,
-                borderRadius: "50%",
-              }}
-            />
-          </span>
+          <Link
+            to={`/`}
+            style={{
+              textDecoration: `none`,
+              boxShadow: "none",
+            }}
+          >
+            <span>
+              <img
+                src="/chancesmith_s.jpg"
+                alt="chance smith"
+                style={{
+                  width: 100,
+                  height: 100,
+                  borderRadius: "50%",
+                }}
+              />
+            </span>
+          </Link>
         </div>
       );
     } else if (isArchivePath || isAboutPath) {
       header = (
         <>
-          <span>
-            <img
-              src="/chancesmith_s.jpg"
-              alt="chance smith"
-              style={{
-                width: 100,
-                height: 100,
-                borderRadius: "50%",
-              }}
-            />
-          </span>
+          <Link
+            to={`/`}
+            style={{
+              textDecoration: `none`,
+              boxShadow: "none",
+            }}
+          >
+            <span>
+              <img
+                src="/chancesmith_s.jpg"
+                alt="chance smith"
+                style={{
+                  width: 100,
+                  height: 100,
+                  borderRadius: "50%",
+                }}
+              />
+            </span>
+          </Link>
           <h1
             style={{
               ...scale(1.4),
@@ -80,7 +96,7 @@ class Layout extends React.Component {
                 textDecoration: `none`,
                 color: `inherit`,
               }}
-              to={`/`}
+              to={location.pathname}
             >
               {title}
             </Link>
@@ -96,12 +112,11 @@ class Layout extends React.Component {
           }}
         >
           <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
             to={`/`}
+            style={{
+              textDecoration: `none`,
+              boxShadow: "none",
+            }}
           >
             <span>
               <StaticQuery
@@ -174,9 +189,6 @@ class Layout extends React.Component {
               </NavLink>
               <NavLink to={`/about`} isActive={isAboutPath}>
                 About
-              </NavLink>
-              <NavLink to={`/`} isActive={isRootPath}>
-                Front
               </NavLink>
             </div>
           </div>

@@ -5,6 +5,7 @@ import { Link } from "gatsby";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import { rhythm } from "../utils/typography";
+import Product from "../components/Product";
 
 class AboutPage extends React.Component {
   render() {
@@ -36,6 +37,28 @@ class AboutPage extends React.Component {
             companies like: Chick-fil-a, Vanderbuilt University, and Popvox.
             He's also a 4x 🥇🥇🥇🥇 1st place hackathon winner.
           </p>
+
+          <div>
+            <h2
+              style={{
+                marginBottom: rhythm(1),
+              }}
+            >
+              Resources/Tools
+            </h2>
+
+            <Product
+              title={`Hire-Me Kit 📒`}
+              price={20}
+              link="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
+              subTitle="A proven template to catch the their attention and get hired."
+            />
+            <Product
+              title={`Innovation Experiments 🧪`}
+              link="https://mailchi.mp/afcfe7027d87/innovationexperiments?ref=chancesmithio"
+              subTitle="Practical innovation tips for business owners and people who think like owners."
+            />
+          </div>
         </div>
       </Layout>
     );

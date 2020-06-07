@@ -4,8 +4,7 @@ import { Link, graphql } from "gatsby";
 // components
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import { rhythm } from "../utils/typography";
-import Product from "../components/Product";
+import { rhythm, scale } from "../utils/typography";
 
 class Homepage extends React.Component {
   render() {
@@ -33,13 +32,6 @@ class Homepage extends React.Component {
               </span>
             </h1>
 
-            <h2
-              style={{
-                marginBottom: rhythm(1),
-              }}
-            >
-              Latest Post
-            </h2>
             {[posts[0]].map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug;
               return (
@@ -49,58 +41,48 @@ class Homepage extends React.Component {
                     marginBottom: rhythm(1),
                   }}
                 >
-                  <p
-                    style={{
-                      marginBottom: rhythm(1 / 4),
-                    }}
+                  <h2
+                    style={
+                      {
+                        // marginBottom: rhythm(1 / 4),
+                      }
+                    }
                   >
-                    <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                    <Link
+                      style={{ boxShadow: `none`, textDecoration: "none" }}
+                      to={node.fields.slug}
+                      title={title}
+                    >
                       {title}
                     </Link>
+                  </h2>
+                  <p
+                    style={{
+                      ...scale(-1 / 5),
+                      display: `block`,
+                      marginBottom: rhythm(1),
+                      marginTop: rhythm(-1),
+                    }}
+                  >
+                    {/* {post.frontmatter.date} */}
+                    By{" "}
+                    <a href="/about" style={{ textDecoration: "none" }}>
+                      Chance Smith
+                    </a>
                   </p>
+                  <div dangerouslySetInnerHTML={{ __html: node.html }} />
+
                   {/* <small>{node.frontmatter.date}</small> */}
                   {/* <p dangerouslySetInnerHTML={{ __html: node.excerpt }} /> */}
                 </div>
               );
             })}
-          </div>
 
-          {/* <div>
-            <h2
-              style={{
-                marginBottom: "-28px",
-              }}
-            >
-              Resources
-            </h2>
-
-            <Product
-              title={`Think Like A Partner`}
-              link="#"
-              subTitle="Big wins when you think like you own it."
-            />
-          </div> */}
-
-          <div>
-            <h2
-              style={{
-                marginBottom: rhythm(1),
-              }}
-            >
-              Resources/Tools
-            </h2>
-
-            <Product
-              title={`Hire-Me Kit 📒`}
-              price={20}
-              link="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
-              subTitle="A proven template to catch the their attention and get hired."
-            />
-            <Product
-              title={`Innovation Experiments 🧪`}
-              link="https://mailchi.mp/afcfe7027d87/innovationexperiments?ref=chancesmithio"
-              subTitle="Practical innovation tips for business owners and people who think like owners."
-            />
+            <div style={{ textAlign: "center" }}>
+              <Link to={"/archive"} style={{ textDecoration: "none" }}>
+                See All Posts
+              </Link>
+            </div>
           </div>
         </div>
       </Layout>
@@ -127,6 +109,7 @@ export const pageQuery = graphql`
           frontmatter {
             title
           }
+          html
         }
       }
     }
