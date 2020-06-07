@@ -11,7 +11,7 @@ const Styles = styled.div`
   justify-content: space-evenly;
   /* align-items: center; */
   flex-wrap: nowrap;
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 715px) {
     display: block;
     & > div {
       width: 100%;
