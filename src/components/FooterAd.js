@@ -26,12 +26,12 @@ const FooterAd = () => {
           link="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
           subTitle="A proven template to catch the their attention and get hired."
         />
-        {/* <Product
+        <Product
           isAdBlock
-          title={`Think Like A Partner`}
-          link="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
-          subTitle="A proven template to catch the their attention and get hired."
-        /> */}
+          title={`Level-Up Mastermind 💪`}
+          link="/level-up-mastermind"
+          subTitle={`Join our monthly mastermind. A 1-hour live call connect and help you take actionable steps to ownership.`}
+        />
       </Styles>
     </div>
   );

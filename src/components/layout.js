@@ -28,6 +28,8 @@ class Layout extends React.Component {
     const { location, title, children } = this.props;
     const isRootPath = location.pathname === `${__PATH_PREFIX__}/`;
     const isAboutPath = location.pathname === `${__PATH_PREFIX__}/about`;
+    const isLevelUpMastermindPath =
+      location.pathname === `${__PATH_PREFIX__}/level-up-mastermind`;
     const isArchivePath = location.pathname === `${__PATH_PREFIX__}/archive`;
     let header;
 
@@ -59,7 +61,7 @@ class Layout extends React.Component {
           </Link>
         </div>
       );
-    } else if (isArchivePath || isAboutPath) {
+    } else if (isArchivePath || isAboutPath || isLevelUpMastermindPath) {
       header = (
         <>
           <Link
@@ -139,25 +141,6 @@ class Layout extends React.Component {
               />
             </span>
           </Link>
-          {/* <h3
-            style={{
-              fontFamily: `Montserrat, sans-serif`,
-              // fontFamily: `Major Mono Display, monospace`,
-              // textTransform: "uppercase",
-              marginTop: "12px"
-            }}
-          >
-            <Link
-              style={{
-                boxShadow: `none`,
-                textDecoration: `none`,
-                color: `inherit`
-              }}
-              to={`/`}
-            >
-              {title}
-            </Link>
-          </h3> */}
         </div>
       );
     }
