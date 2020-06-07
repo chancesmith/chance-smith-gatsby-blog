@@ -13,6 +13,7 @@ const NavLink = styled(Link)`
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
+  color: #999;
   &:hover {
     box-shadow: 0 1px 0 0 currentColor;
   }
@@ -24,7 +25,7 @@ class Layout extends React.Component {
     const { location, title, children } = this.props;
     const isRootPath = location.pathname === `${__PATH_PREFIX__}/`;
     const isAboutPath = location.pathname === `${__PATH_PREFIX__}/about`;
-    const isBlogPath = location.pathname === `${__PATH_PREFIX__}/blog`;
+    const isArchivePath = location.pathname === `${__PATH_PREFIX__}/archive`;
     let header;
 
     if (isRootPath) {
@@ -47,7 +48,7 @@ class Layout extends React.Component {
           </span>
         </div>
       );
-    } else if (isBlogPath || isAboutPath) {
+    } else if (isArchivePath || isAboutPath) {
       header = (
         <>
           <span>
@@ -164,8 +165,8 @@ class Layout extends React.Component {
               right: 0,
             }}
           >
-            <NavLink to={`/blog`} isActive={isBlogPath}>
-              Blog
+            <NavLink to={`/archive`} isActive={isArchivePath}>
+              Archive
             </NavLink>
             <NavLink to={`/about`} isActive={isAboutPath}>
               About

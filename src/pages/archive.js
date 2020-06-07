@@ -1,10 +1,8 @@
 import React from "react";
 import { Link, graphql } from "gatsby";
 
-import Bio from "../components/bio";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
-import { rhythm } from "../utils/typography";
 
 class BlogIndex extends React.Component {
   render() {
@@ -13,27 +11,20 @@ class BlogIndex extends React.Component {
     const posts = data.allMarkdownRemark.edges;
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title="All posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
-        />
-        <Bio />
+      <Layout location={this.props.location} title={"Archive"}>
+        <SEO title="Archive" keywords={[`blog`, `chance's blog`]} />
+        {/* <Bio /> */}
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug;
           return (
             <div key={node.fields.slug}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4)
-                }}
-              >
+              <small>{node.frontmatter.date}</small>
+              <h3 style={{ marginTop: "0" }}>
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
-              <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
+              {/* <p dangerouslySetInnerHTML={{ __html: node.excerpt }} /> */}
             </div>
           );
         })}
@@ -59,7 +50,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMM DD, YYYY")
             title
           }
         }
