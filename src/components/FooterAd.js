@@ -11,6 +11,13 @@ const Styles = styled.div`
   justify-content: space-evenly;
   /* align-items: center; */
   flex-wrap: nowrap;
+  @media only screen and (max-width: 500px) {
+    display: block;
+    & > div {
+      width: 100%;
+      margin: 0 0 1.2em;
+    }
+  }
 `;
 // #endregion
 
