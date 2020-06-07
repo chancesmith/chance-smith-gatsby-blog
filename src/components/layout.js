@@ -6,6 +6,9 @@ import Image from "gatsby-image";
 
 import { rhythm, scale } from "../utils/typography";
 
+// components
+import FooterAd from "./FooterAd";
+
 // #region Styled Components
 const NavLink = styled(Link)`
   margin: 1.2rem 0.5rem 0.4rem;
@@ -144,44 +147,60 @@ class Layout extends React.Component {
       );
     }
     return (
-      <div
-        style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          maxWidth: rhythm(21),
-          padding: `${rhythm(0.4)} ${rhythm(3 / 4)} ${rhythm(1.5)}`,
-        }}
-      >
+      <>
         <div
           style={{
-            position: "relative",
+            marginLeft: `auto`,
+            marginRight: `auto`,
+            maxWidth: rhythm(21),
+            padding: `${rhythm(0.4)} ${rhythm(3 / 4)} ${rhythm(1.5)}`,
           }}
         >
           <div
             style={{
-              display: "flex",
-              flexDirection: "row-reverse",
-              position: "absolute",
-              right: 0,
+              position: "relative",
             }}
           >
-            <NavLink to={`/archive`} isActive={isArchivePath}>
-              Archive
-            </NavLink>
-            <NavLink to={`/about`} isActive={isAboutPath}>
-              About
-            </NavLink>
-            <NavLink to={`/`} isActive={isRootPath}>
-              Front
-            </NavLink>
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "row-reverse",
+                position: "absolute",
+                right: 0,
+              }}
+            >
+              <NavLink to={`/archive`} isActive={isArchivePath}>
+                Archive
+              </NavLink>
+              <NavLink to={`/about`} isActive={isAboutPath}>
+                About
+              </NavLink>
+              <NavLink to={`/`} isActive={isRootPath}>
+                Front
+              </NavLink>
+            </div>
+          </div>
+          <header>{header}</header>
+          <main>{children}</main>
+        </div>
+        <div style={{ background: "#f5f5f5" }}>
+          <div
+            style={{
+              marginLeft: `auto`,
+              marginRight: `auto`,
+              // maxWidth: rhythm(21),
+              padding: `${rhythm(0.4)} ${rhythm(3 / 4)} ${rhythm(1.5)}`,
+              textAlign: "center",
+            }}
+          >
+            <FooterAd />
+            <footer>
+              © {new Date().getFullYear()},{" "}
+              <Link to="/about">Chance Smith</Link>
+            </footer>
           </div>
         </div>
-        <header>{header}</header>
-        <main>{children}</main>
-        <footer>
-          © {new Date().getFullYear()}, <Link to="/about">Chance Smith</Link>
-        </footer>
-      </div>
+      </>
     );
   }
 }
