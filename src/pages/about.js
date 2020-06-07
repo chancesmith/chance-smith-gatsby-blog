@@ -54,6 +54,11 @@ class AboutPage extends React.Component {
               subTitle="A proven template to catch the their attention and get hired."
             />
             <Product
+              title={`Level-Up Mastermind 💪`}
+              link="/level-up-mastermind"
+              subTitle={`Join our monthly mastermind. A 1-hour live call connect and help you take actionable steps to ownership.`}
+            />
+            <Product
               title={`Innovation Experiments 🧪`}
               link="https://mailchi.mp/afcfe7027d87/innovationexperiments?ref=chancesmithio"
               subTitle="Practical innovation tips for business owners and people who think like owners."

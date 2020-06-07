@@ -7,7 +7,7 @@ import SEO from "../components/seo";
 class LevelUpPage extends React.Component {
   render() {
     return (
-      <Layout location={this.props.location} title="Level-Up Mastermind">
+      <Layout location={this.props.location} title="Level-Up Mastermind 💪">
         <SEO
           title="Level-Up Mastermind"
           keywords={[`Level-Up Mastermind`, "chance smith membership"]}
@@ -27,10 +27,10 @@ class LevelUpPage extends React.Component {
           </p>
           <h2>How do I join?</h2>
           <p>
-            <a href="https://www.linkedin.com/in/chancesmith/">
-              Connect with me on LinkedIn
-            </a>{" "}
-            and then send me:
+            We're just getting started, so let's keep it simple. Just message me
+            on <a href="https://www.linkedin.com/in/chancesmith/">LinkedIn</a>{" "}
+            or <a href="https://twitter.com/Chance_Smith">Twitter</a> and then
+            send me:
           </p>
           <blockquote>
             <q>
