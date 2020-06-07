@@ -20,5 +20,8 @@ main ol {
 }
 
 a {
-  color: #86a5ba;
+  color: hsla(0, 0%, 0%, 0.9);
+}
+main a {
+  text-decoration: underline;
 }

@@ -35,7 +35,7 @@ class Homepage extends React.Component {
 
             <h2
               style={{
-                marginBottom: "-28px",
+                marginBottom: rhythm(1),
               }}
             >
               Latest Post
@@ -49,7 +49,7 @@ class Homepage extends React.Component {
                     marginBottom: rhythm(1),
                   }}
                 >
-                  <h3
+                  <p
                     style={{
                       marginBottom: rhythm(1 / 4),
                     }}
@@ -57,7 +57,7 @@ class Homepage extends React.Component {
                     <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                       {title}
                     </Link>
-                  </h3>
+                  </p>
                   {/* <small>{node.frontmatter.date}</small> */}
                   {/* <p dangerouslySetInnerHTML={{ __html: node.excerpt }} /> */}
                 </div>
@@ -84,17 +84,22 @@ class Homepage extends React.Component {
           <div>
             <h2
               style={{
-                marginBottom: "-28px",
+                marginBottom: rhythm(1),
               }}
             >
-              Store
+              Resources/Tools
             </h2>
 
             <Product
-              title={`"Hire Me" Kit 📒`}
+              title={`Hire-Me Kit 📒`}
               price={20}
               link="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
-              subTitle="A proven template to catch the their attention."
+              subTitle="A proven template to catch the their attention and get hired."
+            />
+            <Product
+              title={`Innovation Experiments 🧪`}
+              link="https://mailchi.mp/afcfe7027d87/innovationexperiments?ref=chancesmithio"
+              subTitle="Practical innovation tips for business owners and people who think like owners."
             />
           </div>
         </div>
@@ -120,7 +125,6 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
             title
           }
         }

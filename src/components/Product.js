@@ -14,17 +14,18 @@ const Product = ({ title, price, orgPrice, subTitle, link }) => {
         marginBottom: rhythm(1),
       }}
     >
-      <h3
+      <p
         style={{
+          marginTop: rhythm(1 / 4),
           marginBottom: rhythm(1 / 4),
           display: "inline-block",
         }}
       >
         <Link style={{ boxShadow: `none` }} to={link}>
           {title}
-          {!!price && <Price price={price} orgPrice={orgPrice} />}
         </Link>
-      </h3>
+        {!!price && <Price price={price} orgPrice={orgPrice} />}
+      </p>
       {` — `}
       <small>{subTitle}</small>
     </div>
