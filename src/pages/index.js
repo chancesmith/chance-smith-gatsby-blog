@@ -80,7 +80,7 @@ class Homepage extends React.Component {
 
             <div style={{ textAlign: "center" }}>
               <Link to={"/archive"} style={{ textDecoration: "none" }}>
-                See All Posts
+                See All Posts >>
               </Link>
             </div>
           </div>
