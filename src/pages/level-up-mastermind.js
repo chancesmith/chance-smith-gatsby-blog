@@ -12,6 +12,7 @@ class LevelUpPage extends React.Component {
           title="Level-Up Mastermind"
           keywords={[`Level-Up Mastermind`, "chance smith membership"]}
         />
+
         <div>
           <p>
             Are you a innovator, entrepreneur or founder seeking community on a

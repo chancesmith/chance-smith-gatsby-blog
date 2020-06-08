@@ -27,7 +27,15 @@ const Styles = styled.div`
 `;
 // #endregion
 
-const Product = ({ isAdBlock, title, price, orgPrice, subTitle, link }) => {
+const Product = ({
+  isAdBlock,
+  title,
+  price,
+  orgPrice,
+  subTitle,
+  link,
+  image,
+}) => {
   return (
     <>
       {isAdBlock ? (
@@ -41,7 +49,7 @@ const Product = ({ isAdBlock, title, price, orgPrice, subTitle, link }) => {
                   fontSize: rhythm(1),
                 }}
               >
-                {title}
+                {!!image ? <img src={image} alt={image} /> : title}
                 <br />
                 {!!price && <Price price={price} orgPrice={orgPrice} />}
               </p>

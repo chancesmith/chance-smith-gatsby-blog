@@ -27,7 +27,7 @@ class BlogPostTemplate extends React.Component {
         Did I help or save you time?
         <br />
         <a href="http://bit.ly/34OpqXm" className="decoration-none">
-          <img src={bmcButtonSvg} width="180px" />
+          <img src={bmcButtonSvg} width="180px" alt="Buy Me Coffee" />
         </a>
       </p>,
     ];

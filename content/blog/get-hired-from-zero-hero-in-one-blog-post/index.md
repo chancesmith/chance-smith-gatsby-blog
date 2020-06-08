@@ -10,7 +10,9 @@ If we haven't met, I'm Chance. My superpower is revealing value. Looking for the
 
 I've had 15 jobs, started businesses, and partnered with others. I taught myself computer programming only later to go to college for further learning. I've built systems for growing teams and love my work.
 
-So, you already know your goals and have found the gig of your dreams. **I want to help you get to the work you love.** That's why you are here. Now let's shine some light on *your value*.
+Not a convential path, and can help you level-up faster.
+
+Let's say, you already know your goals and have found the gig of your dreams. **I want to help you get to the work you love.** That's why you are here. To *get hired*. Now let's shine some light on *your value*.
 
 ## What if I haven't found work I love?
 
@@ -70,9 +72,9 @@ Awesome! You are ready to level up. You need to start thinking like an owner or 
 
 ### Get Re-Hired Everyday: Improve the Foyer
 
-It's just like the above when you need a job. Now you are thinking how do I get this job everyday. 
+It's just like the above when you need a job. Now you are thinking how do I get this job everyday.
 
-Most likely what gets you hired has a wow-facter. Keep that wow-factor going. 
+Most likely what gets you hired has a wow-facter. Keep that wow-factor going.
 
 You should always be looking for the most visible impact for the company and your customers.
 

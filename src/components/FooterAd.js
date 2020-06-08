@@ -29,14 +29,16 @@ const FooterAd = () => {
         <Product
           isAdBlock
           title={`Hire Me! Kit 📒`}
+          image={`/hire-me-ad-3.jpg`}
           link="/hire-me-kit"
           subTitle="A proven template to catch the their attention and get hired."
         />
         <Product
           isAdBlock
           title={`Level-Up Mastermind 💪`}
+          image={`/level-up-ad-3.jpg`}
           link="/level-up-mastermind"
-          subTitle={`Join our monthly mastermind. A 1-hour live call connect and help you take actionable steps to ownership.`}
+          subTitle={`Join our monthly mastermind to connect and help you take actionable steps to ownership.`}
         />
       </Styles>
     </div>
