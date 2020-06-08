@@ -49,13 +49,20 @@ const HireMeKitPage = (props) => {
             </p>
 
             <p>
+              After a big career switch from restaurant/retail to creative and
+              software work, I've experienced a role. Also, I've conducted
+              hundreds of interviews and hires. Over my career, I've have
+              collected a fine-tuned way of getting hired.
+            </p>
+
+            <p>
               We are often aware of our wants, but rarely know what the next
-              step is to getting them. When it comes to getting a job, our
-              mental patterns are:
+              step is to getting reach those goals. When it comes to getting a
+              job, our mental patterns are:
             </p>
 
             <ul>
-              <li>"I'm not ready."</li>
+              <li>"I'm not ready just yet."</li>
               <li>"They(company) aren't ready to hire now"</li>
               <li>"I'm not skilled enough."</li>
               <li>"That company isn't hiring."</li>
