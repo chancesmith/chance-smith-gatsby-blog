@@ -15,7 +15,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-favicon`,
       options: {
-        logo: "./public/chance-smith.png",
+        logo: "./static/chance-smith.png",
 
         // WebApp Manifest Configuration
         appName: null, // Inferred with your package.json

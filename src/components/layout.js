@@ -28,6 +28,8 @@ class Layout extends React.Component {
     const { location, title, children } = this.props;
     const isRootPath = location.pathname === `${__PATH_PREFIX__}/`;
     const isAboutPath = location.pathname === `${__PATH_PREFIX__}/about`;
+    const isHireMeKitPath =
+      location.pathname === `${__PATH_PREFIX__}/hire-me-kit`;
     const isLevelUpMastermindPath =
       location.pathname === `${__PATH_PREFIX__}/level-up-mastermind`;
     const isArchivePath = location.pathname === `${__PATH_PREFIX__}/archive`;
@@ -61,7 +63,12 @@ class Layout extends React.Component {
           </Link>
         </div>
       );
-    } else if (isArchivePath || isAboutPath || isLevelUpMastermindPath) {
+    } else if (
+      isArchivePath ||
+      isAboutPath ||
+      isLevelUpMastermindPath ||
+      isHireMeKitPath
+    ) {
       header = (
         <>
           <Link

@@ -28,9 +28,8 @@ const FooterAd = () => {
       <Styles>
         <Product
           isAdBlock
-          title={`Hire-Me Kit 📒`}
-          price={20}
-          link="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io"
+          title={`Hire Me! Kit 📒`}
+          link="/hire-me-kit"
           subTitle="A proven template to catch the their attention and get hired."
         />
         <Product
