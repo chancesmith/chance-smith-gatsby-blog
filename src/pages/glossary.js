@@ -8,10 +8,10 @@ import GlossaryTerm from "../components/GlossaryTerm";
 class GlossaryPage extends React.Component {
   render() {
     return (
-      <Layout location={this.props.location} title={"About Chance"}>
+      <Layout location={this.props.location} title={"Glossary | Chance Smith"}>
         <SEO
-          title="About"
-          keywords={[`about chance`, "about chance smith", "chance smith"]}
+          title="Glossary | Chance Smith"
+          keywords={[`glossary chance`, "glossary chance smith"]}
         />
         <div>
           <div>
