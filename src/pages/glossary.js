@@ -15,8 +15,10 @@ class GlossaryPage extends React.Component {
         />
         <div>
           <div>
-            <GlossaryTerm term="thing" definition="this is the definition" />
-            <GlossaryTerm term="thing2" definition="this is the definition2" />
+            <h1>Glossary</h1>
+
+            <GlossaryTerm term="Work Out Load" definition="Sharing your work often for the accountability and feedback. Don't work on an island." />
+            <GlossaryTerm term="Essential Releases" definition="Releasing early with simply-enough so you can get feedback sooner." />
           </div>
         </div>
       </Layout>
