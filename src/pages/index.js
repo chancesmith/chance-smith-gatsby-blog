@@ -23,12 +23,12 @@ class Homepage extends React.Component {
                 fontSize: "3.60675rem",
               }}
             >
-              Take ownership.
+              Team building.
               <br />
               <span style={{ fontSize: ".7em", color: "#777" }}>
-                Express what you want.
+                Skilling up and showing
                 <br />
-                Go after it.
+                off your team.
               </span>
             </h1>
 
