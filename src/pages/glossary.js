@@ -18,7 +18,8 @@ class GlossaryPage extends React.Component {
             <h1>Glossary</h1>
 
             <GlossaryTerm term="3Ws" definition="Prevent your customers from wondering, waiting or worrying, which comes from *Burn Your Portfolio* by Michael Janda." />
-            <GlossaryTerm term="Essential Releases" definition="Releasing early with simply-enough so you can get feedback sooner." />
+            <GlossaryTerm term="Essential Releases" definition="Releasing early with simply-enough so you can get feedback sooner. See also: Feature-Boxing" />
+            <GlossaryTerm term="Feature-Boxing" definition="Reduce down to the requirements, only spending a portion of your budget, to insure there are leftover resources for the nice-to-have features." />
             <GlossaryTerm term="Work Out Load" definition="Sharing your work often for the accountability and feedback. Don't work on an island. Disseminating knowledge. Giving a pulse of what you are doing and what is going on. The goal is to prevent clients and the team from the 3Ws. See also: 3Ws" />
           </div>
         </div>
