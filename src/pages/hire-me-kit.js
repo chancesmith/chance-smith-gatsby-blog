@@ -105,7 +105,7 @@ const HireMeKitPage = (props) => {
             </p>
 
             <h3 style={{ textAlign: "center" }}>
-              <a href="https://www.buymeacoffee.com/l/internhireme?rel=chancesmith.io">
+              <a href="https://www.buymeacoffee.com/l/internhireme?rel=chancesmithio">
                 Pre-Order the Hire Me! Kit
               </a>
             </h3>

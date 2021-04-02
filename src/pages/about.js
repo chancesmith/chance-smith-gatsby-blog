@@ -17,7 +17,7 @@ class AboutPage extends React.Component {
         <div>
           <p>
             Chance is growing teams and building software at{" "}
-            <a href="https://sodiumhalogen.com?ref=chancesmith.io">
+            <a href="https://sodiumhalogen.com?ref=chancesmithio">
               Sodium Halogen
             </a>
           </p>

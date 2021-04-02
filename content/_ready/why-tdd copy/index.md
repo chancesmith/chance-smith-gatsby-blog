@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why TDD?"
+title: "TDD: Get me started"
 date: "2021-04-05T08Z"
 tags: development, testing, sodium halogen
 ---
@@ -48,4 +48,4 @@ Start now. Worry about doing it wrong later.
 
 ## Need help getting started?
 
-Our team would be [happy to help you get started](https://sodiumhalogen.com?ref=chancesmith.io) with testing Python, C#, or Javascript.
+Our team would be [happy to help you get started](https://sodiumhalogen.com?ref=chancesmithio) with testing Python, C#, or Javascript.

@@ -33,7 +33,7 @@ function Bio() {
             <p>
               Hi, I'm <strong>{author}</strong>. I reside in Jackson, TN
               coaching innovators, building motivated teams, and software with{" "}
-              <a href="https://sodiumhalogen.com?ref=chancesmithio-blog">
+              <a href="https://sodiumhalogen.com?ref=chancesmithio">
                 Sodium Halogen
               </a>
               .<br />
