@@ -14,7 +14,7 @@ class Homepage extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="Take Ownership" keywords={[`chance smith`]} />
+        <SEO title="Team building. Skilling up and showing off your team." keywords={[`chance smith`]} />
         <div>
           <div>
             <h1
@@ -80,7 +80,7 @@ class Homepage extends React.Component {
 
             <div style={{ textAlign: "center" }}>
               <Link to={"/archive"} style={{ textDecoration: "none" }}>
-                See All Posts >>
+                See All Posts &gt;&gt;
               </Link>
             </div>
           </div>
