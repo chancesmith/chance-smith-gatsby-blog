@@ -31,7 +31,7 @@ const FooterAd = () => {
           title={`Hire Me! Kit 📒`}
           image={`/hire-me-ad-3.jpg`}
           link="/hire-me-kit"
-          subTitle="A proven template to catch the their attention and get hired."
+          subTitle="A proven template to catch their attention and get hired."
         />
         <Product
           isAdBlock
