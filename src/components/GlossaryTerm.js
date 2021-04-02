@@ -7,15 +7,17 @@ const Product = ({
   term,
   definition
 }) => {
+
+  const cleanTerm = term.trim().toLowerCase().replace(/(\s+)/g, "-")
   return (
     <>
       <h2
-        id={term.toLowerCase()}
+        id={cleanTerm}
         style={{
           marginBottom: rhythm(1),
         }}
       >
-        {term} <a href={`#${term}`}>#</a>
+        {term} <a href={`#${cleanTerm}`}>#</a>
       </h2>
       <p>
         {definition}
