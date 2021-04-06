@@ -7,7 +7,11 @@ tags: development, testing, sodium halogen
 
 ## New to testing and TDD?
 
-It's helped out team at Sodium Halogen to speak the lingo.
+It's helped out the team at Sodium Halogen to speak the lingo. Enjoy the list and examples.
+
+Sources:
+- [xunitpatterns.com](http://xunitpatterns.com/)
+- [Uncle Bob](https://blog.cleancoder.com/)
 
 ## Test titles template
 
