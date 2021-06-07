@@ -43,6 +43,8 @@ Should we still be seperating concerns and [decoupling the styles from HTML](htt
 
 Dan Mal and Bradfrost [show off their designer and developer workflow](https://bradfrost.com/blog/post/designer-developer-workflow/) where the two roles work in parallel...instead of a [waterfall design](https://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system-redux/) like workflow.
 
+> "It’s a shame to see a ton of hard work go into static designs only to see all that thinking, detail, and nuance get washed away when it’s translated into code." - Brad Frost
+
 ## CSS Component Style Guide Tools
 
 Here are the ones I want to explore:
