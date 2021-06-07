@@ -31,6 +31,18 @@ Brad also mentions how he [architects CSS for design systems](https://bradfrost.
 
 This global style sheets thinking will be a bit painful to go back to, but worth revisiting. We need a system we can grow with and help us move with speed.
 
+I was then lead down a path of reading...
+
+The new CSS variables are very valuble and I wondered how they fit in a [global and component style settings](https://www.sarasoueidan.com/blog/style-settings-with-css-variables/) setup. Sarah talks about building a internal UI kit that very close to want to we want.
+
+Going back to the roots of [BEM + Atomic design](https://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use)
+
+Then considering how CSS-in-JS has been introduced.
+
+Should we still be seperating concerns and [decoupling the styles from HTML](https://www.smashingmagazine.com/2012/04/decoupling-html-from-css/)?
+
+Dan Mal and Bradfrost [show off their designer and developer workflow](https://bradfrost.com/blog/post/designer-developer-workflow/) where the two roles work in parallel...instead of a [waterfall design](https://bradfrost.com/blog/post/your-sketch-library-is-not-a-design-system-redux/) like workflow.
+
 ## CSS Component Style Guide Tools
 
 Here are the ones I want to explore:
