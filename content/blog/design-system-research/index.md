@@ -45,13 +45,15 @@ Dan Mal and Bradfrost [show off their designer and developer workflow](https://b
 
 > "It’s a shame to see a ton of hard work go into static designs only to see all that thinking, detail, and nuance get washed away when it’s translated into code." - Brad Frost
 
+Okay, reguardless of having picked a  methodology or workflow, let's get a few tools us developers can use.
+
 ## CSS Component Style Guide Tools
 
 Here are the ones I want to explore:
 
+- [Pattern Lab](https://patternlab.io/?ref=chancesmith.io): made by Dan Mal + Brad Frost, uses SASS to build a global style sheet we can use in a CDN
 - [Storybook](https://storybook.js.org/?ref=chancesmith.io): we've used this in the past, but is specific to React/Vue/Angular
 - [Fractal](https://fractal.build/?ref=chancesmith.io): worth a shot
-- [Pattern Lab](https://patternlab.io/?ref=chancesmith.io): made by Dan Mal + Brad Frost, uses SASS to build a global style sheet we can use in a CDN
 
 I'm interested in trying more, but these are where I'll start and add a few components to see which fits our team and our future best.
 
