@@ -26,3 +26,7 @@ main a {
   box-shadow: none;
   text-decoration: underline;
 }
+
+blockquote {
+  border-color: #9c9c9c;
+}
