@@ -23,8 +23,8 @@ const Styles = styled.div`
 
 const FooterAd = () => {
   return (
-    <div>
-      <h2 style={{ textAlign: "center" }}>Resources to change your career</h2>
+    <>
+      {/* <h2 style={{ textAlign: "center" }}>Resources to change your career</h2>
       <Styles>
         <Product
           isAdBlock
@@ -40,8 +40,8 @@ const FooterAd = () => {
           link="/level-up-mastermind"
           subTitle={`Join our monthly mastermind to connect and help you take actionable steps to ownership.`}
         />
-      </Styles>
-    </div>
+      </Styles> */}
+    </>
   );
 };
 
