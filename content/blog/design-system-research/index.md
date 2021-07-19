@@ -6,7 +6,7 @@ tags: frontend, development
 ---
 
 Updated 6/12/21: adding talk out loud video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OaG1ndLQgdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/OaG1ndLQgdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Frontend work and tools have changed so much in the last 15 years since I started development work. In the past couple of years, we've defined *how we work* so we can speak the same vocabulary and deliver consistent results. This week, I'm wanting to look at building a CSS styling process our team and our clients' teams can be guided by.
 
