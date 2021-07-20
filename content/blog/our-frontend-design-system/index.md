@@ -29,7 +29,7 @@ We [researched design systems](/design-system-research/) and have had years of d
 
    With the benefit of even more specificity, this helps our team stay in the appropriate lane if what we are creating is either a component, layout, or utility.
 
-### 4. We use "em" for width and spacing with a base of 8px
+### 4. We use "rem" for width and spacing with a base of 8px
 
    For the design, factors of 8px keep the design consistent, and we can recreate this in our CSS styles.
 
