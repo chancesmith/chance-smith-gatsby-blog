@@ -5,7 +5,7 @@ date: "2021-07-20T08Z"
 tags: development, sodium halogen
 ---
 
-With a bit of [design system research](/design-system-research/) and years of different methods of turning mocks into code, we've defined how we work with designing in the browser. This post shares how we codify the design system a designer adds to their mocks.
+We [researched design systems](/design-system-research/) and have had years of different methods turning mocks into code. We've now defined how-we-work for putting designs in the browser. This post shares how we codify the design system a designer adds to their mocks. This is simple and gives a starting point for making decisions.
 
 ## How we implement design
 
