@@ -16,15 +16,29 @@ Here is a list of content and videos I would follow if I was wanting to get ampe
 5. 💻 Play vim adventure game
 6. [🎥 First week tutorial](https://www.youtube.com/watch?v=H3o4l4GVLW0)
 
-## Week 1 - Start with these commands
+## Week 1 -
 
-Get fluent in these commands for the first week
+You don't want to sacrifice all of your speed with the editor you know.
+
+Add Vim to your current editor and only use the mouse when needed.
+### Start with these commands
+
+Get fluent in these commands for the first week.
 
 - **hjkl** - up down left right
 - **w** - jump foward by word
 - **b** - back by work
+- **y** - copy/yank
+- **p** - paste
+- **dd** - delete a line
+- **u** - undo
 
-## Remove from your workflow
+## Change your workflow
 
-- touching the mouse while editing code
-- using the arrow keys
+- don't touch the mouse while editing code
+- no more arrow keys
+- hide your file tree and change files with your editor's shortcut key (vscode: CMD + P or CTRL + P)
+
+## Conclusion
+
+Vim is a powerful tool if you take the time to learn it.

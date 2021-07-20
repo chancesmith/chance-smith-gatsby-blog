@@ -5,7 +5,7 @@ date: "2021-06-05T08Z"
 tags: frontend, development
 ---
 
-Updated 6/12/21: adding talk out loud video
+Updated 6/12/21: adding talk-out-loud video
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/OaG1ndLQgdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Frontend work and tools have changed so much in the last 15 years since I started development work. In the past couple of years, we've defined *how we work* so we can speak the same vocabulary and deliver consistent results. This week, I'm wanting to look at building a CSS styling process our team and our clients' teams can be guided by.
@@ -48,7 +48,7 @@ Dan Mal and Brad Frost [show off their designer and developer workflow](https://
 
 > "It’s a shame to see a ton of hard work go into static designs only to see all that thinking, detail, and nuance get washed away when it’s translated into code." - Brad Frost
 
-Okay, reguardless of having picked a  methodology or workflow, let's get a few tools us developers can use.
+Okay, regardless of having picked a  methodology or workflow, let's get a few tools us developers can use.
 
 ## CSS Component Style Guide Tools
 
@@ -60,4 +60,4 @@ Here are the ones I want to explore:
 
 I'm interested in trying more, but these are where I'll start and add a few components to see which fits our team and our future best.
 
-to be continued...✍️
+[to be continued...](/our-frontend-design-system/)
