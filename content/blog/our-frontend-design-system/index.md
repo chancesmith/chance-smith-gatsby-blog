@@ -11,28 +11,31 @@ We [researched design systems](/design-system-research/) and have had years of d
 
 ### 1. We create markup and styles first in a component library (Storybook)
 
-   Storybook elements are made in order:
-      - Atom
-      - Molecule
-      - Organism
-      - Layout
+Moving designs from XD to the browser. The browser is the final destination to review and improve.
+
+Storybook elements in isolation from native HTML to full layouts in order:
+
+- **Atom** (native elements with no classes, colors)
+- **Molecule** (inputs, labels, buttons, error, logo, navigation)
+- **Organism** (field with label + input + error, sidebar/header)
+- **Layout** (sidebar + header + main-content)
 
 ### 2. We use SCSS + BEM + utility classes
 
-   SCSS helps develop CSS faster.
+SCSS helps develop CSS faster.
 
-   BEM keeps the components from overlapping with other styles in the app.
+BEM keeps the components from overlapping with other styles in the app.
 
-   Utility classes cover small adjustments when needed, where adding another class component would be overkill.
+Utility classes cover minor adjustments when needed, where adding another class component would be overkill.
 
 ### 3. We prefix classes with **c-** (component), **l-** (layout), **u-** (utility)
 
-   With the benefit of even more specificity, this helps our team stay in the appropriate lane if what we are creating is either a component, layout, or utility.
+With the benefit of even more specificity, this helps our team stay in the appropriate lane if what we are creating is either a component, layout, or utility.
 
 ### 4. We use "rem" for width and spacing with a base of 8px
 
-   For the design, factors of 8px keep the design consistent, and we can recreate this in our CSS styles.
+For the design, factors of 8px keep the design consistent, and we can recreate this in our CSS styles.
 
 ### 5. We use —css-variables
 
-   CSS variables make overwriting other colors a breeze.
+CSS variables cascade, making overwriting other colors a breeze.
