@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Focus: Get Closer to Zero"
-date: "2021-08-013T08Z"
+date: "2021-08-13T08Z"
 tags: productivity
 ---
 
