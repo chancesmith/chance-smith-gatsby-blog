@@ -14,6 +14,9 @@ const WorkshopsPage = (props) => {
       <section>
         <h1>Javascript Fundamentals Workshop</h1>
         <p>
+          <strong>$150 – 3 hour workshop</strong>
+        </p>
+        <p>
           Take someone with no knowledge of computer programming and get them
           started with JavaScript
         </p>
@@ -41,7 +44,9 @@ const WorkshopsPage = (props) => {
           Hi, I’m Chance Smith! In this workshop, I’ll help you build a
           foundation in JavaScript. We will start out with common parts in
           JavaScript, build up to variables and functions, and finally use
-          GitHub Pages to put your code on the web.
+          GitHub Pages to put your code on the web. Please email me at{" "}
+          <a href="mailto:chance@sodiumhalogen.com">chance@sodiumhalogen.com</a>{" "}
+          if you have questions at all.
         </p>
 
         <strong>By the end of the workshop, you will:</strong>

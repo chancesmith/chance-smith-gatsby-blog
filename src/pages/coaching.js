@@ -25,51 +25,40 @@ const WorkshopsPage = (props) => {
           if you have questions at all.
         </p>
 
-        <h2>Pair-Coding Day (6+ hours) - $600/day</h2>
-
+        <h2>Pair-Coding Day (6+ hours) - $600</h2>
         <p>
           A full day of pairing on real projects. You get to see real
           development processes on large projects.{" "}
           <span style={{ backgroundColor: "yellow" }}>
-            NOTE: Pair-Coding is SOLD OUT through the end of October. Please
-            check back in November 2021.
+            NOTE: Pair-Coding is SOLD OUT through the end of September. Please
+            check back in October 2021.
           </span>
         </p>
 
         <p>
-          {/* https://calendly.com/chance/pair-coding-day */}
-          <a
-            href="#"
-            onClick={() =>
-              alert(
-                "Pair-Coding is SOLD OUT through the end of October. Please check back in November 2021."
-              )
-            }
-          >
+          <a href="https://calendly.com/chance/pair-coding-day">
             Reserve your spot
           </a>{" "}
           (limited spots)
         </p>
 
-        <h2>Workshops</h2>
+        {/* <h2>Workshops</h2> */}
         {/* <p>Reserve your spot for upcoming workshop.</p> */}
 
-        <div className="workshops">
-          <div className="workshop">
-            <h3 className="workshop__title">
-              Javascript Fundamentals Workshop - $150
-            </h3>
-            <p className="workshop__description">
-              Geared for 12-17 and 18+ year olds that have great imaginations,
-              like figuring out how things work, or just love technology. This
-              workshop will introduce them to basic programming concepts—no
-              prior experience is needed. 3 hours on a Saturday.
-            </p>
-            <a href="/workshop-javascript" className="worksop__link">
-              Enroll Now &gt;&gt;
-            </a>
-          </div>
-          {/* <div className="workshop">
+        <div className="workshop">
+          <h2>Javascript Fundamentals Workshop - $150</h2>
+          <p className="workshop__description">
+            Geared for 12-17 and 18+ year olds that have great imaginations,
+            like figuring out how things work, or just love technology. This
+            workshop will introduce them to basic programming concepts—no prior
+            experience is needed. 3 hours on a Saturday.
+          </p>
+          <a href="/workshop-javascript" className="worksop__link">
+            Enroll Now &gt;&gt;
+          </a>
+        </div>
+
+        {/* <div className="workshop">
             <h3 className="workshop__title">React Workshop - $150</h3>
             <p className="workshop__description">
               Geared for any age that has experience with JavaScript and is
@@ -79,7 +68,6 @@ const WorkshopsPage = (props) => {
               Enroll Now &gt;&gt;
             </a>
           </div> */}
-        </div>
       </section>
     </Layout>
   );
