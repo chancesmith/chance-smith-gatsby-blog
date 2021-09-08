@@ -8,7 +8,8 @@ const WorkshopsPage = (props) => {
   return (
     <Layout location={props.location}>
       <Seo
-        title="Coaching | Chance Smith"
+        title="Coaching"
+        description="On-site or remote, these One-on-One sessions and workshops for improving your skills as a developer"
         keywords={[
           `one on one coaching`,
           `development coaching`,
@@ -19,7 +20,7 @@ const WorkshopsPage = (props) => {
         <h1>Coaching</h1>
         <p>
           On-site or remote, these One-on-One sessions and workshops with Chance
-          are a valuable and effective way to improve your skills as a web
+          are a valuable and effective way to improve your skills as a software
           developer. Please email me at{" "}
           <a href="mailto:chance@sodiumhalogen.com">chance@sodiumhalogen.com</a>{" "}
           if you have questions at all.

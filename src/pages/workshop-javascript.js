@@ -8,7 +8,8 @@ const WorkshopsPage = (props) => {
   return (
     <Layout location={props.location}>
       <Seo
-        title="Javascript Fundamentals Workshop | Chance Smith"
+        title="Javascript Fundamentals Workshop"
+        description="Introduce basic programming concepts—no prior experience is needed."
         keywords={[`javascript fundamentals workshop`]}
       />
       <section>
