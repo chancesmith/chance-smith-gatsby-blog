@@ -68,13 +68,11 @@ const WorkshopsPage = (props) => {
           <li>JavaScript statements and expressions</li>
           <li>Code comments</li>
           <li>
-            JavaScript’s main primitive values: string, boolean, number,
-            undefined, and null
+            JavaScript’s common types: string, boolean, number, undefined, and
+            null
           </li>
-          <li>Operators</li>
-          <li>Variables</li>
-          <li>Conditionals</li>
-          <li>Loops</li>
+          <li>Operators, Conditionals, and Variables</li>
+          <li>Loops and Functions</li>
           <li>Functions</li>
           <li>JavaScript’s main data structures: objects and arrays</li>
           <li>Using Netlify to put your code on the web</li>
