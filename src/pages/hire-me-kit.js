@@ -84,9 +84,8 @@ const HireMeKitPage = (props) => {
             </p>
 
             <p>
-              Please don't buy this toolkit if you are ready to back up this
-              approach with some hard work. No one wants to hire a great
-              interview-actor.
+              Please don't buy this toolkit if you aren't ready to back this up
+              with some hard work. No one wants to hire a great interview-actor.
             </p>
 
             <p>

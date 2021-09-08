@@ -14,7 +14,10 @@ class Homepage extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="Team building. Skilling up and showing off your team." keywords={[`chance smith`]} />
+        <SEO
+          title="Team building. Skilling up and showing off your team."
+          keywords={[`chance smith`]}
+        />
         <div>
           <div>
             <h1
@@ -23,12 +26,12 @@ class Homepage extends React.Component {
                 fontSize: "3.60675rem",
               }}
             >
-              Team building.
+              Software engineer,
               <br />
               <span style={{ fontSize: ".7em", color: "#777" }}>
-                Skilling up and showing
-                <br />
-                off your team.
+                teacher, and efficiency expert.
+                {/* <br />
+                off your team. */}
               </span>
             </h1>
 

@@ -33,6 +33,7 @@ class Layout extends React.Component {
     const isLevelUpMastermindPath =
       location.pathname === `${__PATH_PREFIX__}/level-up-mastermind`;
     const isArchivePath = location.pathname === `${__PATH_PREFIX__}/archive`;
+    const isCoachingPath = location.pathname === `${__PATH_PREFIX__}/workshops`;
     let header;
 
     if (isRootPath) {
@@ -174,11 +175,14 @@ class Layout extends React.Component {
                 right: 0,
               }}
             >
-              <NavLink to={`/archive`} isActive={isArchivePath}>
-                Archive
-              </NavLink>
               <NavLink to={`/about`} isActive={isAboutPath}>
                 About
+              </NavLink>
+              <NavLink to={`/archive`} isActive={isArchivePath}>
+                Blog
+              </NavLink>
+              <NavLink to={`/coaching`} isActive={isCoachingPath}>
+                Coaching
               </NavLink>
             </div>
           </div>
