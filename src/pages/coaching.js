@@ -26,7 +26,7 @@ const WorkshopsPage = (props) => {
           if you have questions at all.
         </p>
 
-        <h2>Pair-Coding Day (6+ hours) - $600</h2>
+        <h2>Pair-Coding Day (6+ hours) - $350</h2>
         <p>
           A full day of pairing on real projects. You get to see real
           development processes on large projects.{" "}
