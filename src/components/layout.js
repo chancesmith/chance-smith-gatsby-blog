@@ -175,9 +175,9 @@ class Layout extends React.Component {
                 right: 0,
               }}
             >
-              <NavLink to={`/about`} isActive={isAboutPath}>
+              {/* <NavLink to={`/about`} isActive={isAboutPath}>
                 About
-              </NavLink>
+              </NavLink> */}
               <NavLink to={`/archive`} isActive={isArchivePath}>
                 Blog
               </NavLink>
@@ -201,8 +201,30 @@ class Layout extends React.Component {
           >
             <FooterAd />
             <footer>
-              © {new Date().getFullYear()},{" "}
-              <Link to="/about">Chance Smith</Link>
+              <div
+                style={{
+                  padding: "1rem 0 0 0",
+                }}
+              >
+                <div
+                  style={{
+                    display: "flex",
+                    flexDirection: "row-reverse",
+                    alignItems: "center",
+                    justifyContent: "center",
+                  }}
+                >
+                  <NavLink to={`/about`} isActive={isAboutPath}>
+                    About
+                  </NavLink>
+                  <NavLink to={`/archive`} isActive={isArchivePath}>
+                    Blog
+                  </NavLink>
+                  <NavLink to={`/coaching`} isActive={isCoachingPath}>
+                    Coaching
+                  </NavLink>
+                </div>
+              </div>
             </footer>
           </div>
         </div>
