@@ -30,3 +30,24 @@ main a {
 blockquote {
   border-color: #9c9c9c;
 }
+
+.btn {
+  background-color: #1469ca;
+  border-radius: 2em;
+  color: #ffffff !important;
+  padding: 0.8rem 1.5rem;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.btn:hover, .btn:focus {
+  background-color: #1675e0;
+}
+
+/* utility */
+.u-text-center {
+  text-align: center !important;
+}
+.u-margin-top {
+  margin-top: 1rem !important;
+}

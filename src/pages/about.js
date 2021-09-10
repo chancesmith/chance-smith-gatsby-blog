@@ -2,7 +2,7 @@ import React from "react";
 
 // components
 import Layout from "../components/layout";
-import SEO from "../components/seo";
+import Seo from "../components/seo";
 import { rhythm } from "../utils/typography";
 import Product from "../components/Product";
 
@@ -10,7 +10,7 @@ class AboutPage extends React.Component {
   render() {
     return (
       <Layout location={this.props.location} title={"About Chance"}>
-        <SEO
+        <Seo
           title="About"
           keywords={[`about chance`, "about chance smith", "chance smith"]}
         />
@@ -32,7 +32,9 @@ class AboutPage extends React.Component {
             customer.
           </p> */}
           <p>
-            <strong>Chance has worked with</strong> prestigious and innovative companies like Chick-fil-a, Vanderbilt University, and Popvox. He's also a 4x 🥇🥇🥇🥇 1st place hackathon winner.
+            <strong>Chance has worked with</strong> prestigious and innovative
+            companies like Chick-fil-a, Vanderbilt University, and Popvox. He's
+            also a 4x 🥇🥇🥇🥇 1st place hackathon winner.
           </p>
 
           <div>
@@ -49,11 +51,11 @@ class AboutPage extends React.Component {
               link="/hire-me-kit"
               subTitle="A proven template to catch the their attention and get hired."
             />
-            <Product
+            {/* <Product
               title={`Level-Up Mastermind 💪`}
               link="/level-up-mastermind"
               subTitle={`Join our monthly mastermind. A 1-hour live call connect and help you take actionable steps to ownership.`}
-            />
+            /> */}
             <Product
               title={`Innovation Experiments 🧪`}
               link="https://mailchi.mp/afcfe7027d87/innovationexperiments?ref=chancesmithio"
