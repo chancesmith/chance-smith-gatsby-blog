@@ -14,7 +14,7 @@ These experts we hire are masters at their craft. Here is how we work well toget
 - **We don't know what we don't know**: The expert uses their experience and expertise to help us see the mistakes we're making and prevent potential roadblocks.
 - **High-impact/Low-effort**: They help us keep the work simple and stay focused on the priority.
 - **Push rather than pull**: As we're in the weeds and hesitant to use their time and brain poorly, they help by engaging with us and adding value anyway they think will bring big wins to the project.
-- **easier to edit than create**: They provide examples and sample solutions to problems, but never do the work.
+- **Easier to edit than create**: They provide examples and sample solutions to problems, but never do the work.
 
 ## How we help the expert win
 
