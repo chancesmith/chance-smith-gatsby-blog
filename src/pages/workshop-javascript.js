@@ -18,7 +18,7 @@ const WorkshopsPage = (props) => {
       <section>
         <h1>Javascript Fundamentals Workshop</h1>
 
-        <img src={workshopHeader} />
+        <img src={workshopHeader} alt="Javascript Fundamentals Workshop with Chance"/>
 
         <p>
           <strong>$150 – 3 hour workshop</strong>
