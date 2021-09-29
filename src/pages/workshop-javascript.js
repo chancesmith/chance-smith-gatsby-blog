@@ -4,6 +4,9 @@ import React from "react";
 import Layout from "../components/layout";
 import Seo from "../components/seo";
 
+// images
+import workshopHeader from "../../static/Javascript-Workshop-Wide.png";
+
 const WorkshopsPage = (props) => {
   return (
     <Layout location={props.location}>
@@ -14,9 +17,15 @@ const WorkshopsPage = (props) => {
       />
       <section>
         <h1>Javascript Fundamentals Workshop</h1>
+
+        <img src={workshopHeader} />
+
         <p>
           <strong>$150 – 3 hour workshop</strong>
+          <br />
+          <a href="https://linktr.ee/chancesmith">Enroll Now &gt;&gt;</a>
         </p>
+
         <p>
           Take someone with no knowledge of computer programming and get them
           started with JavaScript
