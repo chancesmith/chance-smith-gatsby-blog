@@ -54,7 +54,7 @@ class BlogPostTemplate extends React.Component {
           }}
         />
 
-        {ctaList[Math.floor(Math.random() * ctaList.length)]}
+        {/* {ctaList[Math.floor(Math.random() * ctaList.length)]} */}
 
         {/* <Bio /> */}
 
