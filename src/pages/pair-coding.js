@@ -83,7 +83,7 @@ const PairCodingPage = (props) => {
         <figure>
           <blockquote>
             "I've spent $1,000+ on self-pased courses. Pairing for a day on real
-            projects is way more valuble to expedite experience."
+            projects is way more valuble to quickly gain experience."
             <br />–{" "}
             <a href="https://www.linkedin.com/in/matthewggonzales/">Matthew</a>
           </blockquote>
