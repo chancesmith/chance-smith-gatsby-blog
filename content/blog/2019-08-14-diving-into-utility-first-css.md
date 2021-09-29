@@ -4,7 +4,7 @@ date: "2019-08-14T11Z"
 tags: CSS, BEM, Utility-First-CSS
 ---
 
-At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio), we've seen many projects with different types of CSS methodologies and frameworks (BEM, Bootstrap, Foundation, Bulma).
+At [Sodium Halogen](https://sodiumhalogen.com?ref=csio), we've seen many projects with different types of CSS methodologies and frameworks (BEM, Bootstrap, Foundation, Bulma).
 
 ## CSS + React has been wonderful with Styled Components
 

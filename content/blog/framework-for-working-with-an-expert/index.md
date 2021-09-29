@@ -5,7 +5,7 @@ date: "2021-09-29T08Z"
 tags: project management, sodium halogen
 ---
 
-At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio), we hire experts to help advise on projects as we make progress. We're experts hiring experts. It's an investment for helping us achieve the business outcome our client has asked us to solve. Having the expert with us is an insurance policy.
+At [Sodium Halogen](https://sodiumhalogen.com?ref=csio), we hire experts to help advise on projects as we make progress. We're experts hiring experts. It's an investment for helping us achieve the business outcome our client has asked us to solve. Having the expert with us is an insurance policy.
 
 These experts we hire are masters at their craft. Here is how we work well together.
 
@@ -33,4 +33,4 @@ You don't want the expert to take ownership of the work being done. Once the exp
 
 Find an expert that can consult on the work you have ahead. Hire them for 3 months using the above framework.
 
-Our team gives expertise in hiring, training team members, software development processes, strategy workshops, and interactive exercises.
+Our team gives expertise in hiring, training team members, software development processes, strategy workshops, and interactive exercises. [Reach out to us about any project](https://sodiumhalogen.com?ref=csio) you have running.

@@ -44,4 +44,4 @@ Start now. Worry about doing it wrong later.
 
 ## Need help getting started
 
-Our team would be [happy to help you get started](https://sodiumhalogen.com?ref=chancesmithio) when testing Python, C#, or Javascript.
+Our team would be [happy to help you get started](https://sodiumhalogen.com?ref=csio) when testing Python, C#, or Javascript.

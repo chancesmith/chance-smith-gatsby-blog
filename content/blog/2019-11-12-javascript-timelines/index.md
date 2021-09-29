@@ -4,7 +4,7 @@ date: "2019-11-12T11Z"
 tags: development, sodium halogen
 ---
 
-At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio) (SH), we're digging into a data-rich project. The task at hand is to have a javascript timeline that has several features we're trying to fit in.
+At [Sodium Halogen](https://sodiumhalogen.com?ref=csio) (SH), we're digging into a data-rich project. The task at hand is to have a javascript timeline that has several features we're trying to fit in.
 
 The options we have are to find something that matches closely or build our own. Today I'm digging through the internet to find the right solution.
 

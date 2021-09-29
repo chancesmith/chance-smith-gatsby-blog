@@ -14,7 +14,7 @@ This post is an update from [last year](http://blog.chancesmith.org/2016/06/13/l
 
 ## Why WordPress?
 
-Maybe you don't have any expreince with WordPress. It's been around awhile. For us at [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio), WordPress is still a great solution for our customers needing an editable broucher website. Automatic, creater of WordPress, does a great job keeping updates coming to the framework. We don't have to worry about security as much, and our customer can still benefit from any new WordPress updates. It's the best setup we've found so far. We love it.
+Maybe you don't have any expreince with WordPress. It's been around awhile. For us at [Sodium Halogen](https://sodiumhalogen.com?ref=csio), WordPress is still a great solution for our customers needing an editable broucher website. Automatic, creater of WordPress, does a great job keeping updates coming to the framework. We don't have to worry about security as much, and our customer can still benefit from any new WordPress updates. It's the best setup we've found so far. We love it.
 
 Other options we have considered are: Squarespace and Craft CMS.
 

@@ -17,7 +17,7 @@ class AboutPage extends React.Component {
         <div>
           <p>
             Chance is growing teams and building software at{" "}
-            <a href="https://sodiumhalogen.com?ref=chancesmithio">
+            <a href="https://sodiumhalogen.com?ref=csio">
               Sodium Halogen
             </a>
           </p>
@@ -58,7 +58,7 @@ class AboutPage extends React.Component {
             /> */}
             <Product
               title={`Innovation Experiments 🧪`}
-              link="https://mailchi.mp/afcfe7027d87/innovationexperiments?ref=chancesmithio"
+              link="https://mailchi.mp/afcfe7027d87/innovationexperiments?ref=csio"
               subTitle="Practical innovation tips for business owners and people who think like owners."
             />
           </div>

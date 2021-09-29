@@ -16,7 +16,7 @@ Here I have built a web application that creates email signatures based on a sta
 - [github](https://github.com/chancesmith/chancesmith-site/tree/master/project/signature-app)
 
 #Why?
-A [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio) client made a request for us to design and code them a email signature. They needed 7-8 different signatures for different team members.
+A [Sodium Halogen](https://sodiumhalogen.com?ref=csio) client made a request for us to design and code them a email signature. They needed 7-8 different signatures for different team members.
 
 With the number of signatures needed I asked these questions:
 

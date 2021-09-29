@@ -6,7 +6,7 @@ tags:
   - git
 ---
 
-At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio), we gather up-front estimates for all of the projects we do. Part of getting a estimate together is doing a discovery call or workshop. During our discovery, we find out what our customer wants and how we can exceed their expectation.
+At [Sodium Halogen](https://sodiumhalogen.com?ref=csio), we gather up-front estimates for all of the projects we do. Part of getting a estimate together is doing a discovery call or workshop. During our discovery, we find out what our customer wants and how we can exceed their expectation.
 
 **A discovery call/workshop length should be relative to the size of the upcoming project.**
 

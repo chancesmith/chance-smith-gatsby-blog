@@ -4,7 +4,7 @@ date: "2019-03-20T10Z"
 tags: CITQ, S3, AWS
 ---
 
-At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio), bringing in new developers and content writers can challenge how quickly we can get everyone up to speed. One topic I saw a need for was a list of good semantic markup examples.
+At [Sodium Halogen](https://sodiumhalogen.com?ref=csio), bringing in new developers and content writers can challenge how quickly we can get everyone up to speed. One topic I saw a need for was a list of good semantic markup examples.
 
 ## TL;DR
 

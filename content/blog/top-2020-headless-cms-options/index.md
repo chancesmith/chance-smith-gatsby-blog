@@ -6,7 +6,7 @@ tags:
   - research
 ---
 
-At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio), we have explored Wordpress being a Headless CMS for Gatsby.
+At [Sodium Halogen](https://sodiumhalogen.com?ref=csio), we have explored Wordpress being a Headless CMS for Gatsby.
 
 Wait...wait...
 

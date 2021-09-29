@@ -6,7 +6,7 @@ tags:
   - git
 ---
 
-At [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio), there are several projects that have 2-3 team members doing development. We use Git for developers to collaborate and share code. Since we've been using Git as a team for 5+ years, I thought it would be good to share our workflow. Here is how we roll...
+At [Sodium Halogen](https://sodiumhalogen.com?ref=csio), there are several projects that have 2-3 team members doing development. We use Git for developers to collaborate and share code. Since we've been using Git as a team for 5+ years, I thought it would be good to share our workflow. Here is how we roll...
 
 Since we use GitHub for our projects, you'll see that as the primary tool of choice.
 
