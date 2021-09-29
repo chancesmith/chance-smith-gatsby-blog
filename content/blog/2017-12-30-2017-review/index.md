@@ -35,7 +35,7 @@ Boom! We did it.
 
 #### Me:
 
-- [Sodium Halogen](https://sodiumhalogen.com) - lead developer
+- [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio) - lead developer
 - [Smoothie King](http://smoothieking.com) - project management
 - [Wolfgang Computer](http://wolfgangcomputer.com) - 6 websites/apps/computers
 - [Dev.Catalyst](https://www.attheco.com/devcatalyst) videos\*

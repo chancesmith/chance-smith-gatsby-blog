@@ -10,7 +10,7 @@ It's winter, close to Christmas and I couldn't resist getting some new gifs in. 
 
 Remeber, this is how I exceed our clients expectations and have my emails standout. [It's all about animated gifs](http://blog.chancesmith.org/making-customer-service-and-email-personal/).
 
-I pulled [Luke Pennington](http://www.lukepennington.org/), from [Sodium Halogen](https://sodiumhalogen.com), in to help show our customers how much fun we have serving them.
+I pulled [Luke Pennington](http://www.lukepennington.org/), from [Sodium Halogen](https://sodiumhalogen.com?ref=chancesmithio), in to help show our customers how much fun we have serving them.
 
 Also, just a great 20min rabbit hole away from our laptops and screens. Worth it.
 
