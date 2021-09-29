@@ -29,7 +29,7 @@ The expert consults. They don't do the work for us. They are tasks to observe th
 
 You don't want the expert to take ownership of the work being done. Once the expert starts doing the work for your team, they then become the owner of that work. All future questions and requests will be directed to the expert. Help your expert stay out of the implementation work.
 
-## Try it out: Hire and expert
+## Try it out: Hire an expert
 
 Find an expert that can consult on the work you have ahead. Hire them for 3 months using the above framework.
 
