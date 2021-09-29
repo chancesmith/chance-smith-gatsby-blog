@@ -199,7 +199,7 @@ class Layout extends React.Component {
               textAlign: "center",
             }}
           >
-            <FooterAd />
+            {/* <FooterAd /> */}
             <footer>
               <div
                 style={{
