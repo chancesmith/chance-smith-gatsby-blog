@@ -98,11 +98,11 @@ const WorkshopsPage = (props) => {
         <h2>Upcoming workshops</h2>
         <ul>
           <li>
-            October 9th, 2021 9am - 12pm{" "}
+            October 9th, 2021 9-12pm Ages 12-17{" "}
             <a href="https://attheco.com">@theCO</a>
           </li>
           <li>
-            October 16th, 2021 9am - 12pm{" "}
+            October 16th, 2021 9-12pm Ages 18+{" "}
             <a href="https://attheco.com">@theCO</a>
           </li>
         </ul>

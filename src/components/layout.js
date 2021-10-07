@@ -52,11 +52,11 @@ class Layout extends React.Component {
           >
             <span>
               <img
-                src="/chancesmith_s.jpg"
+                src="/chancesmith_s.png"
                 alt="chance smith"
                 style={{
-                  width: 100,
-                  height: 100,
+                  width: 120,
+                  height: 120,
                   borderRadius: "50%",
                 }}
               />
