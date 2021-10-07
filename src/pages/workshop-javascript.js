@@ -96,6 +96,7 @@ const WorkshopsPage = (props) => {
         </ul>
 
         <h2>Upcoming workshops</h2>
+        <p>⚠️ Max 5 seats per workshop.</p>
         <ul>
           <li>
             October 9th, 2021 9-12pm Ages 12-17{" "}
