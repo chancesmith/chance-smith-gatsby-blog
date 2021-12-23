@@ -1,25 +1,22 @@
 ---
 layout: post
-title: "Measuring Talent"
+title: "Evaluating Cadidates: No take home code challenges"
 date: "2021-10-19T08Z"
 tags: team work, sodium halogen
 ---
 
-At SH***, we bring on new team member in a number of ways. We'll have 5-10 job shadows, 2-4 internships, and 2-3 trail periods a year. Each path has a role in helping find good fits. We're looking for win-win of course.
+How do you evaluate talent in the knowledge-work space?
 
-I thought I'd share our processes and practices that help us bring talent to our team.
+You might be a techinical recruiter hiring for you client or a department lead looking for looking to you build your team. You're trying to find the right person (character, skillset, personality).
 
-## engaging job shadows
+At this point, I've interviewed hundereds of candidates and hired north of 100. Here is my take on evaluting skilled and non-skilled candidates before you hire.
 
-For those interested in UX, software and product design, the job shadows are a full day with a team member. You're working side by side on real work. This is an oppurtinity to meet our team and ask us quesitons.
+## no code challenges homework
 
-This isn't your normal job shadow. There is nothing really passive about it. One goal is to have contributing in the first hour. The best way to learn is to teach, right? We follow the surgen approach by of see one, do one, teach one. We want you *doing* as soon as possible.
+I'm not in favor of code challenges for measuring someones skill level. I believe it's a waste of the candidates time and doesn't help my company solve real problems.
 
-If you are writing software, we want to to be typing in the first hour.
-If you are designing or writing, whatever the work, you are highly envolved as soon as possible.
+Like the homework I did back in school. The school work was about a grade and not about becoming a problem-solver. Most of the work is not based on a real prolem that needs solving.
 
+It's great to step through examples and think critically.
 
-
-## internships
-
-## trial periods
+CoOps, internships, and job shadows are perfect for this.
