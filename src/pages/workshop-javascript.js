@@ -18,7 +18,10 @@ const WorkshopsPage = (props) => {
       <section>
         <h1>Javascript Fundamentals Workshop</h1>
 
-        <img src={workshopHeader} alt="Javascript Fundamentals Workshop with Chance"/>
+        <img
+          src={workshopHeader}
+          alt="Javascript Fundamentals Workshop with Chance"
+        />
 
         <p>
           <strong>$150 – 3 hour workshop</strong>
@@ -98,14 +101,11 @@ const WorkshopsPage = (props) => {
         <h2>Upcoming workshops</h2>
         <p>⚠️ Max 5 seats per workshop.</p>
         <ul>
-          <li>
-            October 9th, 2021 9-12pm Ages 12-17{" "}
-            <a href="https://attheco.com">@theCO</a>
-          </li>
-          <li>
+          <li>Feb-April 2022 dates this week (2/13/22).</li>
+          {/* <li>
             October 16th, 2021 9-12pm Ages 18+{" "}
             <a href="https://attheco.com">@theCO</a>
-          </li>
+          </li> */}
         </ul>
 
         <a href="https://linktr.ee/chancesmith">Enroll Now &gt;&gt;</a>
