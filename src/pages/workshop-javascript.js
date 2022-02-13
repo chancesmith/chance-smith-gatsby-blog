@@ -101,7 +101,9 @@ const WorkshopsPage = (props) => {
         <h2>Upcoming workshops</h2>
         <p>⚠️ Max 5 seats per workshop.</p>
         <ul>
-          <li>Feb-April 2022 dates this week (2/13/22).</li>
+          <li>
+            Feb-April 2022 dates coming soon... this week (updated: 2/13/22).
+          </li>
           {/* <li>
             October 16th, 2021 9-12pm Ages 18+{" "}
             <a href="https://attheco.com">@theCO</a>
