@@ -29,18 +29,16 @@ const WorkshopsPage = (props) => {
         <h2>Pair-Coding Day (6+ hours) - $350</h2>
         <p>
           A full day of pairing on real projects. You get to see real
-          development processes on large projects.{" "}
-          <span style={{ backgroundColor: "yellow" }}>
+          development processes on large projects.
+          {/* <span style={{ backgroundColor: "yellow" }}>
             NOTE: Pair-Coding is SOLD OUT through the end of September. Please
             check back in October 2021.
-          </span>
+          </span> */}
         </p>
 
         <p>
-          <a href="https://calendly.com/chance/pair-coding-day">
-            Reserve your spot
-          </a>{" "}
-          (limited spots)
+          <a href="https://zcal.co/i/WSv5j6E8">Reserve your spot</a> (limited
+          spots)
         </p>
 
         {/* <h2>Workshops</h2> */}
