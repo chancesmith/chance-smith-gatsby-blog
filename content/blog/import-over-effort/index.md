@@ -37,7 +37,7 @@ How is impact measured?
 - lessons learned
 - fewer distractions
 
-(fewer distractions)
+![more impact with fewer distractions](./impact-with-less-disctractions.png)
 
 ## Stop measuring effort
 
