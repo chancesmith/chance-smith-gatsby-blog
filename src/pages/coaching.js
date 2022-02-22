@@ -68,6 +68,18 @@ const WorkshopsPage = (props) => {
             </a>
           </div> */}
       </section>
+
+      <h2>Upcoming Workshops 📆</h2>
+      <iframe
+        src="https://lu.ma/embed-events/usr-QEBWfr20iBvqt4h"
+        width="100%"
+        height="350"
+        frameBorder="0"
+        style={{ border: "1px solid #bfcbda88", borderRadius: "4px" }}
+        allowfullscreen=""
+        aria-hidden="false"
+        tabindex="0"
+      ></iframe>
     </Layout>
   );
 };
