@@ -5,7 +5,7 @@ date: "2022-02-21T08Z"
 tags:
 ---
 
-Our second son loves to listen to music
+Our second son loves to be funny. Bathroom jokes are a delight at the most undeisrable times. I've got a great appriatition for his humorous side, but the timing is challenging.
 
 How much self-sabotage do we do to ourselves?
 
