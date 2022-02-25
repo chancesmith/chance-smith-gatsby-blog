@@ -9,7 +9,9 @@ Our team has seen and practiced many flavors of Agile development. Most companie
 
 ![signage: working, back in six months](./working-back-in-6-months-sign.png)
 
-**We're aiming for a system that assists our team in staying focused on the best possible impact with the least waste.** These systems help eliminate wasted effort and prevent mistakes for customers and our team.
+> **We're aiming for a system that assists our team in staying focused on the best possible impact with the least waste.**
+
+These systems help eliminate wasted effort and prevent mistakes for customers and our team.
 
 ## We Agile in one-week sprints
 
@@ -31,7 +33,7 @@ Stop spending time context-jumping between projects. Project managers, designers
 **1. better than 6-month sprints 😄**
 Okay, may I speak freely? If you can't user test with a clickable prototype or release a beta app in a few weeks, your team needs to make the practice of thinking smaller. Get something made and get feedback quickly. Feedback is how we know we're heading in the right direction.
 
-Effort without regular feedback is a risk debt you'll have to pay down.
+> **Effort without regular feedback is a risk debt you'll have to pay down.**
 
 We've done both for our customers. We've created working beta applications and realistic clickable prototypes in less than a week each. We believe rapid innovation is possible, and we do it. We believe it so much we teach our customers [how to cultivate an innovation mentality in their team](https://sodiumhalogen.com/innovation-workshop?ref=csio).
 
@@ -41,6 +43,7 @@ Yes, if the project is a year or more, dial down the intensity a bit. With marat
 In the book [Clean Agile](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868/), Uncle Bob calls the agile sprint pace, Stable Productivity and Sustainable Pace.
 
 > "The race is not to the swift..." – Ecclesiastes 9:11
+
 > "...but he who endures to the end will be saved." – Matthew 24:13
 
 **Our work and faith are with a steady pace and absolute focus. We should do our best to prevent sabotaging any of these.**
