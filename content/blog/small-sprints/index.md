@@ -63,4 +63,4 @@ Turn up the intensity to create something of value quickly. Don't over plan. Tak
 
 The attractive part of [focusing on impactful work](https://chancesmith.io/import-over-effort/) is you'll know when to switch your focus.
 
-- Your innovation advocate, Chance 👋
+Your innovation advocate, Chance 👋
