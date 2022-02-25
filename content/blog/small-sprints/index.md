@@ -61,6 +61,6 @@ Turn up the intensity to create something of value quickly. Don't over plan. Tak
 2. **Try launching in a day**. Move fast and break stuff. Take a crazy idea your team is excited about and use a kanban board to plan and tackle the work. Launch or demo what you have at the end of the day.
 3. **The Pomodoro release**. Take a 25min time block to get something out of your head and ready to share with another team member. A sketch, outline, draft, or research is perfect.
 
-The attractive part of [focusing on impactful](https://chancesmith.io/import-over-effort/) work is you'll know when to switch your focus.
+The attractive part of [focusing on impactful work](https://chancesmith.io/import-over-effort/) is you'll know when to switch your focus.
 
 - Your innovation advocate, Chance 👋
