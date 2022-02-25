@@ -7,6 +7,10 @@ import Seo from "../components/seo";
 // images
 import workshopHeader from "../../static/Javascript-Workshop-Wide.png";
 
+const EnrollNowLink = () => (
+  <a href="https://lu.ma/Chance_Smith">Enroll Now &gt;&gt;</a>
+);
+
 const WorkshopsPage = (props) => {
   return (
     <Layout location={props.location}>
@@ -26,7 +30,7 @@ const WorkshopsPage = (props) => {
         <p>
           <strong>$150 – 3 hour workshop</strong>
           <br />
-          <a href="https://linktr.ee/chancesmith">Enroll Now &gt;&gt;</a>
+          <EnrollNowLink />
         </p>
 
         <p>
@@ -114,7 +118,7 @@ const WorkshopsPage = (props) => {
           </li>
         </ul>
 
-        <a href="https://lu.ma/Chance_Smith">Enroll Now &gt;&gt;</a>
+        <EnrollNowLink />
       </section>
     </Layout>
   );
