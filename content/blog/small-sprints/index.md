@@ -15,7 +15,7 @@ These systems help eliminate wasted effort and prevent mistakes for customers an
 
 ## We Agile in one-week sprints
 
-We adapted to a smaller iterative flow. These one-week sprints are super tight bites of work. Our projects can range from 3 to 14 months or more. So, each engagement has a high intensity of communication. We work-out-load to reveal our progress, roadblocks, and discuss impact.
+We adapted to a smaller iterative flow. These one-week sprints are super tight bites of work. Our projects can range from 3 to 14 months or more. So, each engagement has a high intensity of communication. We work-out-loud to reveal our progress, roadblocks, and discuss impact.
 
 ## Why one-week sprints?
 
