@@ -69,7 +69,7 @@ const projects = [
   },
 ];
 
-export const ProjectsPage = (props) => {
+const ProjectsPage = (props) => {
   return (
     <Layout location={props.location}>
       <Seo
@@ -119,3 +119,5 @@ export const ProjectsPage = (props) => {
     </Layout>
   );
 };
+
+export default ProjectsPage;
