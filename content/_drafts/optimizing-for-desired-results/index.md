@@ -17,3 +17,4 @@ reactions of individuals to modify an aspect of their behavior in response to th
 
 - track progress
 - easy to do the right thing and hard to do the wrong thing
+- let the other person be the smartest person in the room

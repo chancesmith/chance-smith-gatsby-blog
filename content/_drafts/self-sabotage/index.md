@@ -32,3 +32,9 @@ Pushups.
 Running.
 Reading a book.
 Talking to a stranger.
+
+## ways we sabatosh
+
+- not enough sleep (up late)
+- dependentcey
+-

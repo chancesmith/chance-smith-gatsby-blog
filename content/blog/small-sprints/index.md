@@ -21,7 +21,7 @@ We adapted to a smaller iterative flow. These one-week sprints are super tight b
 
 ### 1. High frequency of focus, iteration, and customer face-time
 
-Dialing up the frequency of iterations increases the focus of our efforts. Progress is made quickly. We're releasing changes earlier to get feedback sooner. Come on! We're moving fast.
+Dialing up the frequency of iterations increases the focus of our efforts. Progress is made quickly. We're [releasing changes earlier to get feedback sooner](/feature-boxing). Come on! We're moving fast.
 
 At first, this can feel rapid, but we make decisions quickly and hold them loosely. Every sprint is an opportunity to reflect with feedback from real customers.
 
