@@ -1,21 +1,17 @@
 import React from "react";
-// import Image from "gatsby-image";
-// import styled from "styled-components";
-import { StaticImage } from "gatsby";
+import styled from "styled-components";
 
 // components
 import Layout from "../components/layout";
 import Seo from "../components/seo";
 
-// const CoverWrapStyles = styled.div`
-//   display: flex;
-//   justify-content: center;
-//   margin: 2em 0 2em 0;
-
-//   .bookCover {
-//     box-shadow: 5px 5px 20px #444;
-//   }
-// `;
+const ProjectStyle = styled.div`
+  display: flex;
+  flex-direction: row;
+  @media (max-width: 600px) {
+    flex-direction: column;
+  }
+`;
 
 const ProjectType = {
   WEBSITE: "website",
@@ -24,38 +20,38 @@ const ProjectType = {
 };
 
 const projects = [
-  // {
-  //   title: "Sevco",
-  //   description:
-  //     "Building a JavaScript web app for visualizing device inventory on a network.",
-  //   link: "https://sevcosecurity.com/",
-  //   role: "developer",
-  //   date: "2020",
-  //   type: ProjectType.WEB_APP,
-  //   outcome: "",
-  //   image: "./projects/sevco.png",
-  // },
-  // {
-  //   title: "FunFact",
-  //   description:
-  //     "Building an iOS game as an ice breaker for small groups to get to know each other.",
-  //   link: "https://sevcosecurity.com/",
-  //   role: "developer",
-  //   date: "2019",
-  //   type: ProjectType.WEB_APP,
-  //   outcome: "",
-  //   image: "./projects/sevco.png",
-  // },
+  {
+    title: "Sevco",
+    description:
+      "Building a JavaScript web app for visualizing device inventory on a network.",
+    link: "https://sevcosecurity.com/",
+    role: "developer",
+    date: "2020",
+    type: ProjectType.WEB_APP,
+    outcome: "",
+    image: "sevco.png",
+  },
+  {
+    title: "FunFact",
+    description:
+      "Building an iOS game as an ice breaker for small groups to get to know each other.",
+    link: "https://www.funfactgame.com/",
+    role: "developer",
+    date: "2019",
+    type: ProjectType.WEB_APP,
+    outcome: "",
+    image: "funfact-game.webp",
+  },
   {
     title: "The Vertex Project",
     description:
-      "Building a JavaScript web app for data analtyist to visualize data they query from a forcegraph.",
+      "Building a complex JavaScript web app for data analysts to visualize data they query from a forcegraph into maps, tables, and nodes.",
     link: "https://vertex.link/",
     role: "developer",
     date: "2019",
     type: ProjectType.WEB_APP,
     outcome: "",
-    image: "projects/vertex-workstation-forcegraph.webp",
+    image: "vtx-zoom.png",
   },
   {
     title: "Kontakt Mission USA",
@@ -86,7 +82,7 @@ const ProjectsPage = (props) => {
           for us to collaborate on your poject.
         </p>
         {projects.map((project) => (
-          <div key={project.title} style={{ display: "flex" }}>
+          <ProjectStyle key={project.title}>
             <div>
               {project.link ? (
                 <a href={project.link}>
@@ -103,17 +99,20 @@ const ProjectsPage = (props) => {
                 <p>Business Outcome: {project.outcome}</p>
               ) : null}
             </div>
-            {/* <StaticImage
-              src={project.image}
-              alt={project.title + " example screenshot"}
-              placeholder="blurred"
-              layout="fixed"
-              width={200}
-              height={200}
-            /> */}
-            {/* {project.image ? (
-            ) : null} */}
-          </div>
+            {project.image ? (
+              <div>
+                <img
+                  src={project.image}
+                  alt={project.title + " example screenshot"}
+                  style={{
+                    maxWidth: "350px",
+                    height: "max-content",
+                  }}
+                  // height={200}
+                />
+              </div>
+            ) : null}
+          </ProjectStyle>
         ))}
       </section>
     </Layout>
