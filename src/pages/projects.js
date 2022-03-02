@@ -26,11 +26,11 @@ const projects = [
   {
     title: "Envie | TeamWALT, a Southern Bank Initiative",
     description:
-      "Building a mobile app to encourage creating a habit of savings.",
+      "Building a mobile app to encourage creating a habit of savings by playing the envelope game everyday.",
     link: "https://sevcosecurity.com/",
     role: "consultant",
     date: "2020",
-    type: ProjectType.WEB_APP,
+    type: ProjectType.MOBILE_APP,
     outcome: "",
     image: "envie.png",
   },
@@ -52,7 +52,7 @@ const projects = [
     link: "https://www.funfactgame.com/",
     role: "developer",
     date: "2019",
-    type: ProjectType.WEB_APP,
+    type: ProjectType.MOBILE_APP,
     outcome: "",
     image: "funfact-game.webp",
   },
@@ -93,7 +93,7 @@ const ProjectsPage = (props) => {
           On-site or remote, these are projects and the role I played. Please
           email me at{" "}
           <a href="mailto:chance@sodiumhalogen.com">chance@sodiumhalogen.com</a>{" "}
-          for us to collaborate on your poject.
+          for us to collaborate on your project.
         </p>
         {projects.map((project) => (
           <ProjectStyle key={project.title}>

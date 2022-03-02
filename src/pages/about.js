@@ -16,10 +16,8 @@ class AboutPage extends React.Component {
         />
         <div>
           <p>
-            Chance is growing teams and building software at{" "}
-            <a href="https://sodiumhalogen.com?ref=csio">
-              Sodium Halogen
-            </a>
+            Chance is building software and teams at{" "}
+            <a href="https://sodiumhalogen.com?ref=csio">Sodium Halogen</a>.
           </p>
           {/* <p>
             <strong>At home</strong> he helps his wife (Molly) with there three
@@ -33,8 +31,9 @@ class AboutPage extends React.Component {
           </p> */}
           <p>
             <strong>Chance has worked with</strong> prestigious and innovative
-            companies like Chick-fil-a, Vanderbilt University, and Popvox. He's
-            also a 4x 🥇🥇🥇🥇 1st place hackathon winner.
+            companies like Chick-fil-a, Vanderbilt University, Popvox, and The
+            Vertex Project. He's also a 4x 🥇🥇🥇🥇 1st place hackathon winner.{" "}
+            <a href="/projects">See previous work.</a>
           </p>
 
           <div>
