@@ -11,6 +11,9 @@ const ProjectStyle = styled.div`
   @media (max-width: 600px) {
     flex-direction: column;
   }
+  .content {
+    padding-right: 1rem;
+  }
 `;
 
 const ProjectType = {
@@ -21,11 +24,22 @@ const ProjectType = {
 
 const projects = [
   {
+    title: "Envie | TeamWALT, a Southern Bank Initiative",
+    description:
+      "Building a mobile app to encourage creating a habit of savings.",
+    link: "https://sevcosecurity.com/",
+    role: "consultant",
+    date: "2020",
+    type: ProjectType.WEB_APP,
+    outcome: "",
+    image: "envie.png",
+  },
+  {
     title: "Sevco",
     description:
       "Building a JavaScript web app for visualizing device inventory on a network.",
     link: "https://sevcosecurity.com/",
-    role: "developer",
+    role: "consultant",
     date: "2020",
     type: ProjectType.WEB_APP,
     outcome: "",
@@ -43,7 +57,7 @@ const projects = [
     image: "funfact-game.webp",
   },
   {
-    title: "The Vertex Project",
+    title: "Synapase | The Vertex Project",
     description:
       "Building a complex JavaScript web app for data analysts to visualize data they query from a forcegraph into maps, tables, and nodes.",
     link: "https://vertex.link/",
@@ -83,7 +97,7 @@ const ProjectsPage = (props) => {
         </p>
         {projects.map((project) => (
           <ProjectStyle key={project.title}>
-            <div>
+            <div className="content">
               {project.link ? (
                 <a href={project.link}>
                   <h3 style={{ margin: 0 }}>{project.title}</h3>
@@ -105,7 +119,8 @@ const ProjectsPage = (props) => {
                   src={project.image}
                   alt={project.title + " example screenshot"}
                   style={{
-                    maxWidth: "350px",
+                    maxWidth: "330px",
+                    maxHeight: "400px",
                     height: "max-content",
                   }}
                   // height={200}
