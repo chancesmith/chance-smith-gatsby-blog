@@ -6,7 +6,7 @@ date: "2014-04-21T22Z"
 
 Some of us enjoy moving items around the house or just in our office's to experience a new beginning. Part of shifting things around just feels good. It is also helps in cleaning the area up while giving that _fresh start_ feeling.
 
-After reading [Simplfy](http://www.amazon.com/Simplify-Joshua-Becker-ebook/dp/B006431ADS/ref=sr_1_1?ie=UTF8&qid=1398046399&sr=8-1&keywords=simplify), right before we moved north of Jackson, TN, I was inspired to take a more minimalistic lifestyle. That is what the book is about essentially. This is one of the qoutes that motivated me the most.
+After reading [Simplfy](https://www.amazon.com/Simplify-Joshua-Becker-ebook/dp/B006431ADS/ref=sr_1_1?ie=UTF8&qid=1398046399&sr=8-1&keywords=simplify), right before we moved north of Jackson, TN, I was inspired to take a more minimalistic lifestyle. That is what the book is about essentially. This is one of the qoutes that motivated me the most.
 
 > "Clutter is a form of visual distraction, and everything in our vision pulls at our attention at least a little." - JOSHUA BECKER
 
@@ -16,7 +16,7 @@ We are too easily distracted, right?
 
 Moving was going to be hard. We were going from 3,000sqft to 1,300sqft. I had to coax my wife a little, but we were throwing away stuff like crazy. Yet, we were still holding on the the things that meant the most to us and were needed for our daily functions.
 
-It as been 3 months since the move and I felt like the office was closing in on me and I read [this post](http://danabyers.com/2012/09/13/decluttered-office-before-after-pics/). Inspired again. If you see the pictures in the post I don't think I can go to this extreme. Here are my efforts.
+It as been 3 months since the move and I felt like the office was closing in on me and I read [this post](https://danabyers.com/2012/09/13/decluttered-office-before-after-pics/). Inspired again. If you see the pictures in the post I don't think I can go to this extreme. Here are my efforts.
 
 Before
 

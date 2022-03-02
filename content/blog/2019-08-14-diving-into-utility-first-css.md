@@ -18,7 +18,7 @@ We didn't see this coming. It's also been a bit since we have had to create/writ
 
 ## Looking at Utility-First CSS
 
-[Dan Mal](http://danmall.me/) (genius) was the first to introduce us to utility classes. You might have seen the [spacing utility classes in Bootstrap](https://getbootstrap.com/docs/4.3/utilities/spacing/) before.
+[Dan Mal](https://danmall.me/) (genius) was the first to introduce us to utility classes. You might have seen the [spacing utility classes in Bootstrap](https://getbootstrap.com/docs/4.3/utilities/spacing/) before.
 
 Utility classes are tiny bits of CSS, tied to a class name, that do one thing. Here are a few examples...
 

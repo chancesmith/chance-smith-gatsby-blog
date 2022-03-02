@@ -40,7 +40,7 @@ I know [D3](https://d3js.org/) will show up along the way. I have run across D3 
 This solution looks like a good start for a custom timeline graph. Not a bad place to begin the search. 💪
 
 ![d3 timeline gantt chart](./d3-gantt-chart-example-3.png)
-http://bl.ocks.org/dk8996/5538271
+https://bl.ocks.org/dk8996/5538271
 
 ### example D3.js pros
 
@@ -201,7 +201,7 @@ If we do a D3 build, this is another inspiring example.
 Another good D3 example for inspo.
 
 ![bills-d3-timeline-example](./bills-d3-timeline-example.png)
-http://bl.ocks.org/bunkat/2338034
+https://bl.ocks.org/bunkat/2338034
 
 The more D3 examples I find, the more comfortable I am to building something from scratch using the D3 framework. 🤔
 
@@ -212,7 +212,7 @@ The more D3 examples I find, the more comfortable I am to building something fro
 Yet, another D3 example with may rows in the timeline. Cool!
 
 ![reinhard-engel-timeline-concept](./reinhard-engel-timeline-concept.png)
-http://bl.ocks.org/rengel-de/5603464
+https://bl.ocks.org/rengel-de/5603464
 
 ## Timeline research exhausted
 

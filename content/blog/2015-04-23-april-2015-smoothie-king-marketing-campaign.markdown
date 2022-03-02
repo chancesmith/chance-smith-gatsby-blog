@@ -14,7 +14,7 @@ We offered \$1 small Angel Food smoothies from 7-9am and this a ton of retail sa
 
 ## Assets
 
-With some help of a [template](http://www.freepik.com/free-vector/designer-s-office-flat-illustration_715197.htm) to speed up the artwork, here are the images we used in the campaign on Facebook and Twitter:
+With some help of a [template](https://www.freepik.com/free-vector/designer-s-office-flat-illustration_715197.htm) to speed up the artwork, here are the images we used in the campaign on Facebook and Twitter:
 ![](/content/images/2015/04/sk-desk-lights-on-09.png)
 ![](/content/images/2015/04/sk-desk-lights-on-03.png)
 ![](/content/images/2015/04/sk-desk-lights-on-04-1.png)

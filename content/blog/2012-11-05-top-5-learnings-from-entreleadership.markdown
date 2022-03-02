@@ -10,7 +10,7 @@ tags:
 
 EntreLeadership: 20 Years of Practical Business Wisdom from the Trenches
 
-[dropcap]I[/dropcap] read the book over a longer period of time than I would have liked, but finished it [last month](http://www.chancesmith.org/september-october-monthly-update/). The reason being, it is very dense.
+[dropcap]I[/dropcap] read the book over a longer period of time than I would have liked, but finished it [last month](https://www.chancesmith.org/september-october-monthly-update/). The reason being, it is very dense.
 
 **Warning**: Do Not Buy This Book if You do Not Plan to Act! Dave Ramsey has packaged this information especially well and I can't wait to break out the book again next year for a second time through.
 

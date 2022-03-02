@@ -26,6 +26,6 @@ Tip:
 
 In cases of emergencies or under estimation of hours to complete a task, I only schedule out 5-6 hours per person per day. This gives some room to get ahead and not get swapped.
 
-If you liked this send me a fist bump on Instagram ([chancesmithb](http://instagram.com/chancesmithb)).
+If you liked this send me a fist bump on Instagram ([chancesmithb](https://instagram.com/chancesmithb)).
 
-Ever used [Asana](http://asana.com). It rocks!
+Ever used [Asana](https://asana.com). It rocks!

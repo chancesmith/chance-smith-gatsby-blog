@@ -25,5 +25,5 @@ After you add people to the list and match them togethor, you can share the list
 #Demo
 Either use it or play with the code yourself:
 
-- [Gift Match App demo](http://chancesmith.org/project/giftmatch/)
+- [Gift Match App demo](https://chancesmith.org/project/giftmatch/)
 - [Github](https://github.com/chancesmith/chancesmith-site/tree/master/project/giftmatch)

@@ -50,7 +50,7 @@ I got stuck on "Bringing Up Boys" for the longest. Dr. Dobson has a ton of examp
 
 ![meetup 2017 photo](./chance-meetup.jpg)
 
-I had the oppurtunity to lead the [CO:de meetup](http://code.attheco.com) every month. There has been an average of 10 people for each meetup.
+I had the oppurtunity to lead the [CO:de meetup](https://code.attheco.com) every month. There has been an average of 10 people for each meetup.
 
 I've done _20 videos_ for CO:de and some of which have been used for the Dev.Catalyst program.
 https://www.youtube.com/playlist?list=PLnmaTbl4XQyQfwDVYnq9q5Tf4pNdl1Dh1
@@ -68,8 +68,8 @@ This year I have created a workshop for beginner web developers that I've lead 4
 
 ## Attend 2 conferences
 
-- [C4TK](http://codeforthekingdom.org/): Code 4 The Kingdom (won hackathon 2nd year in a row)
-- [Nodevember](http://nodevember.org/) (5th time to attend)
+- [C4TK](https://codeforthekingdom.org/): Code 4 The Kingdom (won hackathon 2nd year in a row)
+- [Nodevember](https://nodevember.org/) (5th time to attend)
 - signed up for Python conf for 2018 - [PyTN](https://www.pytennessee.org/)
 
 ## Mentor new coders

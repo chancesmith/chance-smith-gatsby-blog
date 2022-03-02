@@ -10,7 +10,7 @@ tags: development, testing, sodium halogen
 It's helped out the team at Sodium Halogen to speak the lingo. Enjoy the list and examples.
 
 Sources:
-- [xunitpatterns.com](http://xunitpatterns.com/)
+- [xunitpatterns.com](https://xunitpatterns.com/)
 - [Uncle Bob](https://blog.cleancoder.com/)
 
 ## Test titles template

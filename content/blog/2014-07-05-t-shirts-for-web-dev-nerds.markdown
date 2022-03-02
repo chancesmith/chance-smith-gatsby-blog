@@ -18,12 +18,12 @@ Anyway...here are the shirts I have found so far and the ones I am looking for.
 Shirts found:
 
 - [Evernote](https://www.evernote.com/market/feature/tshirt)
-- [BitBucket](http://swag.atlassian.com/)
+- [BitBucket](https://swag.atlassian.com/)
 
 Shirts I'm looking for:
 
-- [Dropbox](http://dropbox.com)
-- [Adobe](http://adobe.com)
-- [TeamTreeHouse](http://teamtreehouse.com)
+- [Dropbox](https://dropbox.com)
+- [Adobe](https://adobe.com)
+- [TeamTreeHouse](https://teamtreehouse.com)
 - SublimeText
 - Asana

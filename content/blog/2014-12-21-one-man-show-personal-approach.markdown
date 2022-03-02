@@ -11,7 +11,7 @@ tags:
 
 If you are a team of one or a team of many, here are quick tips on how to be more personal with customers.
 
-I've mentioned [using gifs](http://blog.chancesmith.org/making-customer-service-and-email-personal/) before to be more personal and standout. I also showed [how to make gifs](http://blog.chancesmith.org/how-to-make-your-own-gifs-tldr/).
+I've mentioned [using gifs](https://blog.chancesmith.org/making-customer-service-and-email-personal/) before to be more personal and standout. I also showed [how to make gifs](https://blog.chancesmith.org/how-to-make-your-own-gifs-tldr/).
 
 #3 Ways To Have A Personal Approach
 Anyone else can do the job you do, it's the relationship that matters most.
@@ -56,6 +56,6 @@ Have any ways you keep it _really real_ with your customers?
 
 I'm all ears. #gif
 
-![chance smith all ears](http://chancesmith.org/gifs/all-ears-chance-luke.gif)
+![chance smith all ears](https://chancesmith.org/gifs/all-ears-chance-luke.gif)
 
-Also, meet my friend Luke. We did [a few gifs at work](http://blog.chancesmith.org/contextual-gifs-snow-gifs/) last week.
+Also, meet my friend Luke. We did [a few gifs at work](https://blog.chancesmith.org/contextual-gifs-snow-gifs/) last week.

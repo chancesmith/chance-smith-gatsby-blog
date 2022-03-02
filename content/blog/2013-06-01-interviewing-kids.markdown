@@ -32,9 +32,9 @@ The last thing to make the shoot better would have been to grab the tallest kid 
 <span style="font-size: 2em;">Tools That Were Used</span>
 
 <ul>
-	<li>Nikon D5100 - DLSR Camera ([easyazon-link asin="B004V4IWKG" locale="us"]Amazon[/easyazon-link])[easyazon-image align="undefined" asin="B004V4IWKG" locale="us" height="22" src="http://ecx.images-amazon.com/images/I/51nlyjEV2WL._SL30_.jpg" width="30"]</li>
-	<li>ManFrotto 290 - Camera Tripod ([easyazon-link asin="B004MKNJFM" locale="us"]Amazon[/easyazon-link])[easyazon-image align="undefined" asin="B004MKNJFM" locale="us" height="30" src="http://ecx.images-amazon.com/images/I/313VXx89oML._SL30_.jpg" width="16"]</li>
-	<li>Manfrotto 804RC2 - Tripod Head ([easyazon-link asin="B000FJ4XP4" locale="us"]Amazon[/easyazon-link])[easyazon-image align="undefined" asin="B000FJ4XP4" locale="us" height="20" src="http://ecx.images-amazon.com/images/I/41XSIN5Y33L._SL30_.jpg" width="30"]</li>
-	<li>ZoomH4n - Portable Audio Recorder ([easyazon-link asin="B001QWBM62" locale="us"]Amazon[/easyazon-link])[easyazon-image align="undefined" asin="B001QWBM62" locale="us" height="30" src="http://ecx.images-amazon.com/images/I/41QfXIufH1L._SL30_.jpg" width="30"]</li>
-	<li>On Stage MS7701 - Tripod Boom Microphone Stand ([easyazon-link asin="B000978D58" locale="us"]Amazon[/easyazon-link])[easyazon-image align="none" asin="B000978D58" locale="us" height="30" src="http://ecx.images-amazon.com/images/I/31oggl6Eg%2BL._SL30_.jpg" width="25"]</li>
+	<li>Nikon D5100 - DLSR Camera ([easyazon-link asin="B004V4IWKG" locale="us"]Amazon[/easyazon-link])[easyazon-image align="undefined" asin="B004V4IWKG" locale="us" height="22" src="https://ecx.images-amazon.com/images/I/51nlyjEV2WL._SL30_.jpg" width="30"]</li>
+	<li>ManFrotto 290 - Camera Tripod ([easyazon-link asin="B004MKNJFM" locale="us"]Amazon[/easyazon-link])[easyazon-image align="undefined" asin="B004MKNJFM" locale="us" height="30" src="https://ecx.images-amazon.com/images/I/313VXx89oML._SL30_.jpg" width="16"]</li>
+	<li>Manfrotto 804RC2 - Tripod Head ([easyazon-link asin="B000FJ4XP4" locale="us"]Amazon[/easyazon-link])[easyazon-image align="undefined" asin="B000FJ4XP4" locale="us" height="20" src="https://ecx.images-amazon.com/images/I/41XSIN5Y33L._SL30_.jpg" width="30"]</li>
+	<li>ZoomH4n - Portable Audio Recorder ([easyazon-link asin="B001QWBM62" locale="us"]Amazon[/easyazon-link])[easyazon-image align="undefined" asin="B001QWBM62" locale="us" height="30" src="https://ecx.images-amazon.com/images/I/41QfXIufH1L._SL30_.jpg" width="30"]</li>
+	<li>On Stage MS7701 - Tripod Boom Microphone Stand ([easyazon-link asin="B000978D58" locale="us"]Amazon[/easyazon-link])[easyazon-image align="none" asin="B000978D58" locale="us" height="30" src="https://ecx.images-amazon.com/images/I/31oggl6Eg%2BL._SL30_.jpg" width="25"]</li>
 </ul>

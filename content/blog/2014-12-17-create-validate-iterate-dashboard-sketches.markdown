@@ -8,7 +8,7 @@ tags:
 
 ![cover-image](/content/images/2014/12/9-create-validate-iterate-sketch.jpg)
 
-Thus far [I have explained](http://blog.chancesmith.org/iterating-off-of-ash-mauryas-lean-dashboard/) the source and thinking behind this dashboard.
+Thus far [I have explained](https://blog.chancesmith.org/iterating-off-of-ash-mauryas-lean-dashboard/) the source and thinking behind this dashboard.
 
 I'll now show you my progress with these sketches.
 

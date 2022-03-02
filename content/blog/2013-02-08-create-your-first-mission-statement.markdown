@@ -10,7 +10,7 @@ tags:
 
 Before I wrote my mission statement, or even knew what one was, I didn't know what to do next. I was reaching at straws for my next step.  If an idea came to me that would be my next step of action. There was no reason or purpose to by focus. This statement has changed my direction and habits of life immensely.
 
-Ready to build your own now? Download your <a title="Personal Mission Statement" href="http://www.chancesmith.org/personal-mission-statement/" target="_blank">Personal Mission Statement worksheet</a>
+Ready to build your own now? Download your <a title="Personal Mission Statement" href="https://www.chancesmith.org/personal-mission-statement/" target="_blank">Personal Mission Statement worksheet</a>
 
 <strong>What is a Mission Statement?</strong>
 
@@ -29,4 +29,4 @@ Mission Statement most likely reminds you of some generic statement on the wall 
 
 With those all wrapped up in a short statement helps you decide what to do with your life. It shows where you should work, what you value, where you want to be, and where to grow yourself. Having a mission statement is a trait of a successful person. Successful people make decisions based on their mission statement everyday and every hour.
 
-Ready to build your own now? Download your <a title="Personal Mission Statement" href="http://www.chancesmith.org/personal-mission-statement/" target="_blank">Personal Mission Statement worksheet</a>
+Ready to build your own now? Download your <a title="Personal Mission Statement" href="https://www.chancesmith.org/personal-mission-statement/" target="_blank">Personal Mission Statement worksheet</a>

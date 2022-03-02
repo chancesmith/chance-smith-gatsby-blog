@@ -15,7 +15,7 @@ That way you don't see a bunch of "product/service"'s all over the place. With t
 
 While still covering cost and making a profit, value pricing is a pricing strategy to price a service where the customer receives more perceived value than they pay for.
 
-To break down the components of value pricing, in an earlier post, I asked the [questions of how to value price a customer](http://blog.chancesmith.org/hourly-pay-is-dead-4-areas-to-look-at-to-value-price-your-customers/).
+To break down the components of value pricing, in an earlier post, I asked the [questions of how to value price a customer](https://blog.chancesmith.org/hourly-pay-is-dead-4-areas-to-look-at-to-value-price-your-customers/).
 
 <!--If you want to know how to value price, [go here]()-->
 

@@ -7,7 +7,7 @@ tags:
   - smoothie-king
 ---
 
-Well everytime it gets cold around here the smoothie sales go down and that makes our team super sad. My wife, [Molly Smith](http://mollysmith.org), helped craft these posts to be relative to the Oscar winner film Frozen, by Disney.
+Well everytime it gets cold around here the smoothie sales go down and that makes our team super sad. My wife, [Molly Smith](https://mollysmith.org), helped craft these posts to be relative to the Oscar winner film Frozen, by Disney.
 
 Smoothie King loves kids and we know that parents will see the connection in our local social posts. Here is how it went out.
 

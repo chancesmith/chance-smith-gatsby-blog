@@ -13,4 +13,4 @@ I haven't made any efforts to get the camera out in awhile and I thought this wa
 
 <iframe width="500px" height="350px" src="//www.youtube.com/embed/R-Dz7Cd1cP4?list=UUb4R-LN225yzkAn669bc3qg" frameborder="0" allowfullscreen></iframe>
 
-Video gear I use is in here: http://wolfgangcomputer.com/trusted-gear/
+Video gear I use is in here: https://wolfgangcomputer.com/trusted-gear/

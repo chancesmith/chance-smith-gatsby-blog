@@ -11,7 +11,7 @@ tags:
 
 ![cover-image](/content/images/2014/12/Axis-Deer-Hunting--Fallow-Deer-Hunting---Goodman-Ranch.png)
 
-Last spring, I conducted a A/B test on a clients site, [Goodman Ranch](http://goodmanranch.com).
+Last spring, I conducted a A/B test on a clients site, [Goodman Ranch](https://goodmanranch.com).
 
 #Problem to Solve
 As of yet, the homepage was not creating trackable leads.

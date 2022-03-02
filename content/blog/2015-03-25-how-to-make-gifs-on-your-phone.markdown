@@ -8,7 +8,7 @@ tags:
 
 If you haven't started using animated gifs in your emails to customers, you should. It's the best way i have found to standout in the sea of other emails.
 
-![hello-wave](http://sht.tl/pZe3J4)
+![hello-wave](https://sht.tl/pZe3J4)
 
 Here is how I make GIFs on my phone.
 

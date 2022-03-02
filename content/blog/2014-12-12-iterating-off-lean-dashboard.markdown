@@ -11,7 +11,7 @@ tags:
 In the world of lean, Ash Maurya has created an information radiator for software companies to test ideas to achieve company goals.
 
 Enter the Lean Dashboard:
-(image from Ash Maury's [site](http://practicetrumpstheory.com/new-book-the-customer-factory/))
+(image from Ash Maury's [site](https://practicetrumpstheory.com/new-book-the-customer-factory/))
 ![lean dashboard](/content/images/2014/12/lean-dashboard.png)
 
 I love Maurya's dashboard, but I feel...
@@ -56,11 +56,11 @@ A bank, for instance, might want more qualified home loan inquires, more positiv
 
 #Sketches
 
-I’ve started sketches to rethinking the Lean Dashboard to help achieve the above. Here is where I am so far... [the new dashboard sketches](http://blog.chancesmith.org/create-validate-iterate-dashboard-sketches/)
+I’ve started sketches to rethinking the Lean Dashboard to help achieve the above. Here is where I am so far... [the new dashboard sketches](https://blog.chancesmith.org/create-validate-iterate-dashboard-sketches/)
 
 Maybe soon I'll have a name for it.
 
 ## #Kudos to
 
-- [Ash Maurya](http://practicetrumpstheory.com/)
-- [Lean Dashboard](http://leanstack.com/)
+- [Ash Maurya](https://practicetrumpstheory.com/)
+- [Lean Dashboard](https://leanstack.com/)

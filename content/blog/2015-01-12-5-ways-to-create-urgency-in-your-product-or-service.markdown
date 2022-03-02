@@ -10,7 +10,7 @@ I have a new project in the works and it’s based on a physical product. I’m 
 
 All of the following are on ideas to create urgency based on the principle of being honest and upfront with all of my customers. My goal is to be transparent, like I am here on my blog. None of that shady stuff, okay? Here we go.
 
-Maybe you just want the [TLDR version](http://blog.chancesmith.org/create-urgency-for-products-services/). Yeah, really short!
+Maybe you just want the [TLDR version](https://blog.chancesmith.org/create-urgency-for-products-services/). Yeah, really short!
 
 ## limited edition
 

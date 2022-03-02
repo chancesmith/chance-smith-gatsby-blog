@@ -45,4 +45,4 @@ Here is the screencast I made as I think out loud. I compare NodeJS, MeteorJS, P
 
 If you dig this post and video, [send me a tweet](https://twitter.com/home?status=Thanks,%20%40chance_smith!%20%23codeTrends%0A%0AWhat%20web%20programming%20language%20should%20I%20learn?%0Ahttp%3A//bit.ly/1XogFNt).
 
-If you're interested in coding, checkout [Treehouse](teamtreehouse.com). If you're looking for your next gig, [Hired](http://bit.ly/gethiredhere) is the way to go.
+If you're interested in coding, checkout [Treehouse](teamtreehouse.com). If you're looking for your next gig, [Hired](https://bit.ly/gethiredhere) is the way to go.

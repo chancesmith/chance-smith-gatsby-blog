@@ -14,7 +14,7 @@ Just list the names and begin the gift swapping.
 
 ## The App
 
-Last year I created a simple web application to make this a breeze. Feel free to go back and [read the initial details](http://blog.chancesmith.org/gift-match-app/).
+Last year I created a simple web application to make this a breeze. Feel free to go back and [read the initial details](https://blog.chancesmith.org/gift-match-app/).
 
 No more writing, hat drawing, or cat skinning. Make it fast and simple.
 

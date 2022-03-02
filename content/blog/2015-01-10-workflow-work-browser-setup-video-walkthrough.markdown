@@ -9,7 +9,7 @@ tags:
 
 Here is how I setup my browser for work quickly.
 
-Even though this is pretty short, some of you might want the [TLDR version](http://blog.chancesmith.org/how-to-setup-your-browser-for-work-quickly/)?
+Even though this is pretty short, some of you might want the [TLDR version](https://blog.chancesmith.org/how-to-setup-your-browser-for-work-quickly/)?
 
 ## Work Browser Setup Video Walkthrough
 

@@ -7,7 +7,7 @@ tags:
   - business
 ---
 
-If you need an introduction into value pricing, check out [The Businessology Show](http://www.businessology.biz/). It’s a must.
+If you need an introduction into value pricing, check out [The Businessology Show](https://www.businessology.biz/). It’s a must.
 
 Here are the 4 areas that I measure to help me price projects.
 

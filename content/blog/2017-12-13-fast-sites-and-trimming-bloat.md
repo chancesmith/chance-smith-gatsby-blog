@@ -30,11 +30,11 @@ Us at [SH](sodiumhalogen.com) are toying with [sitespeed.io](sitespeed.io).
 You bet!
 
 - install [Docker](https://docs.docker.com/engine/installation/)
-- run it in terminal: \$`docker run --shm-size=1g --rm -v "$(pwd)":/sitespeed.io sitespeedio/sitespeed.io:4.0.0 http://www.YOURSITE.com/`
+- run it in terminal: \$`docker run --shm-size=1g --rm -v "$(pwd)":/sitespeed.io sitespeedio/sitespeed.io:4.0.0 https://www.YOURSITE.com/`
 
 ## Wait, what is Docker?
 
-[...see this post](http://blog.chancesmith.org/2017/12/12/eli5-what-is-docker/).
+[...see this post](https://blog.chancesmith.org/2017/12/12/eli5-what-is-docker/).
 
 ## Work in progress
 

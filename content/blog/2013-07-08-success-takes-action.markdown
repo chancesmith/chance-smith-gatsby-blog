@@ -31,6 +31,6 @@ Great! You are like the majority of the world, all of who do not have lists. Tho
 -Track and measure your success
 -Encourage your spouse or friend to join you(<em>No competing</em>. Encouragement only)
 
-Here is a tool(worksheet) I made to help list daily and weekly goals that <a title="Creating Productive Moments" href="http://www.chancesmith.org/creating-productive-moments/" target="_blank">you can download</a>.
+Here is a tool(worksheet) I made to help list daily and weekly goals that <a title="Creating Productive Moments" href="https://www.chancesmith.org/creating-productive-moments/" target="_blank">you can download</a>.
 
 <strong>Your thoughts?</strong> <a href="#disqus_thread">Leave your comment here.</a>

@@ -4,7 +4,7 @@ title: Use sketches to communicate with your team
 date: "2016-06-06T22Z"
 ---
 
-Working with the team at Sodium Halogen, I get to see their [Designtific Method](http://www.sodiumhalogen.com/our-method/) at work.
+Working with the team at Sodium Halogen, I get to see their [Designtific Method](https://www.sodiumhalogen.com/our-method/) at work.
 
 ## Pencils then Pixels approach
 
@@ -21,7 +21,7 @@ Progress can be made without having to decide on the palette or placement of col
 [![sodium halogen sketch](/content/images/2016/06/sodium-halogen-sketch-2016.jpg)](sodiumhalogen.com)
 
 #Some color is helpful to show a level of importance
-We'll use Copic markers ([amazon](http://amzn.to/1UlZrcW)) on areas that lead to action from the user, or just need to catch the eye.
+We'll use Copic markers ([amazon](https://amzn.to/1UlZrcW)) on areas that lead to action from the user, or just need to catch the eye.
 
 ## What if I don't design or build websites or apps?
 
@@ -35,8 +35,8 @@ Breakout the sharpie and paper and share what's in your head.
 
 ## But I can't draw!
 
-That's not true. If you really believe that, buy this book (also on [amazon](http://amzn.to/1Y387dx)), now. You'll even learn how to take more memorable and exciting notes. It's possible. I promise!
+That's not true. If you really believe that, buy this book (also on [amazon](https://amzn.to/1Y387dx)), now. You'll even learn how to take more memorable and exciting notes. It's possible. I promise!
 
 ## Want to see a sketch in action?
 
-On the Sodium Halogen site I posted a Lab Note showing what this step in the process looks like. [Check it out!](http://www.sodiumhalogen.com/are-you-sketching-to-communicate-with-your-team/)
+On the Sodium Halogen site I posted a Lab Note showing what this step in the process looks like. [Check it out!](https://www.sodiumhalogen.com/are-you-sketching-to-communicate-with-your-team/)

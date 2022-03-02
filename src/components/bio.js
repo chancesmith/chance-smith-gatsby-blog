@@ -33,11 +33,9 @@ function Bio() {
             <p>
               Hi, I'm <strong>{author}</strong>. I reside in Jackson, TN
               coaching innovators, building motivated teams, and software with{" "}
-              <a href="https://sodiumhalogen.com?ref=csio">
-                Sodium Halogen
-              </a>
+              <a href="https://sodiumhalogen.com?ref=csio">Sodium Halogen</a>
               .<br />
-              <a href="http://bit.ly/2O7YuLh">LinkedIN</a>
+              <a href="https://bit.ly/2O7YuLh">LinkedIN</a>
             </p>
           </div>
         );

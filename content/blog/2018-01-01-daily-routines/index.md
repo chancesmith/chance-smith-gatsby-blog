@@ -7,7 +7,7 @@ tags:
 
 Making progress every single day. To look back 90 days and see a good record of effort and a ton of work done, that would be awesome!
 
-After reading ["The Compound Effect" by Darren Hardy](http://amzn.to/2CzeXC8) (a must read), it was clear that I needed to be more consistent with my actions for reaching the goals I had set. With this new year I want to reach my goals. I want to stay focused. I want this to be the best year yet.
+After reading ["The Compound Effect" by Darren Hardy](https://amzn.to/2CzeXC8) (a must read), it was clear that I needed to be more consistent with my actions for reaching the goals I had set. With this new year I want to reach my goals. I want to stay focused. I want this to be the best year yet.
 
 Focus...that means I need to keep my goals front of mind. I need to review them. I need a system.
 
@@ -43,7 +43,7 @@ Routines can help with this. For us to succeed we'll need routines that will be 
 - tidy up tasks for tomorrow (Asana)
 - write (jounral, blog post, ideas, share progress)
 - clean desk &amp; Mac desktop
-- text Molly I'm on my way home from [theCO](http://attheco.com)
+- text Molly I'm on my way home from [theCO](https://attheco.com)
 
 ## Evening
 

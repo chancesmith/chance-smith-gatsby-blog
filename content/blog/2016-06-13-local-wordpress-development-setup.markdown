@@ -7,7 +7,7 @@ tags:
 ---
 
 Updated post here (late 2017):
-http://blog.chancesmith.org/2017/12/22/update-local-wordpress-setup/
+https://blog.chancesmith.org/2017/12/22/update-local-wordpress-setup/
 
 Over the past three years I've built a handle full of themes. The last 12-14 months possibly has been the heaviest amount lifting in the world of Wordpress.
 

@@ -19,7 +19,7 @@ That is way too high. I try to average between 30% – 50%. If people are leavin
 #Solution
 For starters, I was only showing the places I was working. It’s obvious no one would be interested in that. I didn't have to look at the analytics to know that.
 
-The idea is to mimic the [tools page](http://chancesmith.org/tools.php) by adding images behind the text and showcase the blog and my team onboarding workshop.
+The idea is to mimic the [tools page](https://chancesmith.org/tools.php) by adding images behind the text and showcase the blog and my team onboarding workshop.
 
 #Original
 Here I'm showing my sources of income and the tools I use.

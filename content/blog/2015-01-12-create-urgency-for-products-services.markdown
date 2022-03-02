@@ -19,4 +19,4 @@ In other words, don't stop the train. Just go slow enough to yell, "All aboard!"
 Now that your brain is thinking...
 
 Do you want more?
-How about the [longer version](http://blog.chancesmith.org/5-ways-to-create-urgency-in-your-product-or-service/)?
+How about the [longer version](https://blog.chancesmith.org/5-ways-to-create-urgency-in-your-product-or-service/)?

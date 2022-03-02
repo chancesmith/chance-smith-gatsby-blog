@@ -6,7 +6,7 @@ tags:
   - business-model
 ---
 
-For those that get a kick of finding business models, well, I wrote this for me and you. Some work or seem like great ideas. I don't want to enjoy these alone and I think they should be shared. [These business models](http://) might give someone the edge they need someday. I hope they take it and run with it.
+For those that get a kick of finding business models, well, I wrote this for me and you. Some work or seem like great ideas. I don't want to enjoy these alone and I think they should be shared. [These business models](https://) might give someone the edge they need someday. I hope they take it and run with it.
 
 #Car Detailing Service
 

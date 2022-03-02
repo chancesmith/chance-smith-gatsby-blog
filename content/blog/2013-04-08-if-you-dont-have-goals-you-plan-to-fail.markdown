@@ -26,4 +26,4 @@ I have three tools that I use to set goals to get things done. If you don't writ
 <p style="padding-left: 30px;">I keep a constant list of things that I need to get done in certain areas of work. As items come to mind, or need to be added, the list builds. My projects don't change often and this helps me manage project related tasks.</p>
 <strong>Tool #3 --&gt; </strong>Weekly Goals
 <p style="padding-left: 30px;">I could completely focus on the day to day objectives but having this Goal list every week helps be aim a little higher. This is a <em>must try</em> if you aren't ready for the other tools quite yet.</p>
-<strong>Download them all with the <a title="Creating Productive Moments" href="http://www.chancesmith.org/creating-productive-moments/" target="_blank">Productive Motivation Tools</a>.</strong>
+<strong>Download them all with the <a title="Creating Productive Moments" href="https://www.chancesmith.org/creating-productive-moments/" target="_blank">Productive Motivation Tools</a>.</strong>
