@@ -27,7 +27,7 @@ const projects = [
     title: "Envie | TeamWALT, a Southern Bank Initiative",
     description:
       "Building a mobile app to encourage creating a habit of savings by playing the envelope game everyday.",
-    link: "https://sevcosecurity.com/",
+    link: "http://savewithenvie.com",
     role: "consultant",
     date: "2020",
     type: ProjectType.MOBILE_APP,
@@ -49,7 +49,7 @@ const projects = [
     title: "FunFact",
     description:
       "Building an iOS game as an ice breaker for small groups to get to know each other.",
-    link: "https://www.funfactgame.com/",
+    link: "https://youtu.be/-KbIMCVYA9U",
     role: "developer",
     date: "2019",
     type: ProjectType.MOBILE_APP,
