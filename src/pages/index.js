@@ -44,13 +44,7 @@ class Homepage extends React.Component {
                     marginBottom: rhythm(1),
                   }}
                 >
-                  <h2
-                    style={
-                      {
-                        // marginBottom: rhythm(1 / 4),
-                      }
-                    }
-                  >
+                  <h2 className="gradient-text">
                     <Link
                       style={{ boxShadow: `none`, textDecoration: "none" }}
                       to={node.fields.slug}
