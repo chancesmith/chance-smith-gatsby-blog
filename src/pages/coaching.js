@@ -26,7 +26,7 @@ const WorkshopsPage = (props) => {
           if you have questions at all.
         </p>
 
-        {/* <h2>Strategy Consult (45 mins) - $350</h2>
+        <h2>Strategy Consult (45 mins) - $350</h2>
         <p>
           We can discuss actionable plans for your upcoming or ongoing project.
           This is a One-on-One video chat over Google Meet and you can ask me
@@ -35,8 +35,8 @@ const WorkshopsPage = (props) => {
           guaranteed.
         </p>
         <p>
-          <a href="https://zcal.co/i/WSv5j6E8">Book Now</a>
-        </p> */}
+          <a href="https://zcal.co/i/BZKlCtKu">Book Now</a>
+        </p>
 
         {/* <h2>Pair-Coding Day (6+ hours) - $350</h2>
         <p>
