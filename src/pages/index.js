@@ -36,11 +36,13 @@ class Homepage extends React.Component {
                 Join a workshop 👩‍💻👨‍💻
               </Link>
             </p>
-            {/* <script
-              dangerouslySetInnerHTML={{
-                __html: `<script async data-uid="65c4f812b4" src="https://skilled-knitter-7266.ck.page/65c4f812b4/index.js" />`,
-              }}
-            /> */}
+
+            {/* newsletter signup */}
+            <script
+              async
+              data-uid="65c4f812b4"
+              src="https://skilled-knitter-7266.ck.page/65c4f812b4/index.js"
+            />
 
             {/* <div>
               <h2>First time here?</h2>
