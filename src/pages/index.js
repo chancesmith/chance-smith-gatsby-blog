@@ -7,6 +7,13 @@ import SEO from "../components/seo";
 import { rhythm, scale } from "../utils/typography";
 
 class Homepage extends React.Component {
+  componentDidMount() {
+    const script = document.createElement("script");
+    script.src = "https://skilled-knitter-7266.ck.page/65c4f812b4/index.js";
+    script.async = true;
+    this.instance.appendChild(script);
+  }
+
   render() {
     const { data } = this.props;
     const siteTitle = data.site.siteMetadata.title;
@@ -31,10 +38,11 @@ class Homepage extends React.Component {
             </h1>
             <p style={{ fontSize: "1.3rem", color: "#777" }}>
               Join workshops and 1on1 coaching to build valuable software and
-              software building teams. <br />
-              <Link style={{ boxShadow: `none` }} to={`/coaching/`}>
+              software building teams.
+              {/* <br /> */}
+              {/* <Link style={{ boxShadow: `none` }} to={`/coaching/`}>
                 Join a workshop 👩‍💻👨‍💻
-              </Link>
+              </Link> */}
             </p>
 
             {/* newsletter signup */}
@@ -43,6 +51,7 @@ class Homepage extends React.Component {
               data-uid="65c4f812b4"
               src="https://skilled-knitter-7266.ck.page/65c4f812b4/index.js"
             />
+            <div ref={(el) => (this.instance = el)} data-uid="65c4f812b4"></div>
 
             {/* <div>
               <h2>First time here?</h2>
