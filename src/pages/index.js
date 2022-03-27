@@ -34,16 +34,33 @@ class Homepage extends React.Component {
                 marginBottom: "0.5rem",
               }}
             >
-              Less hectic, and more impactful, on-time software.
+              Less hectic, more impactful, on-time software
             </h1>
             <p style={{ fontSize: "1.3rem", color: "#777" }}>
-              Join workshops and 1on1 coaching to build valuable software and
-              software building teams.
-              {/* <br /> */}
-              {/* <Link style={{ boxShadow: `none` }} to={`/coaching/`}>
-                Join a workshop 👩‍💻👨‍💻
-              </Link> */}
+              Accelerate you and your team to confidently delivering valuable
+              software and building software teams.
             </p>
+
+            {/* <div>
+              <h2
+                style={{
+                  marginTop: "0",
+                  marginBottom: "0.5rem",
+                  fontSize: "1.2rem",
+                }}
+              >
+                First time here?
+              </h2>
+              <p>
+                If it's your first time here, the best way to get setteled is to
+                subscribe to my Feature Box Bootcamp. It's a free 3 day email
+                course to teach you how to deliver valuable software faster.
+                <br />
+                <Link to={"/archive"} style={{ textDecoration: "none" }}>
+                  Feature Boxing Bootcamp &gt;&gt;
+                </Link>
+              </p>
+            </div> */}
 
             {/* newsletter signup */}
             <script
@@ -53,11 +70,6 @@ class Homepage extends React.Component {
             />
             <div ref={(el) => (this.instance = el)} data-uid="65c4f812b4"></div>
 
-            {/* <div>
-              <h2>First time here?</h2>
-              <p>If it's your first time here, the best way to get setteled is to subscribe to my Feature Box Bootcamp. It's a free 3 day email course to teach you how to deliver valuable software faster.</p>
-              <button>Feature Boxing Bootcamp</button>
-            </div> */}
             <h2
               style={{
                 marginTop: "0",
