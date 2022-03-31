@@ -37,7 +37,7 @@ At the very least, you can decide to pause the project and push your team's atte
 
 ## Save your team from nice-to-have v2 or v(N) features
 
-Your sprint backlog is a never-ending to-do list of promising features. Teams feel like there is no end in sight. They don't know where the proverbial *project bookends* show be. So, it's vital to set constraints. Let's walk-through through how to get your team and software on track. Here are the **4 steps after each version launch**.
+Your sprint backlog is a never-ending to-do list of promising features. Teams feel like there is no end in sight. They don't know where the proverbial *project bookends* should be. So, it's vital to set constraints. Let's walk-through through how to get your team and software on track. Here are the **4 steps after each version launch**.
 
 ## 1. Celebrate the progress made
 
@@ -71,7 +71,7 @@ Our team sets a 3-month time limit for bugs to surface after we launch. If any b
 
 ## Define the bug scope 🔬
 
-Before we wrap up, so there is a standard and boundary to what the team can work on, let's define a bug. As new bugs hit your kanban inbox (LINK), your team can call an audible for what should be labeled a bug or not.
+Before we wrap up, so there is a standard and boundary to what the team can work on, let's define a bug. As new bugs hit your kanban inbox, your team can call an audible for what should be labeled a bug or not.
 
 ### What is a software bug? 🐛
 
