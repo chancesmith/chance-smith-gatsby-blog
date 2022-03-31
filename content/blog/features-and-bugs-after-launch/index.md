@@ -68,15 +68,17 @@ Before we wrap up, so there is a standard and boundary to what the team can work
 
 ### What is a software bug? 🐛
 
-unexpected behavior (ex: wrong view, )
-errors or exceptions thrown
-flow or style tweaks (UX issues, correct spelling)
+- unexpected behavior (ex: link to wrong view, expected an input error, glitch, role access)
+- errors or exceptions thrown (ex: 404, authentication failure)
+- style tweaks (ex: UX issues, correct spelling, )
 
 ### What is NOT a bug? 🙅‍♀️
 These are good examples of what should be included in a new release.
-content changes
-new features, views, or modals
-changes to modify the current features and experiences
+
+- content changes
+- US flow changes
+- new features, views, or modals
+- changes to modify the current features and experiences
 
 ## Conclusion
 
