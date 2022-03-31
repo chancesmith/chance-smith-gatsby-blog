@@ -83,8 +83,8 @@ Before we wrap up, so there is a standard and boundary to what the team can work
 
 These are good examples of what should be included in a new release.
 
-- content changes
-- UX flow changes
+- content changes (ex: new content, modify/tweak content)
+- UX flow changes (ex: little faster/slower, form input/section order)
 - new features, views, or modals
 - changes to modify the current features and experiences
 
