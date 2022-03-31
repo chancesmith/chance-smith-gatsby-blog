@@ -34,6 +34,7 @@ How many distractions do your team members have? The number isn't important, jus
 At the very least, you can decide to pause the project and push your team's attention to something else.
 
 ![sharpie text - don't start, but consider the nice to haves](./csio-consider-nice-to-haves.png)
+
 ## Save your team from nice-to-have v2 or v(N) features
 
 Your sprint backlog is a never-ending to-do list of promising features. Teams feel like there is no end in sight. They don't know where the proverbial *project bookends* show be. So, it's vital to set constraints. Let's walk-through through how to get your team and software on track. Here are the **4 steps after each version launch**.
@@ -69,6 +70,7 @@ This is where our team will lock down our capacity by stacking up 4 weeks or mor
 Our team sets a 3-month time limit for bugs to surface after we launch. If any bugs arise, we'll tackle them while waiting for the success metrics to hit.
 
 ## Define the bug scope 🔬
+
 Before we wrap up, so there is a standard and boundary to what the team can work on, let's define a bug. As new bugs hit your kanban inbox (LINK), your team can call an audible for what should be labeled a bug or not.
 
 ### What is a software bug? 🐛
@@ -78,6 +80,7 @@ Before we wrap up, so there is a standard and boundary to what the team can work
 - style tweaks (ex: UX issues, correct spelling)
 
 ### What is NOT a bug? 🙅‍♀️
+
 These are good examples of what should be included in a new release.
 
 - content changes
