@@ -70,13 +70,13 @@ Before we wrap up, so there is a standard and boundary to what the team can work
 
 - unexpected behavior (ex: link to wrong view, expected an input error, glitch, role access)
 - errors or exceptions thrown (ex: 404, authentication failure)
-- style tweaks (ex: UX issues, correct spelling, )
+- style tweaks (ex: UX issues, correct spelling)
 
 ### What is NOT a bug? 🙅‍♀️
 These are good examples of what should be included in a new release.
 
 - content changes
-- US flow changes
+- UX flow changes
 - new features, views, or modals
 - changes to modify the current features and experiences
 
