@@ -5,6 +5,8 @@ date: "2022-03-31T08Z"
 tags: project management, sodium halogen, agile
 ---
 
+![kanban of locked features and start with bugs](./csio-kanban-bugs-focused-lock.png)
+
 After a few months of consistent releases, your team crosses the finish line and finally launches the product. 🍾🙌 Glorious! Great job, everyone. Stellar work!
 
 You've now reached a point where a decision is made. Don't delay this conversation any further.
@@ -12,6 +14,8 @@ You've now reached a point where a decision is made. Don't delay this conversati
 > "Yo, team! If we keep making changes to our app, what changes should we make, and when should we start?"
 
 Let's begin to answer these two questions.
+
+![goal focused - eyeball with a flagged mountain doodle](./csio-goal-focused-doodle.png)
 
 ## How to give your team permission to focus on high-impact work
 
@@ -29,6 +33,7 @@ How many distractions do your team members have? The number isn't important, jus
 
 At the very least, you can decide to pause the project and push your team's attention to something else.
 
+![sharpie text - don't start, but consider the nice to haves](./csio-consider-nice-to-haves.png)
 ## Save your team from nice-to-have v2 or v(N) features
 
 Your sprint backlog is a never-ending to-do list of promising features. Teams feel like there is no end in sight. They don't know where the proverbial *project bookends* show be. So, it's vital to set constraints. Let's walk-through through how to get your team and software on track. Here are the **4 steps after each version launch**.
