@@ -7,7 +7,7 @@ tags: project management, development, sodium halogen, agile
 
 How can you get a faster release cycle with less blockers?
 
-Let's think abou the next two weeks and what can be released. Remember, just becuase you release doesn't mean you can make changes later. Just get something out there and get some feedback.
+Let's think about the next two weeks and what can be released. Remember, just becuase you release doesn't mean you can't make changes later. Just get something out there and get some feedback.
 
 Here are some tips I can give...
 
