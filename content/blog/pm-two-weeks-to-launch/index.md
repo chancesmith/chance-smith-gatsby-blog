@@ -13,7 +13,7 @@ Here are some tips I can give...
 
 1. First, **list tiny-tiny steps** that your team can achieve (20-50 tasks)
 
-2. Prioritize the tasks from most-to-least important. ([feature-boxing](https://chancesmith.io/feature-boxing/))
+2. Prioritize the tasks from most-to-least important. ([feature-boxing](/feature-boxing/))
 
 3. Only assign one task per person at a time
 
@@ -40,7 +40,7 @@ So, keep the branches/tasks small (really small) and moving quickly into main. A
 There are some other git workflow post to read too:
 
 - [A Simple Git Workflow](/2019-06-26-simple-git-workflow/)
-- [A Simple Git Team Workflow](2020-02-03-simple-git-team-workflow/)
+- [A Simple Git Team Workflow](/2020-02-03-simple-git-team-workflow/)
 
 Obviously, the more you use the tools the more you get more comfortable. Keep going!
 
