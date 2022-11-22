@@ -23,18 +23,18 @@ Here are some tips I can give...
 
 4. Create a branch per task with your initials and a task related name
 
-👎 Bad Example: add-news or fix-menu
+👎 Bad Example: `add-news` or `fix-menu`
 
-👍 Good Example: cs-add-news-button-on-homepage or cs-fix-menu-missing-directions
+👍 Good Example: `cs-add-news-button-on-homepage` or `cs-fix-menu-missing-directions`
 
 Now you know who's branch is who's and each task has a tiny deadline.
 
 5. Create a pull-request with each branch for someone else to review
-   - once the pull-request is reviewed, the code owner/creator is the one to merge into main
+   - once the pull-request is reviewed, the code owner/creator is the one to merge into `main`
 
-🎗might be good to only branch off of main
+🎗If you're team is new to making branches, to start, it might be good to only branch off of `main`.
 
-So, keep the branches/tasks small (really small) and moving quickly into main. Average a pull-request a day. This will help reduce merge errors. You'll have far less merge errors if you keep tasks small and merged into main often.
+So, keep the branches/tasks small (really small) and moving quickly into `main`. Average a pull-request a day. This will help reduce merge errors. You'll have far less merge errors if you keep tasks small and merged into `main` often.
 
 6. Keep an eye on the two week dealine and prioritize the tasks and bugs as needed.
    You can't do everything. So, you have to decide what is NOW or LATER and accept the trade offs.
