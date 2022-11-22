@@ -5,7 +5,11 @@ date: "2022-11-20T08Z"
 tags: project management, development, sodium halogen, agile
 ---
 
-How can you get a faster release cycle with less blockers?
+Imagine you only have two weeks to launch. What will do and what will you cut from your release?
+
+This is the mindset of a two week sprint.
+
+> "We will release our app in two weeks. We may not be done, but the features we can complete will be ready to release." - Agile Team
 
 Let's think about the next two weeks and what can be released. Remember, just becuase you release doesn't mean you can't make changes later. Just get something out there and get some feedback.
 
@@ -28,7 +32,7 @@ Now you know who's branch is who's and each task has a tiny deadline.
 5. Create a pull-request with each branch for someone else to review
    - once the pull-request is reviewed, the code owner/creator is the one to merge into main
 
-🎗 ️might be good to only branch off of main
+🎗might be good to only branch off of main
 
 So, keep the branches/tasks small (really small) and moving quickly into main. Average a pull-request a day. This will help reduce merge errors. You'll have far less merge errors if you keep tasks small and merged into main often.
 
