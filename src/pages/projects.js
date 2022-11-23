@@ -36,8 +36,10 @@ const projects = [
   },
   {
     title: "Sevco",
-    description: `Building a JavaScript web app for visualizing device inventory on a network. ${(
-      <a href="https://youtu.be/Gd9OkNIbeP8?t=330">Watch the app demo.</a>
+    description: `Building a JavaScript web app for visualizing device inventory on a network. ${() => (
+      <a href="https://www.youtube.com/watch?v=7H6zxWnzwcQ">
+        Watch the app demo.
+      </a>
     )}`,
     link: "https://sevcosecurity.com/",
     role: "consultant",
@@ -59,8 +61,9 @@ const projects = [
   },
   {
     title: "Synapase | The Vertex Project",
-    description:
-      "Building a complex JavaScript web app for data analysts to visualize data they query from a forcegraph into maps, tables, and nodes.",
+    description: `Building a complex JavaScript web app for data analysts to visualize data they query from a forcegraph into maps, tables, and nodes. ${() => (
+      <a href="https://youtu.be/Gd9OkNIbeP8?t=330">Watch the app demo.</a>
+    )}`,
     link: "https://vertex.link/",
     role: "developer",
     date: "2019",
