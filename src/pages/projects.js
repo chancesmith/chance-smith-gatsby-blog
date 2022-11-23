@@ -115,7 +115,10 @@ const ProjectsPage = (props) => {
                 <p>
                   {project.description}
                   {project.demoLink ? (
-                    <a href={project.demoLink}>Watch the app demo.</a>
+                    <>
+                      {" "}
+                      <a href={project.demoLink}>Watch the app demo.</a>
+                    </>
                   ) : null}
                 </p>
               ) : null}
