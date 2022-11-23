@@ -36,10 +36,9 @@ const projects = [
   },
   {
     title: "Sevco",
-    description: `Building a JavaScript web app for visualizing device inventory on a network. ${() =>
-      (<a href="https://www.youtube.com/watch?v=7H6zxWnzwcQ">
-        Watch the app demo.
-      </a>)()}`,
+    description:
+      "Building a JavaScript web app for visualizing device inventory on a network.",
+    demoLink: "https://www.youtube.com/watch?v=7H6zxWnzwcQ",
     link: "https://sevcosecurity.com/",
     role: "consultant",
     date: "2020",
@@ -51,6 +50,7 @@ const projects = [
     title: "FunFact",
     description:
       "Building an iOS game as an ice breaker for small groups to get to know each other.",
+    demoLink: "https://youtu.be/Gd9OkNIbeP8?t=330",
     link: "https://youtu.be/-KbIMCVYA9U",
     role: "developer",
     date: "2019",
@@ -60,10 +60,9 @@ const projects = [
   },
   {
     title: "Synapase | The Vertex Project",
-    description: `Building a complex JavaScript web app for data analysts to visualize data they query from a forcegraph into maps, tables, and nodes. ${() =>
-      (<a href="https://youtu.be/Gd9OkNIbeP8?t=330">
-        Watch the app demo.
-      </a>)()}`,
+    description:
+      "Building a complex JavaScript web app for data analysts to visualize data they query from a forcegraph into maps, tables, and nodes.",
+    demoLink: "https://youtu.be/Gd9OkNIbeP8?t=330",
     link: "https://vertex.link/",
     role: "developer",
     date: "2019",
@@ -112,7 +111,14 @@ const ProjectsPage = (props) => {
               <p style={{ margin: 0, color: "#878787" }}>
                 {project.date} | {project.type} | {project.role}
               </p>
-              {project.description ? <p>{project.description}</p> : null}
+              {project.description ? (
+                <p>
+                  {project.description} $
+                  {project.demoLink ? (
+                    <a href={project.demoLink}>Watch the app demo.</a>
+                  ) : null}
+                </p>
+              ) : null}
               {project.outcome ? (
                 <p>Business Outcome: {project.outcome}</p>
               ) : null}
