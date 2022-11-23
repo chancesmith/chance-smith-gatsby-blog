@@ -36,8 +36,9 @@ const projects = [
   },
   {
     title: "Sevco",
-    description:
-      "Building a JavaScript web app for visualizing device inventory on a network.",
+    description: `Building a JavaScript web app for visualizing device inventory on a network. ${(
+      <a href="https://youtu.be/Gd9OkNIbeP8?t=330">Watch the app demo.</a>
+    )}`,
     link: "https://sevcosecurity.com/",
     role: "consultant",
     date: "2020",
@@ -53,7 +54,7 @@ const projects = [
     role: "developer",
     date: "2019",
     type: ProjectType.MOBILE_APP,
-    outcome: "",
+    outcome: "🏆 App of the Day in 2022",
     image: "funfact-game.webp",
   },
   {
