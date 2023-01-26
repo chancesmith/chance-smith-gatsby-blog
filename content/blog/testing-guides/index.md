@@ -27,6 +27,10 @@ Mental models for when and how to create tests. These give your team confience w
 
 7. don't let the bugs repeat by adding a test first
 
+8. don't go for gold first
+
+9. first test if you got nothin, and then test for the unexpected
+
 [last updated: 01/26/2023]
 
 Do you struggle writing tests, but see the benefits?
