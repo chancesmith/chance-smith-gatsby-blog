@@ -31,6 +31,8 @@ Mental models for when and how to create tests. These give your team confience w
 
 9. first test if you got nothin, and then test for the unexpected
 
+10. testing is designing, documenting, and validating how the function will be used
+
 [last updated: 01/26/2023]
 
 Do you struggle writing tests, but see the benefits?
