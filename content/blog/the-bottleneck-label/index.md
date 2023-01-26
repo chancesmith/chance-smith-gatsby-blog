@@ -5,7 +5,7 @@ date: "2023-01-20T08Z"
 tags: business
 ---
 
-A friend, [David Dickerson](https://www.daviddickerson.net/?ref=chancesmith.io) (designer and big-brain thinker), and I talked about the craft and setting constraints. David says...
+A friend (designer and big-brain thinker) and I talked about the craft and setting constraints. David says...
 
 > I see teams constantly fighting the "we're the biggest bottleneck" vibe, which ain't great for a team.
 
