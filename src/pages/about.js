@@ -31,7 +31,7 @@ class AboutPage extends React.Component {
           </p> */}
           <p>
             <strong>Chance has worked with</strong> prestigious and innovative
-            companies like Chick-fil-a, Vanderbilt University, Popvox, and The
+            companies like Chick-fil-a, Vanderbilt University, POPVOX, and The
             Vertex Project. He's also a 5x 🥇🥇🥇🥇🥇 1st place hackathon winner.{" "}
             <a href="/projects">See previous work.</a>
           </p>
