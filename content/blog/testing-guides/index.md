@@ -13,7 +13,7 @@ These help us test the right things and have more confience without needing 100%
 
 Mental models for when and how to create tests. These give your team confience while still having time for work and a positive impact on your business goals.
 
-1. keep your frontend really dumb, abstract the logic and test it that part
+1. keep your frontend really dumb, abstract the logic and test that part
 
 2. don't test what you don't own
 
