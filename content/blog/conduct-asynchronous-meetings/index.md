@@ -9,7 +9,9 @@ When you’re stuck, screencast the issue you’re having and send it to someone
 
 Screencasts allow for asynchronous meetings and help you move on to the next task while you wait.
 
-Screenshot looms in discord***
+Here I sent a Loom conducting a 5on2 meeting asynchronously
+
+![loom link in discord](./loom-link-in-discord.jpeg)
 
 Another example of this is like asking a question on Reddit or StackOverflow. Wherever you post your question, once you’ve posted your question, you can start a new task while you wait for an answer.
 
