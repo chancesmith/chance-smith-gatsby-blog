@@ -9,7 +9,7 @@ When you’re stuck, screencast the issue you’re having and send it to someone
 
 Screencasts allow for asynchronous meetings and help you move on to the next task while you wait.
 
-Here I sent a Loom to a colleague in our teams Discord channel conducting a 5on2 meeting asynchronously
+Here I sent a list next tasks to a colleague in our Discord chat and a Loom conducting a 5on2 meeting asynchronously.
 
 ![loom link in discord](./loom-link-in-discord.jpeg)
 
