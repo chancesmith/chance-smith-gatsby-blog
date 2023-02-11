@@ -22,4 +22,6 @@ Asynchronous meetings are still a form of batching up your questions, so you’r
 Joining an asynchronous meeting means I can attend/consume when it’s convenient and consume at a convenient pace (2.5-3.5x speed).
 
 ## Everyone can join asynchronously
-Even having a 1on1 meet first. Everyone else that wanted to get looped can attended asynchronously.
+Even having a 1on1 meet first can be a good default. Just record the meeting. Everyone else that wanted to get looped can attended asynchronously.
+
+An added benefit is you can reference any details from the calls later.
