@@ -32,3 +32,7 @@ Demo #2
 I wonder if auto focusing on the field or the error list is still disorienting for those that have no site. This was listed on the checklist as well.
 
 The next step will be to use your test these two demos, and get feedback about which approach is best.
+
+### Are in app keyboard shortcuts better for navigating?
+
+### Is a it best to prevent horizontal scrolling and keep all content vertical like a mobile experience?
