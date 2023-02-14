@@ -21,7 +21,7 @@ Asynchronous meetings are still a form of batching up your questions, so you’r
 
 ## Attend when ready
 
-Joining an asynchronous meeting means I can attend when it’s convenient. Even the pace is convenient (2.5-3.5x speed).
+Joining an [asynchronous meeting](https://www.sodiumhalogen.com/glossary#asynchronous-meetings?ref=chancesmith) means I can attend when it’s convenient. Even the pace is convenient (2.5-3.5x speed).
 
 ## Everyone can join asynchronously
 
