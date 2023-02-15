@@ -45,3 +45,9 @@ I'll start with VoiceOver and see if the in-app keyboard shortcuts are available
 ### Is it best to prevent horizontal scrolling and keep all content vertical like a mobile experience?
 
 While watching users move around their screens, the user spends too much time horizontal + vertical scrolling. Removing the horizontal axis will reduce the hide-and-seek experience.
+
+## Experience during the research
+
+Apple does a great job bringing attention to how they've solved the accessibility challenge.
+
+https://www.youtube.com/watch?v=8sX9IEHWRJ8
