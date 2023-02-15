@@ -15,6 +15,9 @@ I'm starting a new project helping the visually impaired use software. There are
 - https://www.a11yproject.com/checklist
 - http://inclusive-components.design
 - https://a11ysupport.io/
+- [personas with access needs](https://alphagov.github.io/accessibility-personas/)
+- [accessiblity kit](https://www.voorhoede.nl/nl/blog/accessibility-kit-for-web-developers/)
+- [measure the accesibility of your site](https://accessibe.com/accessscan)
 
 ## Questions
 
