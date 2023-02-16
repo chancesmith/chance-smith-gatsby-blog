@@ -5,34 +5,52 @@ date: "2023-02-10T08Z"
 tags: development, sodium halogen
 ---
 
-This is a work in progress post. 
-Last updated: 02/13/23
+This post is a work in progress.
+Last updated: 02/15/23
 
-I’m starting a new project that is helping visually impaired use software. I am finding there are lots of resources and need this to be a digital garden of sorts to organize an approach and the research around the topic. I hope this is helpful and you enjoy. Bear with me as this is not organized or curated in its current state.
+I'm starting a new project helping the visually impaired use software. There are many resources; I need this to be a digital garden of sorts to organize an approach and research around the topic. I hope this is helpful and that you enjoy it. Bear with me, as this needs to be organized and curated in its current state.
 
 ## Resource links
 
 - https://www.a11yproject.com/checklist
 - http://inclusive-components.design
+- https://a11ysupport.io/
+- [personas with access needs](https://alphagov.github.io/accessibility-personas/)
+- [accessiblity kit](https://www.voorhoede.nl/nl/blog/accessibility-kit-for-web-developers/)
+- [measure the accesibility of your site](https://accessibe.com/accessscan)
 
 ## Questions
 
 ### How are form errors handled best?
 
-At first I thought errors would be auto focused on. The user would be taken to first field that had a error and the error would be read to them.
+At first, I thought errors would be auto-focused. The user would be taken to the first field with a mistake, and the error would be read to them.
 
 Demo #1
 ![autofocused error on field a11y](autofocus-field.png)
 
-Yet, after finding the A11y Project checklist, it’s recommended to put the list of errors at the top of the form.
+Yet, after finding the A11y Project checklist, it's recommended to put the list of errors at the top of the form.
 
 Demo #2
 ![auto focusing on the error list above the fields](autofocus-error-list.png)
 
-I wonder if auto focusing on the field or the error list is still disorienting for those that have no site. This was listed on the checklist as well.
+Is auto-focusing on the field or the error list still disorienting for those with no site? This was listed on the checklist as well.
 
-The next step will be to use your test these two demos, and get feedback about which approach is best.
+The next step will be to use your test in these two demos and get feedback about the best approach.
 
-### Are in app keyboard shortcuts better for navigating?
+### Are in-app keyboard shortcuts better for navigating?
 
-### Is a it best to prevent horizontal scrolling and keep all content vertical like a mobile experience?
+If there are app-specific keyboard shortcuts, users shared that exiting the [JAWS Virtual PC Cursor](https://support.freedomscientific.com/teachers/lessons/4.2.3_VirtualPCCursor.htm) is annoying.
+
+I'll start with VoiceOver and see if the in-app keyboard shortcuts are available while VoiceOver is on.
+
+...need to test this.
+
+### Is it best to prevent horizontal scrolling and keep all content vertical like a mobile experience?
+
+While watching users move around their screens, the user spends too much time horizontal + vertical scrolling. Removing the horizontal axis will reduce the hide-and-seek experience.
+
+## Experience during the research
+
+Apple does a great job bringing attention to how they've solved the accessibility challenge.
+
+https://www.youtube.com/watch?v=8sX9IEHWRJ8
