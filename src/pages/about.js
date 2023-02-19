@@ -48,7 +48,7 @@ class AboutPage extends React.Component {
             <Product
               title={`Hire-Me Kit 📒`}
               link="/hire-me-kit"
-              subTitle="A proven template to catch the their attention and get hired."
+              subTitle="A proven template to catch their attention and get hired."
             />
             {/* <Product
               title={`Level-Up Mastermind 💪`}
