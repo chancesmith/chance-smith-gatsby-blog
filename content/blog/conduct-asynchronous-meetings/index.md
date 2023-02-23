@@ -11,7 +11,8 @@ Screencasts allow for asynchronous meetings and help you move on to the next tas
 
 ## Asynchronous meeting in action
 
-Here I sent a list next tasks to a colleague in our Discord chat. The link to the Loom video is an asynchronous meeting. A [5on2 meeting](https://www.sodiumhalogen.com/glossary#5on2).
+Here I sent a list of next tasks to a colleague via Discord. The link to the Loom video is was the asynchronous meeting. A [5on2 meeting](https://www.sodiumhalogen.com/glossary#5on2).
+
 
 ![loom link in discord](./loom-link-in-discord.jpeg)
 
