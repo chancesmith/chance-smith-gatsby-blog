@@ -33,29 +33,33 @@ Here are three parts to help you be successful in your prototyping. Let's get to
 
 ## 1. Define the challenges
 
-Break out the sticky notes and list your riskiest assumptions, unknowns, or user frustrations. You might have a mix of these, and that's fine.
+Start by listing the problems that could benefit from a prototype.
 
-Put these onto a 2x2 (Eisenhower matrix) of High-Impact and Low Effort.
+1. Break out the sticky notes and list your riskiest assumptions, unknowns, or user frustrations. You might have a mix of these, and that's fine.
 
-Then pick three high-impact challenges from the matrix you want to prototype.
+2. Put these onto a 2x2 (Eisenhower matrix) of High-Impact and Low Effort.
+
+3. Then pick three high-impact challenges from the matrix you want to prototype.
 
 ## 2. Set Constraints
 
-So we can move quickly, let's set boundaries of time and materials upfront. Decide what you will and will not use. When building software, you can consider aggressive time frames (2 hours, 2 days, 1 week), and your materials can mix the following. We suggest you only pick one or two.
+So we can move quickly, let's set boundaries of time and materials upfront. Decide what you will and will not use. 
+
+When building software, you can consider aggressive time frames (2 hours, 2 days, 1 week), and your materials can be a mix of the following. We suggest you picking more than one.
 
 - no database
-- paper and pen only
+- raw materials (paper and pen)
 - design tool only (i.e., Figma)
-- backend only (i.e., endpoints, logs, CLI)
-- front-end only (i.e., mock server, localstorage)
+- no frontend (i.e., endpoints, logs, CLI)
+- no backend (i.e., mock server, localstorage)
 - no pixels (i.e., SMS, email, carrier pigeon, fax 🫢)
 - no custom CSS (i.e., component libraries, MVP CSS)
 
-These constraints are your permission to focus on what needs to be learned or validated.
+These constraints give you permission to focus on what needs to be learned or validated.
 
 ## 3. Learn and Burn
 
-These constraints give you blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. You need to be ready to learn and start over. The faster you reach the finish line, the less you'll be attached to the prototype (sunk cost bias).
+These constraints are your blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. You need to be ready to learn and start over. The faster you reach the finish line, the less you'll be attached to the prototype (sunk cost bias).
 
 ## A Prototype Example
 
