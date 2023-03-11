@@ -27,7 +27,7 @@ Many years ago, we were approached to build [The FunFact Game](https://apps.appl
 
 If you're going to move fast and learn, you need to be willing to fail. Like Facebook's motto, "Move fast and break things."
 
-In the Google Venture’s Design Sprint framework, you ideate, prototype, and user test all in just 5 days. When talking about the Design Sprint book, Eric Reis say you need a [prototype mindset](https://www.linkedin.com/pulse/prototype-mindset-eric-ries/).
+In the Google Venture’s Design Sprint framework, you ideate, prototype, and user test all in just 5 days. When talking about the Design Sprint book, Eric Reis says you need a [prototype mindset](https://www.linkedin.com/pulse/prototype-mindset-eric-ries/).
 
 > "Instead of taking weeks, months, or, heck, even years building some solution, you’re going to fake it. In one day, you’ll make a prototype that appears real, just like that Old West façade. And on the next day, your customers — like a movie audience — will forget their surroundings and just react."
 
