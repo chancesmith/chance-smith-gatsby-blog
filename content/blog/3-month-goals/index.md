@@ -1,24 +1,92 @@
 ---
 layout: post
-title: "Helping The Team With 3 Month Goals"
-date: "2023-03-08T08Z"
-tags: leadership, sodium halogen
+title: "Rapid Prototyping Framework"
+date: "2023-03-11T08Z"
+tags: development, sodium halogen
 ---
 
-For almost 4 years now, we've done quarterly checkups with our team. Every 3 months, we'll meet with one team member and see how they're doing and ask how we can help them.
+I value it when we have big problems to solve or when we are slow at work. These times allow us to burden a heavier load than we're used to and sharpen our saw. They're why I enjoy hackathons so much. These moments are great for prototyping, learning, and exploring.
 
-## Goal Setting for the Team
+So, here is our Rapid Prototyping Framework.
 
-Yet, one area we've needed help with is helping them set goals for themselves. We've pushed them to think 5 years out about where they want to be. [Like Google's 20% Rule](https://www.inc.com/bill-murphy-jr/google-says-it-still-uses-20-percent-rule-you-should-totally-copy-it.html#:~:text=Google%20itself%20says%20yes.%20A%20Google%20spokesperson%20told%20me%20this%20week%20that%20%2220%2Dpercent%20time%22%20is%20%22a%20long%2Dstanding%20Google%20initiative...and%20still%20an%20active%20program.%22), the 3 Month Goal is aimed to be worked on during ~20% of their at-work time. If the goal can be centered around how it helps them, the team, AND the company, it's a win-win-win. Think IKIGAI. Here is an image of our checkup form asking the team member to pick a 3-month goal that aligns with their's and SH's wants and needs.
+## Who should read this?
 
-<span style="border: 4px solid #444; display: block;">![image of our checkup form asking the team member to pick a goal that aligns with their wants and needs and SH's too](./sh-ikigai.png)</span>
+Continue reading if you have a big problem to solve, want to reduce the risk, and want a safe area to practice, a place you can't fail.
 
-## New Goal Setting Idea
+Many years ago, we were approached to build [The FunFact Game](https://apps.apple.com/us/app/fun-fact-best-party-game-app/id1525612753), a fun digital game to break the ice among small in-person parties. There were many challenges we would have to overcome; commerce, game rules, virality, and user engagement, to name a few. We were excited and needed tools and exercises to solve these problems faster. We first reached for Rapid Prototyping. Let's break it down.
 
-Here is what we came up with today. We'll see how it goes.
+**Prototyping** – a sample & design of a new product built to evaluate a concept or procedure. Some
 
-**3 Month Goal**: What if you set a goal of X number of sandboxes created over the following x weeks (until the next checkup) covering a mix of X, Y, and Z areas in which you want to practice (i.e., backend, full-stack, TDD, a11y, react-native)?
+**Rapid** - Happening in a short time or fast pace.
 
-**Example**: So I can get reps in areas that help me and SH...by April 10th, I'll have completed 4 tiny sandboxes related to upcoming features we need in SH projects. I'll complete one every 2-3 weeks and share it with the team during Beer30 or Loom.
+**Rapid Prototyping** - Prototyping in a Lean Startup fashion; Build, Measure, Learn. Be willing to start over or burn it to the ground.
 
-This approach will make setting trackable goals easier and less intimidating.
+If you're going to move fast and learn, you need to be willing to fail. Like Facebook's motto, "Move fast and break things."
+
+Here are three parts to help you be successful in your prototyping. Let's get to it.
+
+## 1. Define the challenges
+
+Break out the sticky notes and list your riskiest assumptions, unknowns, or user frustrations. You might have a mix of these, and that's fine.
+
+Put these onto a 2x2 (Eisenhower matrix) of High-Impact and Low Effort.
+
+Then pick three high-impact challenges from the matrix you want to prototype.
+
+## 2. Set Constraints
+
+So we can move quickly, let's set boundaries of time and materials upfront. Decide what you will and will not use. When building software, you can consider aggressive time frames (2 hours, 2 days, 1 week), and your materials can mix the following. We suggest you only pick one or two.
+
+- no database
+- paper and pen only
+- design tool only (i.e., Figma)
+- backend only (i.e., endpoints, logs, CLI)
+- front-end only (i.e., mock server, localstorage)
+- no pixels (i.e., SMS, email, carrier pigeon, fax 🫢)
+- no custom CSS (i.e., component libraries, MVP CSS)
+
+## 3. Learn and Burn
+
+These constraints give you blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. You need to be ready to learn and start over. The faster you reach the finish line, the less you'll be attached to the prototype (sunk cost bias).
+
+## A Prototype Example
+
+With FunFact, we did just that; we knew making the game experience needed to be simple and fun and to encourage (not divert) conversation during the party.
+
+We spent 5 hours building a prototype to play FunFact with one device, no custom CSS, and no backend. [Checkout it the FunFact prototype.](https://sh-lab-ff-4ce15b.netlify.app/)
+
+<!-- IMAGE of DEMO*** -->
+
+We learned playing the game with one device wasn't fun and slowed the gameplay. People would start new conversations while others were actively playing the game.
+
+Building the rapid prototype and getting real users to play it was a tremendous value add to the project! We then understood the game dynamics better and found user frustrations we needed to avoid.
+
+With that, we already had one complete cycle of solving the problem. The 5-hour prototype was one rep under our belt, and from there, we were ready to iterate. 💪
+
+Naval said it best...
+
+<blockquote class= "twitter-tweet"><p lang= "en" dir= "ltr"> It's not 10,000 hours, it's 10,000 iterations.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1594923336043069441?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Take Action
+
+1. List out the challenges [2mins]
+1. if you're in a group, have everyone pick their top 2-3 challenges [1min]
+1. Put the challenges on the 2x2 (impact/effort) matrix [5mins]
+1. Select three high-impact challenges to prototype [2mins]
+
+- in a group, everyone gets 2 votes dots and can use them to vote on any challenge on the matrix
+
+1. For each of the 3 challenges, set a ~3Min timer to pick constraints for each time constraint: 2 hours, 2 days, 1 week
+
+- example: 2 hours – Figma, 2 days – no database, 1 week – no custom CSS
+
+1. Decide and build your first prototype. Hold to your constraints.
+1. [User test your prototype](https://www.sodiumhalogen.com/insights/user-testing-manifesto). Get out of the office and get a real user test it out.
+
+## The points is
+
+Don't spend over spend on the learning and staying stuck.
+
+Try something and get feedback.
+
+You have permission to try and to startover if you need.
