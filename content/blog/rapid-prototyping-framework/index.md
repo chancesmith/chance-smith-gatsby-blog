@@ -87,7 +87,7 @@ How do we get better? Naval said it best...
 
 ## Take Action
 
-Now it’s your turn to prototype your next challenge. Here is your framework with [⏲️timers] you can set.
+Now it’s your turn to prototype your next challenge. Here is our framework with [⏲️timers] you can set.
 
 1. Brainstorm to list out all your challenges [2mins]
 
