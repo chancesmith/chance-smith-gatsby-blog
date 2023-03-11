@@ -13,6 +13,10 @@ So, here is our Rapid Prototyping Framework.
 
 Continue reading if you have a big problem to solve, want to reduce the risk, and want a safe area to practice, a place you can't fail.
 
+Continue reading if you are new to prototyping or want to improve your prototyping process.
+
+## We prototyped a game
+
 Many years ago, we were approached to build [The FunFact Game](https://apps.apple.com/us/app/fun-fact-best-party-game-app/id1525612753), a fun digital game to break the ice among small in-person parties. There were many challenges we would have to overcome; commerce, game rules, virality, and user engagement, to name a few. We were excited and needed tools and exercises to solve these problems faster. We first reached for Rapid Prototyping. Let's break it down.
 
 **Prototyping** – a sample & design of a new product built to evaluate a concept or procedure. Some
@@ -23,13 +27,13 @@ Many years ago, we were approached to build [The FunFact Game](https://apps.appl
 
 If you're going to move fast and learn, you need to be willing to fail. Like Facebook's motto, "Move fast and break things."
 
-In the Design Sprint framework, you ideate, prototype, and user test in 5 days. Eric Reis talks about having a [prototype mindset](https://www.linkedin.com/pulse/prototype-mindset-eric-ries/).
+In the Google Venture’s Design Sprint framework, you ideate, prototype, and user test all in just 5 days. When talking about the Design Sprint book, Eric Reis say you need a [prototype mindset](https://www.linkedin.com/pulse/prototype-mindset-eric-ries/).
 
-> "...instead of taking weeks, months, or, heck, even years building some solution, you’re going to fake it. In one day, you’ll make a prototype that appears real, just like that Old West façade. And on the next day, your customers — like a movie audience — will forget their surroundings and just react."
+> "Instead of taking weeks, months, or, heck, even years building some solution, you’re going to fake it. In one day, you’ll make a prototype that appears real, just like that Old West façade. And on the next day, your customers — like a movie audience — will forget their surroundings and just react."
 
-Are you ready to build fast and learn quickly?
+Are you ready to build fast and learn quick?
 
-Here are three parts to help you be successful in your prototyping. Let's get to it.
+Here are three steps to help you be successful in your prototyping. Let's get to it.
 
 ## 1. Define the challenges
 
@@ -59,7 +63,9 @@ These constraints give you permission to focus on what needs to be learned or va
 
 ## 3. Learn and Burn
 
-These constraints are your blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. You need to be ready to learn and start over. The faster you reach the finish line, the less you'll be attached to the prototype (sunk cost bias).
+These constraints are your blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. 
+
+You need to be ready to learn and start over. The faster you reach the finish line, the less you'll be attached to the prototype (sunk cost bias).
 
 ## A Prototype Example
 
