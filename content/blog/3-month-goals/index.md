@@ -55,7 +55,7 @@ These constraints give you blinders to reach a stopping point or a learning mile
 
 With FunFact, we did just that; we knew making the game experience needed to be simple and fun and to encourage (not divert) conversation during the party.
 
-We spent 5 hours building a prototype to play FunFact with one device, no custom CSS, and no backend. [Checkout it the FunFact prototype.](https://sh-lab-ff-4ce15b.netlify.app/)
+We spent 5 hours building a prototype to play FunFact with one device, no custom CSS, and no backend. [Checkout out the FunFact prototype we built.](https://sh-lab-ff-4ce15b.netlify.app/)
 
 <!-- IMAGE of DEMO*** -->
 
@@ -65,7 +65,7 @@ Building the rapid prototype and getting real users to play it was a tremendous 
 
 With that, we already had one complete cycle of solving the problem. The 5-hour prototype was one rep under our belt, and from there, we were ready to iterate. 💪
 
-Naval said it best...
+How do we get better? Naval said it best...
 
 <blockquote class= "twitter-tweet"><p lang= "en" dir= "ltr"> It's not 10,000 hours, it's 10,000 iterations.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1594923336043069441?ref_src=twsrc%5Etfw">November 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
