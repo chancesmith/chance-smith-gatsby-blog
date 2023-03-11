@@ -87,15 +87,17 @@ How do we get better? Naval said it best...
 
 ## Take Action
 
-1. List out the challenges [2mins]
+Now it’s your turn to prototype your next challenge. Here is your framework with [⏲️timers] you can set.
 
-If you're in a group, have everyone pick their top 2-3 challenges [1min]
+1. Brainstorm to list out all your challenges [2mins]
 
-2. Put the challenges on the 2x2 (impact/effort) matrix [5mins]
+If you're in a group, after everyone has brainstormed, have everyone pick their top 2-3 challenges [1min]
+
+2. Put the challenges on a 2x2 (impact/effort) matrix [5mins]
 
 3. Select three high-impact challenges to prototype [2mins]
 
-In a group, everyone gets 2 votes dots and can use them to vote on any challenge on the matrix
+In a group, everyone gets 2 vote dots and can use them to vote on any challenge on the matrix.
 
 4. For each of the 3 challenges, set a ~3Min timer to pick constraints for each time constraint: 2 hours, 2 days, 1 week
 
@@ -115,7 +117,7 @@ Then repeat…
 
 ## The points is
 
-Don't spend over spend on the learning and staying stuck.
+Don't over spend on the learning and staying stuck.
 
 Try something and get feedback.
 
