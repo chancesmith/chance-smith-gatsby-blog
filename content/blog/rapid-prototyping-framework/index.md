@@ -88,17 +88,18 @@ How do we get better? Naval said it best...
 ## Take Action
 
 1. List out the challenges [2mins]
-  - if you're in a group, have everyone pick their top 2-3 challenges [1min]
+
+If you're in a group, have everyone pick their top 2-3 challenges [1min]
 
 2. Put the challenges on the 2x2 (impact/effort) matrix [5mins]
 
 3. Select three high-impact challenges to prototype [2mins]
 
-  - in a group, everyone gets 2 votes dots and can use them to vote on any challenge on the matrix
+In a group, everyone gets 2 votes dots and can use them to vote on any challenge on the matrix
 
 4. For each of the 3 challenges, set a ~3Min timer to pick constraints for each time constraint: 2 hours, 2 days, 1 week
 
-  - example: 2 hours – Figma, 2 days – no database, 1 week – no custom CSS
+Example: 2 hours – Figma, 2 days – no database, 1 week – no custom CSS
 
 5. Decide and build your first prototype. Hold to your constraints.
   
