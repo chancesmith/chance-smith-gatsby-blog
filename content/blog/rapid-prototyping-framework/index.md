@@ -47,9 +47,9 @@ Start by listing the problems that could benefit from a prototype.
 
 ## 2. Set Constraints
 
-So we can move quickly, let's set boundaries of time and materials upfront. Decide what you will and will not use. 
+So you can move quickly, let's set boundaries of time and materials upfront. Decide what you will and will not use. 
 
-When building software, you can consider aggressive time frames (2 hours, 2 days, 1 week), and your materials can be a mix of the following. We suggest you picking more than one.
+When building software, you can consider aggressive time frames (2 hours, 2 days, 1 week), and your materials can be a mix of the following. We suggest you pick more than one.
 
 - no database
 - raw materials (paper and pen)
