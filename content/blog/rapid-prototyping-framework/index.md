@@ -23,6 +23,12 @@ Many years ago, we were approached to build [The FunFact Game](https://apps.appl
 
 If you're going to move fast and learn, you need to be willing to fail. Like Facebook's motto, "Move fast and break things."
 
+Eric Reis talks about having a [prototype mindset](https://www.linkedin.com/pulse/prototype-mindset-eric-ries/).
+
+> "...instead of taking weeks, months, or, heck, even years building some solution, you’re going to fake it. In one day, you’ll make a prototype that appears real, just like that Old West façade. And on the next day, your customers — like a movie audience — will forget their surroundings and just react."
+
+Are you ready to build fast and learn quickly?
+
 Here are three parts to help you be successful in your prototyping. Let's get to it.
 
 ## 1. Define the challenges
