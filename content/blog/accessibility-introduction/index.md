@@ -6,7 +6,7 @@ tags: development, sodium halogen
 ---
 
 This post is a work in progress.
-Last updated: 02/15/23
+Last updated: 02/23/2023
 
 I'm starting a new project helping the visually impaired use software. There are many resources; I need this to be a digital garden of sorts to organize an approach and research around the topic. I hope this is helpful and that you enjoy it. Bear with me, as this needs to be organized and curated in its current state.
 
@@ -18,6 +18,8 @@ I'm starting a new project helping the visually impaired use software. There are
 - [personas with access needs](https://alphagov.github.io/accessibility-personas/)
 - [accessiblity kit](https://www.voorhoede.nl/nl/blog/accessibility-kit-for-web-developers/)
 - [measure the accesibility of your site](https://accessibe.com/accessscan)
+- [frontend accessiblity training with FrontendMasters](https://frontendmasters.com/courses/?q=accessibility)
+- [nocoffee firefox addon](https://addons.mozilla.org/en-US/firefox/addon/nocoffee/)
 
 ## Questions
 
@@ -33,7 +35,7 @@ Yet, after finding the A11y Project checklist, it's recommended to put the list 
 Demo #2
 ![auto focusing on the error list above the fields](autofocus-error-list.png)
 
-Is auto-focusing on the field or the error list still disorienting for those with no site? This was listed on the checklist as well.
+Is auto-focusing on the field or the error list still disorienting for those with no sight? This was listed on the checklist as well.
 
 The next step will be to use your test in these two demos and get feedback about the best approach.
 
@@ -49,8 +51,6 @@ I'll start with VoiceOver and see if the in-app keyboard shortcuts are available
 
 While watching users move around their screens, the user spends too much time horizontal + vertical scrolling. Removing the horizontal axis will reduce the hide-and-seek experience.
 
-## Experience during the research
+## My empthy dialed up
 
-Apple does a great job bringing attention to how they've solved the accessibility challenge.
-
-https://www.youtube.com/watch?v=8sX9IEHWRJ8
+Apple does a great job bringing attention to how they've solved the accessibility challenge. ([🎥 The Greatest](https://www.youtube.com/watch?v=8sX9IEHWRJ8))

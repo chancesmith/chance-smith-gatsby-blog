@@ -32,7 +32,7 @@ class AboutPage extends React.Component {
           <p>
             <strong>Chance has worked with</strong> prestigious and innovative
             companies like Chick-fil-a, Vanderbilt University, POPVOX, and The
-            Vertex Project. He's also a 5x 🥇🥇🥇🥇🥇 1st place hackathon winner.{" "}
+            Vertex Project. He's also a 6x 🥇🥇🥇🥇🥇🥇 1st place hackathon winner.{" "}
             <a href="/projects">See previous work.</a>
           </p>
 
@@ -48,7 +48,7 @@ class AboutPage extends React.Component {
             <Product
               title={`Hire-Me Kit 📒`}
               link="/hire-me-kit"
-              subTitle="A proven template to catch the their attention and get hired."
+              subTitle="A proven template to catch their attention and get hired."
             />
             {/* <Product
               title={`Level-Up Mastermind 💪`}
