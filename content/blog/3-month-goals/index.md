@@ -45,6 +45,8 @@ So we can move quickly, let's set boundaries of time and materials upfront. Deci
 - no pixels (i.e., SMS, email, carrier pigeon, fax 🫢)
 - no custom CSS (i.e., component libraries, MVP CSS)
 
+These constraints are your permission to focus on what needs to be learned or validated.
+
 ## 3. Learn and Burn
 
 These constraints give you blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. You need to be ready to learn and start over. The faster you reach the finish line, the less you'll be attached to the prototype (sunk cost bias).
