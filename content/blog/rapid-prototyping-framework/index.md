@@ -63,7 +63,7 @@ These constraints give you permission to focus on what needs to be learned or va
 
 ## 3. Learn and Burn
 
-These constraints are your blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. 
+Constraints are your blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. 
 
 You need to be ready to learn and start over. The faster you reach the finish line, the less you'll be attached to the prototype (sunk cost bias).
 
@@ -88,18 +88,23 @@ How do we get better? Naval said it best...
 ## Take Action
 
 1. List out the challenges [2mins]
-1. if you're in a group, have everyone pick their top 2-3 challenges [1min]
-1. Put the challenges on the 2x2 (impact/effort) matrix [5mins]
-1. Select three high-impact challenges to prototype [2mins]
+  - if you're in a group, have everyone pick their top 2-3 challenges [1min]
 
-- in a group, everyone gets 2 votes dots and can use them to vote on any challenge on the matrix
+2. Put the challenges on the 2x2 (impact/effort) matrix [5mins]
 
-1. For each of the 3 challenges, set a ~3Min timer to pick constraints for each time constraint: 2 hours, 2 days, 1 week
+3. Select three high-impact challenges to prototype [2mins]
 
-- example: 2 hours – Figma, 2 days – no database, 1 week – no custom CSS
+  - in a group, everyone gets 2 votes dots and can use them to vote on any challenge on the matrix
 
-1. Decide and build your first prototype. Hold to your constraints.
-1. [User test your prototype](https://www.sodiumhalogen.com/insights/user-testing-manifesto). Get out of the office and get a real user test it out.
+4. For each of the 3 challenges, set a ~3Min timer to pick constraints for each time constraint: 2 hours, 2 days, 1 week
+
+  - example: 2 hours – Figma, 2 days – no database, 1 week – no custom CSS
+
+5. Decide and build your first prototype. Hold to your constraints.
+  
+6. [User test your prototype](https://www.sodiumhalogen.com/insights/user-testing-manifesto). Get out of the office and get a real user test it out.
+
+Then repeat…
 
 ## The points is
 
