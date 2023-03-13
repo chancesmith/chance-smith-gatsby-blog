@@ -101,12 +101,9 @@ In a group, everyone gets 2 vote dots and can use them to vote on any challenge 
 
 4. For each of the 3 challenges, set a ~3Min timer to pick constraints for each time constraint: 2 hours, 2 days, 1 week
 
-Example: _A11y form errors_
-
-2 hours – Figma
-
-2 days – no database
-
+Example: _A11y form errors_<br />
+2 hours – Figma<br />
+2 days – no database<br />
 1 week – no custom CSS
 
 5. Decide and build your first prototype. Hold to your constraints.
