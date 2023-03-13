@@ -27,7 +27,7 @@ Many years ago, we were approached to build [The FunFact Game](https://apps.appl
 
 If you're going to move fast and learn, you need to be willing to fail. Like Facebook's motto, "Move fast and break things."
 
-In the Google Venture’s Design Sprint framework, you ideate, prototype, and user test all in just 5 days. When talking about the Design Sprint book, Eric Reis says you need a [prototype mindset](https://www.linkedin.com/pulse/prototype-mindset-eric-ries/).
+In the Google Venture’s Design Sprint framework, you ideate, prototype, and user test all in just 5 days. When talking about the Design Sprint book, Eric Ries says you need a [prototype mindset](https://www.linkedin.com/pulse/prototype-mindset-eric-ries/).
 
 > "Instead of taking weeks, months, or, heck, even years building some solution, you’re going to fake it. In one day, you’ll make a prototype that appears real, just like that Old West façade. And on the next day, your customers — like a movie audience — will forget their surroundings and just react."
 
@@ -47,7 +47,7 @@ Start by listing the problems that could benefit from a prototype.
 
 ## 2. Set Constraints
 
-So you can move quickly, let's set boundaries of time and materials upfront. Decide what you will and will not use. 
+So you can move quickly, let's set boundaries of time and materials upfront. Decide what you will and will not use.
 
 When building software, you can consider aggressive time frames (2 hours, 2 days, 1 week), and your materials can be a mix of the following. We suggest you pick more than one.
 
@@ -63,7 +63,7 @@ These constraints give you permission to focus on what needs to be learned or va
 
 ## 3. Learn and Burn
 
-Constraints are your blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly. 
+Constraints are your blinders to reach a stopping point or a learning milestone. You don't need to make the prototype perfect, but you do need to make some assumptions and get it done quickly.
 
 You need to be ready to learn and start over. The faster you reach the finish line, the less you'll be attached to the prototype (sunk cost bias).
 
@@ -101,7 +101,7 @@ In a group, everyone gets 2 vote dots and can use them to vote on any challenge 
 
 4. For each of the 3 challenges, set a ~3Min timer to pick constraints for each time constraint: 2 hours, 2 days, 1 week
 
-Example: *A11y form errors*
+Example: _A11y form errors_
 
 2 hours – Figma
 
@@ -110,7 +110,7 @@ Example: *A11y form errors*
 1 week – no custom CSS
 
 5. Decide and build your first prototype. Hold to your constraints.
-  
+
 6. [User test your prototype](https://www.sodiumhalogen.com/insights/user-testing-manifesto). Get out of the office and get a real user test it out.
 
 Then repeat…

@@ -21,4 +21,4 @@ Here is what we came up with today. We'll see how it goes.
 
 **Example**: So I can get reps in areas that help me and SH...by April 10th, I'll have completed 4 tiny sandboxes related to upcoming features we need in SH projects. I'll complete one every 2-3 weeks and share it with the team during Beer30 or Loom.
 
-This approach will make setting trackable goals easier and less intimidating.
+This [rapid prototyping](/rapid-prototyping-framework) approach will make setting trackable goals easier and less intimidating.
