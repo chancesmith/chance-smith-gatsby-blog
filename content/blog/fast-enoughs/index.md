@@ -1,7 +1,7 @@
 ---
 layout: post
-title: “Fast Enough”
-date: “2023-03-16T08Z”
+title: "Fast Enough"
+date: "2023-03-16T08Z"
 tags: leadership, sodium halogen
 ---
 
@@ -44,5 +44,3 @@ When you’re pressed, you’ll learn, and you’ll grow.
 Use the slow times to try something small and new. Try a [rapid prototype](/rapid-prototyping-framework), from last week’s post. You can try something small, a bite-size trial to either learn or responsibly fail.
 
 If you fail, it’s okay. You can burn this little experiment to the ground. Build, try, and move on.
-
-
