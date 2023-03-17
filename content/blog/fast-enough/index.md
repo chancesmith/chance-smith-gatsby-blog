@@ -1,9 +1,9 @@
-—
+—-
 layout: post
 title: “Fast Enough”
 date: “2023-03-16T08Z”
 tags: leadership, sodium halogen
-—
+—-
 
 Companies battle the balance of complacency and burnout. Whether you’re firing thousands or hiring to scale the company, the team is pressed to make considerable progress toward the business goals. We’re wondering, are we going fast enough?
 
