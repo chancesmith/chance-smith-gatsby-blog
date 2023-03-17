@@ -27,7 +27,9 @@ Let’s discuss three ways to determine if you’re going at the right speed.
 
 ## 1. Measure
 
-Meet with your team leads and ask how progress will meet deadlines. That doesn’t mean we’re driving hard to meet every deadline to a T, but we want to get better at estimating and making trade-offs where possible. This vibe check is getting a temperature reading from your team and letting them know how it progresses.
+Meet with your team leads and ask how progress will meet deadlines. That doesn’t mean we’re driving hard to meet every deadline to a T, but we want to get better at estimating and making trade-offs where possible. 
+
+This vibe check is getting a temperature reading from your team and letting them know their progress is important.
 
 ## 2. Set a personals record
 
