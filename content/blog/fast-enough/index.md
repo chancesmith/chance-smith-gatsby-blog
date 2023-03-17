@@ -47,7 +47,6 @@ If you fail, it’s okay. You can burn this little experiment to the ground. Bui
 
 ## The point is
 
-Get feedback from your team. Try something challenging. experiment with something small.
+Get feedback from your team. Try something challenging. Experiment with something small.
 
-if you do one or all of these, you’ll have more information to make better decisions. You’ll then have more information to know what the right pace is for you and your team.
-
+If you do one or all three of these, you’ll have more information to make better decisions. You’ll then know what the right pace is for you and your team.
