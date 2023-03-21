@@ -39,10 +39,18 @@ appId: host.exp.Exponent
 
 It's very easy to write and understand. I can see this being a great tool us to continue use.
 
+## What helped me get started?
+
+Since I was testing a expo app, this repo by [Alexander Hodes](https://github.com/alexanderhodes) was very helpful. It has many examples and a good starting point.
+
+https://github.com/alexanderhodes/react-native-expo-maestro-example
+
 ## Current questions I have
 
 I need to go through the docs more, but here are some questions I have.
 
-- How do I copy the value of the text in a button?
-- How do I check the value inside of the input field to compare with what I've copied?
-- Is it best practice to have one test file that runs all single flow files?
+### How do I copy the value of the text in a button?
+
+### How do I check the value inside of the input field to compare with what I've copied?
+
+### Is it best practice to have one test file that runs all single flow files?
