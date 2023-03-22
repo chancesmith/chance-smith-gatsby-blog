@@ -8,6 +8,7 @@ code {
   color: #31cc28;
   border-radius: 4.8px;
   display: inline-block;
+  white-space: pre-wrap;
 }
 
 .decoration-none {
