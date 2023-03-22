@@ -55,11 +55,11 @@ Review the note and make it more readable for others. Your notes and links will 
 
 ## What does documenting the problem look like?
 
-In Obsidian, I documented the proccess of adding an embeded React app to a parent React app. I documented the steps I took, the questions I asked, and the solutions I found. I also documented the steps I took to share the solution with others. (screenshot below)
+In Obsidian, I documented the proccess of adding an embeded React app to a parent React app. I documented the steps I took, the questions I asked, and the solutions I found. I also documented the steps I took to share the solution with others. See the screenshot below showing todos and a few questions.
 
 ![documenting the problem in Obsidian](./document-the-problem-obsidian-example.png)
 
-Here's a [repo template](https://github.com/chancesmith/document-the-problem-template), and a example below.
+Here's a [repo template](https://github.com/chancesmith/document-the-problem-template), and an early example below.
 
 ```markdown
 # Adding X feature to Y app
