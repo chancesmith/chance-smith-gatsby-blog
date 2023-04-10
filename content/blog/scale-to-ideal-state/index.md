@@ -23,5 +23,3 @@ Observe the volume you've completed.<br/>
 You'll turn back and see how far you've come.
 
 This is for you and me. I know I'm not the only one dealing with overambitious and self-sabotage. Let's set a good example for ourselves.
-
-- Chance
