@@ -16,7 +16,7 @@ What new hires weren’t overwhelmed?
 What if they were productive their first day?
 What if you made had a plan?
 What if you had a process anyone could follow?
-[You should!](https://blog.chancesmith.org/12-ways-to-onboard-new-team-members-easier-and-faster/)
+[You should!](/13-ways-to-onboard-new-team-members-easier-and-faster/)
 
 Let’s build that process.
 
