@@ -25,4 +25,4 @@ As soon as possible, for your next hire:
 - stick to the your process
 - keep yourself accountable too
 
-How about an a few steps to [complete your own](/4-steps-to-build-onboarding-process-for-new-team-members/)?
+How about an a few steps to [complete your own](/2015-01-03-4-steps-to-build-onboarding-process-for-new-team-members/)?

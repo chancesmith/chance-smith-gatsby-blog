@@ -8,7 +8,7 @@ tags:
 
 How I made this gif on my Mac...
 
-![chance smith cool thumb](https://chancesmith.org/gifs/chance-cool-were-on-it.gif)
+![chance smith cool thumb](https://chancesmith.io/gifs/chance-cool-were-on-it.gif)
 
 #Apps needed:
 
@@ -33,7 +33,7 @@ Now show me your gif skills!
 
 I'm waiting...
 
-![chance smith waiting](https://chancesmith.org/gifs/chance-operator-is-standing-by.gif)
+![chance smith waiting](https://chancesmith.io/gifs/chance-operator-is-standing-by.gif)
 
 Related Post:
 [How to use gifs to improve email and customer service](https://blog.chancesmith.org/making-customer-service-and-email-personal/)

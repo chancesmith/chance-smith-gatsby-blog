@@ -56,6 +56,6 @@ Have any ways you keep it _really real_ with your customers?
 
 I'm all ears. #gif
 
-![chance smith all ears](https://chancesmith.org/gifs/all-ears-chance-luke.gif)
+![chance smith all ears](https://chancesmith.io/gifs/all-ears-chance-luke.gif)
 
 Also, meet my friend Luke. We did [a few gifs at work](https://blog.chancesmith.org/contextual-gifs-snow-gifs/) last week.

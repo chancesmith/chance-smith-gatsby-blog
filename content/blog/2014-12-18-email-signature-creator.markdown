@@ -12,7 +12,7 @@ Here I have built a web application that creates email signatures based on a sta
 
 #Demo links
 
-- [signature creator app demo](https://chancesmith.org/project/signature-app/)
+- [signature creator app demo](https://chancesmith.io/project/signature-app/)
 - [github](https://github.com/chancesmith/chancesmith-site/tree/master/project/signature-app)
 
 #Why?

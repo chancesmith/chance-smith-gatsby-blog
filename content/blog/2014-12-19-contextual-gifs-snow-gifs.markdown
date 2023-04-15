@@ -17,19 +17,19 @@ Also, just a great 20min rabbit hole away from our laptops and screens. Worth it
 Here are the gifs and how I'll use them:
 
 ME: "Operators standing by...in the snow. #gif"
-![chance smith and luke pennington spinning](https://chancesmith.org/gifs/snow-ops-stnd-by-chance-luke.gif)
+![chance smith and luke pennington spinning](https://chancesmith.io/gifs/snow-ops-stnd-by-chance-luke.gif)
 
 <hr>
 
 ME: "Task is done. Hi5 time! #gif"
-![chance smith and luke pennington high fives](https://chancesmith.org/gifs/snow-hi5-chance-luke.gif)
+![chance smith and luke pennington high fives](https://chancesmith.io/gifs/snow-hi5-chance-luke.gif)
 
 <hr>
 
 ME: "How about some snowy thumbs to celebrate! #gif"
-![chance smith and luke pennington thumbs up](https://chancesmith.org/gifs/snow-thumbs-chance-luke.gif)
+![chance smith and luke pennington thumbs up](https://chancesmith.io/gifs/snow-thumbs-chance-luke.gif)
 
 <hr>
 
 See the lot of my gifs:
-https://chancesmith.org/gifs/
+https://chancesmith.io/gifs/

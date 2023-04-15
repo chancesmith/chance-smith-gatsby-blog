@@ -26,4 +26,4 @@ date: "2014-02-01T22Z"
 
 #my products/downloads
 
-- Personal Mission Statement Creator - [link](https://chancesmith.org/personal-mission-statement)
+- Personal Mission Statement Creator - [link](https://chancesmith.io/personal-mission-statement)

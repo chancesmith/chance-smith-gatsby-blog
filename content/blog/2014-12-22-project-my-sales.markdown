@@ -34,5 +34,5 @@ I know the math for the projection is simple. Yet, this is much faster if you ha
 
 #Demo
 
-- [Demo Link](https://chancesmith.org/project/project-my-sales/)
+- [Demo Link](https://chancesmith.io/project/project-my-sales/)
 - [Github](https://github.com/chancesmith/chancesmith-site/tree/master/project/project-my-sales)
