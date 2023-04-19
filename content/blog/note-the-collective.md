@@ -10,7 +10,7 @@ Continuing the topic of [Sounding Collaborative](/sound-collaborative/), parts o
 
 Yet as we work together, how might we sound collaborative when not asking questions?
 
-The answer: note the collective by using “us” and “we.”
+The answer: **note the collective** by using “us” and “we.”
 
 - “Look how much we accomplished.”
 - “We crushed it this week!”
