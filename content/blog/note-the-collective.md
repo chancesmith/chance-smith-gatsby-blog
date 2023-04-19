@@ -4,7 +4,7 @@ title: "Collaboration Part 2: Note the Collective"
 date: "2023-04-18T22Z"
 ---
 
-Continuing the topic of [Sounding Collaborative](/sounding-collaborative), parts of us what a taste of both, the ability to move quickly and go the distance.
+Continuing the topic of [Sounding Collaborative](/sound-collaborative/), parts of us what a taste of both, the ability to move quickly and go the distance.
 
 >”If you want to go fast, go alone, but if you want to go far, go together.” - African Proverb
 
