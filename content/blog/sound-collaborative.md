@@ -25,3 +25,5 @@ Just like the phrase, "To be enthusiastic, you must act enthusiastic."
 If you want to be collaborative, you must start with sounding collaborative.
 
 Lead with questions.
+
+[Continue reading](/note-the-collective)
