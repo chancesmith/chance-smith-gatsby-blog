@@ -4,7 +4,7 @@ title: "Collaboration Part 3: Space for Others"
 date: "2023-04-19T22Z"
 ---
 
-Starting with Sounding Collaborative, a series of small posts, the goal is to be more collaborative by changing our words to sound less definitive and allowing space for others.
+Starting with [Sounding Collaborative](/sound-collaborative/), a series of small posts, the goal is to be more collaborative by changing our words to sound less definitive and allowing space for others.
 
 Space for our team means we're less focused on ME and instead ready to surface the hard work of those we support.
 
@@ -20,7 +20,7 @@ Here are a few ways we can practice making space for others.
 
 "Hey, team, a win with week was what Emily worked on. She knocked it out of the park. (then get specific)."
 
-## The point it
+## The point is
 
 Making space for others allows your team to work autonomously, step into their gifts and get due credit and recognition.
 
