@@ -14,7 +14,8 @@ Here are a few ways we can practice making space for others.
 
 > "You're working on X and think you'll finish in a couple of weeks. When can we sync up again? Tomorrow EOD?"
 
-## 2. Set goals that align with their gifts so we're all progressing. Best to do these quarterly as a part of the time and work they're already doing.
+## 2. Set goals 
+Set individual goals that align with their gifts so we're all progressing. Best to do these quarterly as a part of the time and work they're already doing.
 
 ## 3. Give credit in public
 
