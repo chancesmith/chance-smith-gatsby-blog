@@ -2,6 +2,7 @@
 layout: post
 title: "The Sound of Collaboration"
 date: "2023-04-17T22Z"
+tags: leadership
 ---
 
 If we measure how well we collaborate, what areas can we measure?

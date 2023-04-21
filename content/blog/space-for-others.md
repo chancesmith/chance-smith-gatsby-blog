@@ -2,6 +2,7 @@
 layout: post
 title: "Collaboration Part 3: Space for Others"
 date: "2023-04-19T22Z"
+tags: leadership
 ---
 
 Starting with [Sounding Collaborative](/sound-collaborative/), a series of small posts, the goal is to be more collaborative by changing our words to sound less definitive and allowing space for others.
