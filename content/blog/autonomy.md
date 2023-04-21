@@ -14,4 +14,4 @@ How long should I work on this before getting feedback? ([3Ws](/glossary#3ws))
 Would anyone else benefit from seeing this work? ([bus-co](https://www.sodiumhalogen.com/glossary#bus-coefficiency) and [pairing](https://www.sodiumhalogen.com/pairing))
 Is this the first time I've done this, or has anyone on the team?
 
-We need to balance collaboration and work ownership. We only work our work questioned with some decisions. Let's decide on the big things and give ownership of how to get there.
+We need to balance collaboration and work ownership. We don't want our work questioned with every decision. So, let's decide on the big things together and give autonomy on how to get there.
