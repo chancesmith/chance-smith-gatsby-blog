@@ -2,6 +2,7 @@
 layout: post
 title: "Collaboration Part 4: Autonomy"
 date: "2023-04-20T22Z"
+tags: leadership
 ---
 
 In this thread of collaboration, starting at [Sounding Collaborative](/sound-collaborative/),
