@@ -9,10 +9,14 @@ In this thread of collaboration, starting at [Sounding Collaborative](/sound-col
 
 Everyone on your team needs autonomy: space to think without distraction and some need to recharge. But most important is the absolute ownership of our work.
 
-Here are some questions I ask to help frame my autonomy:
+## Questions for framing our autonomy
 
-How long should I work on this before getting feedback? ([3Ws](/glossary#3ws))
-Would anyone else benefit from seeing this work? ([bus-co](https://www.sodiumhalogen.com/glossary#bus-coefficiency) and [pairing](https://www.sodiumhalogen.com/pairing))
-Is this the first time I've done this, or has anyone on the team?
+- How long should I work on this before getting feedback? ([3Ws](/glossary#3ws))
+- Would anyone else benefit from seeing this work? ([bus-co](https://www.sodiumhalogen.com/glossary#bus-coefficiency) and [pairing](https://www.sodiumhalogen.com/pairing))
+- Is this the first time I've done this, or has anyone on the team? ([5on2](/glossary#5on2))
 
-We need to balance collaboration and work ownership. We don't want our work questioned with every decision. So, let's decide on the big things together and give autonomy on how to get there.
+## The point is
+
+We need to balance collaboration and work ownership. We don't want our work questioned with every decision.
+
+So, let's decide on the big things together and give autonomy on how to get there.
