@@ -21,3 +21,7 @@ Give your team space to work. Don't be a bottleneck. Don't be a blocker. Don't b
 4. [Autonomy](/autonomy/)
 
 Give your team the freedom to make decisions, mistakes, and to learn.
+
+5. [Earning Autonomy](/earning-autonomy/)
+
+Communicate often. Build trust. Gain autonomy in your work.
