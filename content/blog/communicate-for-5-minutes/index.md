@@ -5,9 +5,7 @@ date: 2023-04-24T22Z
 tags: leadership
 ---
 
-The thread of [Collabroation Guide](/collaborative-superpowers) continues. Yesterday we noted autonomy is earned with frequent communication.
-
-The 5on2 is the first of three methods for frequent communication.
+The 5on2 is the first of three methods for frequent communication to [collaborate better](/collaborative-superpowers).
 
 ## Ask for a 5on2
 
