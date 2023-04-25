@@ -19,4 +19,4 @@ Sure, 5on2s could be more than once per day, but it's most common to do this qui
 
 A quick 5 minutes gives all confidence that everyone is thinking the same thing.
 
-Tomorrow, we'll discuss the Thin Slices method.
+Tomorrow, we'll discuss the [Thin Slices](/thin-slices) method.

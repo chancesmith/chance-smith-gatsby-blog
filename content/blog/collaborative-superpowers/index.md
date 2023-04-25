@@ -25,3 +25,11 @@ Give your team the freedom to make decisions, mistakes, and to learn.
 5. [Earning Autonomy](/earning-autonomy/)
 
 Communicate often. Build trust. Gain autonomy in your work.
+
+6. [Communicate for 5 Minutes](/communicate-for-5-minutes/)
+
+A quick 5 minute meeting can save hours of work. Learn about the 5on2 method.
+
+7. [Chop Up the Work](/thin-slices/)
+
+Chopping up your work into Thin-Sliced deliverables is stellar method for communication.
