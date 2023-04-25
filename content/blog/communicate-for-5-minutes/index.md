@@ -11,7 +11,7 @@ The thread of [Collabroation Guide](/collaborative-superpowers) continues. Yeste
 
 The 5on2 is the first of three methods for frequent communication.
 
-### 1. Ask for a 5on2
+## Ask for a 5on2
 
 A [5on2](/glossary#5on2) is a 5-minute conversation about any work that will take 2 hours or more. This quick sync-up clarifies how well the work is going and the direction we're headed.
 
