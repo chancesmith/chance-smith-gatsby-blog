@@ -19,11 +19,11 @@ You can get extra credit if you give quick options the team can vote on.
 
 > WOL: I'm stuck on latest customer request.
 >
-> Options (emoji vote):one:
-> 1️⃣ ask #help channel
-> 2️⃣ email customer with questions
-> 3️⃣ ask @adam for help
-> 4️⃣ hold off until tomorrow
+> Options (emoji vote) </br>
+> 1️⃣ ask #help channel </br>
+> 2️⃣ email customer with questions </br>
+> 3️⃣ ask @adam for help </br>
+> 4️⃣ hold off until tomorrow </br>
 
 ## How often should I Work out loud?
 
