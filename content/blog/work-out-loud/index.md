@@ -15,6 +15,16 @@ You might say, "But Chance, isn't this a more noisy method of standup?" And you 
 
 > WOL: I just finished writing this post. Now, I'm looking at starting tomorrow's post.
 
+You can get extra credit if you give quick options the team can vote on.
+
+> WOL: I'm stuck on latest customer request.
+>
+> Options (emoji vote):one:
+> 1️⃣ ask #help channel
+> 2️⃣ email customer with questions
+> 3️⃣ ask @adam for help
+> 4️⃣ hold off until tomorrow
+
 ## How often should I Work out loud?
 
 First of the day, and if your work is blocked, plans change, or starting a new task.
