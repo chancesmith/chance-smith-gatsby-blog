@@ -33,3 +33,7 @@ A quick 5 minute meeting can save hours of work. Learn about the 5on2 method.
 7. [Chop Up the Work](/thin-slices/)
 
 Chopping up your work into Thin-Sliced deliverables is stellar method for communication.
+
+8. [Work Out Loud](/work-out-loud/)
+
+Reduce meetings and [3Ws](/glossary#3Ws) by giving your team updates while you make progress on your work.
