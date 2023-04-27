@@ -179,11 +179,11 @@ class Layout extends React.Component {
                 About
               </NavLink> */}
               <NavLink to={`/archive`} isActive={isArchivePath}>
-                Blog
+                Insights
               </NavLink>
-              <NavLink to={`/coaching`} isActive={isCoachingPath}>
+              {/* <NavLink to={`/coaching`} isActive={isCoachingPath}>
                 Coaching
-              </NavLink>
+              </NavLink> */}
             </div>
           </div>
           <header>{header}</header>
@@ -218,11 +218,11 @@ class Layout extends React.Component {
                     About
                   </NavLink>
                   <NavLink to={`/archive`} isActive={isArchivePath}>
-                    Blog
+                    Insights
                   </NavLink>
-                  <NavLink to={`/coaching`} isActive={isCoachingPath}>
+                  {/* <NavLink to={`/coaching`} isActive={isCoachingPath}>
                     Coaching
-                  </NavLink>
+                  </NavLink> */}
                 </div>
               </div>
             </footer>
