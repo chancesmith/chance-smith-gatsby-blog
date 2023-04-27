@@ -24,7 +24,7 @@ class GlossaryPage extends React.Component {
 
             <GlossaryTerm
               term="5on2"
-              definition="Talk for 5 minutes about any work you have today that will take 2 hours or more. This helps prevent roadblocks and waisted time doing the wrong work."
+              definition="Talk for 5 minutes about any work you have today that will take 2 hours or more. This helps prevent roadblocks and wasted time doing the wrong work."
             />
 
             <GlossaryTerm
@@ -34,17 +34,17 @@ class GlossaryPage extends React.Component {
 
             <GlossaryTerm
               term="Feature-Boxing"
-              definition="Reduce down to the requirements, only spending a portion of your budget (50% for must-haves), to insure there are leftover resources for the corrections and nice-to-have features."
+              definition="Reduce down to the requirements, only spending a portion of your budget (50% for must-haves) to ensure there are leftover resources for the corrections and nice-to-have features."
             />
 
             <GlossaryTerm
               term="Reps"
-              definition="Like reps in your exercises, the more you do something the more comfortable you'll be. You're Grandfather's drill press or Grandmother's blender are overwhelming at first, but not exceeding less overwhelming after you've used one a hundered times. Feel uncomfortable? Most likely you haven't do been here or done this things before. Go get some reps in."
+              definition="Like reps in your exercises, the more you do something, the more comfortable you'll be. You're Grandfather's drill press or Grandmother's blender is overwhelming at first but not exceeding less overwhelming after you've used one a hundred times. Feel uncomfortable? Most likely, you haven't been here or done this thing before. Go get some reps in."
             />
 
             <GlossaryTerm
-              term="Work Out Load"
-              definition="Sharing your work often for the accountability and feedback. Don't work on an island. Disseminating knowledge. Giving a pulse of what you are doing and what is going on. The goal is to prevent clients and the team from the 3Ws. See also: 3Ws"
+              term="Work Out Loud"
+              definition="Sharing your work often for accountability and feedback. Don't work on an island. Disseminate knowledge. Give a pulse of what you are doing and what is going on. The goal is to prevent clients and the team from the 3Ws. See also: 3Ws"
             />
           </div>
         </div>
