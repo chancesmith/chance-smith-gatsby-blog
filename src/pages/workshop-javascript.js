@@ -8,7 +8,7 @@ import Seo from "../components/seo";
 import workshopHeader from "../../static/Javascript-Workshop-Wide.png";
 
 const EnrollNowLink = () => (
-  <a href="https://lu.ma/Chance_Smith">Enroll Now &gt;&gt;</a>
+  <a href="https://lu.ma/chancesmith">Enroll Now &gt;&gt;</a>
 );
 
 const WorkshopsPage = (props) => {
@@ -102,12 +102,10 @@ const WorkshopsPage = (props) => {
           </li>
         </ul>
 
-        <h2>Upcoming workshops</h2>
+        {/* <h2>Upcoming workshops</h2>
         <p>⚠️ Max 5 seats per workshop.</p>
         <ul>
-          {/* <li>
-            Feb-April 2022 dates coming soon... this week (updated: 2/13/22).
-          </li> */}
+          
           <li>
             March 12th, 2022 8-11am Ages 12-17{" "}
             <a href="https://attheco.com">@theCO</a>
@@ -116,7 +114,7 @@ const WorkshopsPage = (props) => {
             March 19th, 2022 8-11am Ages 18+{" "}
             <a href="https://attheco.com">@theCO</a>
           </li>
-        </ul>
+        </ul> */}
 
         <EnrollNowLink />
       </section>

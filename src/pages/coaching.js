@@ -81,7 +81,7 @@ const WorkshopsPage = (props) => {
           </div> */}
       </section>
 
-      <h2>Upcoming Workshops 📆</h2>
+      {/* <h2>Upcoming Workshops 📆</h2>
       <iframe
         src="https://lu.ma/embed-events/usr-QEBWfr20iBvqt4h"
         width="100%"
@@ -91,7 +91,7 @@ const WorkshopsPage = (props) => {
         allowfullscreen=""
         aria-hidden="false"
         tabindex="0"
-      ></iframe>
+      ></iframe> */}
     </Layout>
   );
 };
