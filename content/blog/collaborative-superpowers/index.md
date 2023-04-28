@@ -37,3 +37,7 @@ Chopping up your work into Thin-Sliced deliverables is stellar method for commun
 8. [Work Out Loud](/work-out-loud/)
 
 Reduce meetings and [3Ws](/glossary#3Ws) by giving your team updates while you make progress on your work.
+
+9. [United](/united/)
+
+When united on things that matter to God, nothing is impossible.
