@@ -33,7 +33,7 @@ Ask everyone for their opinion about the current level of communication and make
 
 Have a week of no communication. With fewer distractions, pay attention to what you wait, worry, or wonder about. ([3Ws](/glossary#3Ws)) Those concerns can tell you what you need to ask your team about.
 
-You could start with a full day of focus time. Our team at [Lifeway](https://lifewayhub-lifeway.icims.com/jobs/search?ss=1&searchCategory=8730) does this practice of focus twice a month.
+You could start with a full day of focus time. Our team at [Lifeway](https://lifewayhub-lifeway.icims.com/jobs/search?ss=1&searchCategory=8730) does this practice of focus twice a month. Two Fridays a month we have focus time. No meetings, no Slack, no calls. It's a day to get work done or study.
 
 ## The point is
 
