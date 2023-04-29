@@ -11,13 +11,15 @@ There is a signal-to-noise ratio to balance, right?
 
 ## Noise gets ignored; rarely unsubscribed from
 
-At [Sodium Halogen](https//sodiumhalogen.com), we've said for years that we've never from a client say, "Please stop. I'm getting too many updates about the project."
+At [Sodium Halogen](https//sodiumhalogen.com), we've said for years that we've never heard a client say, "Please stop. I'm getting too many updates about the project."
 
 While that is still true today, if the messages were too overwhelming, they'd figure out how to overlook them.
 
-People only tell you when a channel is quiet. Yet, if there is a lot of noise, instead of giving feedback, you'll learn to ignore it; tune it out. We adjust to our surroundings.
+People only tell you when a channel is too quiet. Yet, if there is a lot of noise, instead of giving feedback, you'll learn to ignore it; tune it out.
 
 Another example, the more junk mail in your mailbox, the more you ignore and devalue the incoming mail.
+
+We adjust to our surroundings — but we don't have to.
 
 ## 2 Ways to fix the noise
 
