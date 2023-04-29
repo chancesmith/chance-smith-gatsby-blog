@@ -24,14 +24,16 @@ We adjust to our surroundings — but we don't have to.
 ## 2 Ways to fix the noise
 
 1. **Ask for permission to give feedback.**
-   Ask everyone for their opinion about the current level of communication and make adjustments. You don't want communication to be annoying or overwhelming.
 
-   > Team, do we need more or less? 👍 👌 👎
+Ask everyone for their opinion about the current level of communication and make adjustments. You don't want communication to be annoying or overwhelming.
+
+> Team, do we need more or less? 👍 👌 👎
 
 2. **Reset to zero.**
-   Have a week of no communication. With fewer distractions, pay attention to what you wait, worry, or wonder about. ([3Ws](/glossary#3Ws)) Those concerns can tell you what you need to ask your team about.
 
-   You could start with a full day of focus time. Our team at [Lifeway](https://lifewayhub-lifeway.icims.com/jobs/search?ss=1&searchCategory=8730) does this practice of focus twice a month.
+Have a week of no communication. With fewer distractions, pay attention to what you wait, worry, or wonder about. ([3Ws](/glossary#3Ws)) Those concerns can tell you what you need to ask your team about.
+
+You could start with a full day of focus time. Our team at [Lifeway](https://lifewayhub-lifeway.icims.com/jobs/search?ss=1&searchCategory=8730) does this practice of focus twice a month.
 
 ## The point is
 
