@@ -43,6 +43,10 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Thin Slices"
+              definition="Quick release. Working on and sharing the smallest possible piece of work that can be done. This helps prevent roadblocks and wasted time doing the wrong work. See also: 5on2"
+            />
+            <GlossaryTerm
               term="Work Out Loud"
               definition="Sharing your work often for accountability and feedback. Don't work on an island. Disseminate knowledge. Give a pulse of what you are doing and what is going on. The goal is to prevent clients and the team from the 3Ws. See also: 3Ws"
             />
