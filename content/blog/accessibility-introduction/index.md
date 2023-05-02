@@ -20,6 +20,7 @@ I'm starting a new project helping the visually impaired use software. There are
 - [measure the accesibility of your site](https://accessibe.com/accessscan)
 - [frontend accessiblity training with FrontendMasters](https://frontendmasters.com/courses/?q=accessibility)
 - [nocoffee firefox addon](https://addons.mozilla.org/en-US/firefox/addon/nocoffee/)
+- [A11y Style Guide](https://a11y-style-guide.com/style-guide/)
 
 ## Questions
 
