@@ -28,6 +28,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Activity Stacking"
+              definition="Pairing activities together to have a win-win-win. For example, spending time with kids playing a game that teaches money. (kids, fun, fiscal education)"
+            />
+
+            <GlossaryTerm
               term="Essential Releases"
               definition="Releasing early with simply-enough so you can get feedback sooner. See also: Feature-Boxing"
             />
