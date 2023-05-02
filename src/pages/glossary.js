@@ -29,7 +29,7 @@ class GlossaryPage extends React.Component {
 
             <GlossaryTerm
               term="Activity Stacking"
-              definition="Pairing activities together to have a win-win-win. For example, spending time with kids playing a game that teaches money. (kids, fun, fiscal education)"
+              definition="Pairing activities together to have a win-win-win, a triple benefit, like HSAs 😄. For example, spending time with kids playing a game that teaches money. (kids, fun, fiscal education)"
             />
 
             <GlossaryTerm
