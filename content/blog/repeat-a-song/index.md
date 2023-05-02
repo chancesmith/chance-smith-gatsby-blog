@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Songs on repeat"
+title: "Repeat a Song"
 date: 2023-05-02T22Z
 tags: productivity
 ---
