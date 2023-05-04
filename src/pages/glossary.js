@@ -43,6 +43,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Fishbowl Experience"
+              definition="No work or workflow is hidden. Making it so anyone can see into what you're doing; to course correct and learn from. See also: Work Out Loud"
+            />
+
+            <GlossaryTerm
               term="Reps"
               definition="Like reps in your exercises, the more you do something, the more comfortable you'll be. You're Grandfather's drill press or Grandmother's blender is overwhelming at first but less overwhelming after you've used one a hundred times. Feel uncomfortable? Most likely, you haven't been here or done this thing before. Go get some reps in."
             />
