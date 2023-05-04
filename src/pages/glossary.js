@@ -44,7 +44,7 @@ class GlossaryPage extends React.Component {
 
             <GlossaryTerm
               term="Fishbowl Experience"
-              definition="No work or workflow is hidden. Making it so anyone can see into what you're doing; to course correct and learn from. See also: Work Out Loud"
+              definition="No work or workflow is hidden. Make it so anyone can see what you're doing, to course correct and learn from. See also: Work Out Loud"
             />
 
             <GlossaryTerm
