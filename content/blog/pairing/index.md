@@ -19,7 +19,7 @@ Don't pair 100% of the time. Pair to:
 
 ## A Zero entry pool zone
 
-There is no pressure to perform. We're going to figure this out together and make decisions together.
+There is [no pressure to perform](/does-pair-programming-drop-your-iq). We're going to figure this out together and make decisions together.
 
 ## Follow the practice
 
@@ -30,9 +30,9 @@ There is no pressure to perform. We're going to figure this out together and mak
 
 ## First day of pairing
 
-Both are typing in the first hour.
-Sound collaborative by asking questions. "What if we...?" or "How might we...?"
-Make decisions and take breaks together.
+- Both are typing in the first hour.
+- Sound collaborative by asking questions. "What if we...?" or "How might we...?"
+- Make decisions and take breaks together.
 
 ## 💻 Tips for developers
 
