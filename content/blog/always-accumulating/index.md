@@ -7,21 +7,21 @@ tags: productivity
 
 We're constantly accumulating in many areas of our lives.
 
-Tools
-Solutions
-Processes
-Apps
-Cloths
-Communication channels
-Subscriptions
-Notifications
+Tools <br/>
+Solutions <br/>
+Processes <br/>
+Apps <br/>
+Cloths <br/>
+Communication channels <br/>
+Subscriptions<br/>
+Notifications<br/>
 Furniture
 
 There are some we can't stop...
 
-Steps
-Memories
-Ideas
+Steps<br/>
+Memories<br/>
+Ideas<br/>
 Progress
 
 There is one that slips through our fingers...
@@ -32,9 +32,9 @@ Do we ever try going back-to-zero for all the ones we accumulate and have contro
 
 ## The point is
 
-We take on more and more everyday.
-Find ways to turn off the flow.
-Try starting back at zero.
-Nothing.
-Zero
+We take on more and more everyday.<br/>
+Find ways to turn off the flow.<br/>
+Try starting back at zero.<br/>
+Nothing.<br/>
+Zero<br/>
 ø
