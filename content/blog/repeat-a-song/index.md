@@ -5,6 +5,8 @@ date: 2023-05-02T22Z
 tags: productivity
 ---
 
+UPDATED: 5/10/2023 - new song
+
 It's true, I repeat the same song over and over. My longest run I believe is 3 months (12 weeks). I'll only do this when I'm working on a development project or project management work. Otherwise, I'll listen to nothing or white noise.
 
 ## It's not just me
@@ -29,6 +31,8 @@ Here is a list of songs I've repeated over the years:
 1. [The Search](https://www.youtube.com/watch?v=fnlJw9H0xAM/) by NF (2021)
 1. [Hideaway](https://www.youtube.com/watch?v=4v3zyPEy-Po) by Jacob Collier (2021)
 1. Billie Eilish - James bond song, amoung many others
+1. Coheed and Cambria - many songs
 1. [No Name](https://www.youtube.com/watch?v=CJzaYLc4pPY) by NF (2022 - 2 Months)
 1. [Cut My Fingers Off](https://www.youtube.com/watch?v=ljBqpVgtm4M) by Ethan Bortnick (2023)
-1. **[Let Em Pray](https://www.youtube.com/watch?v=6LJI6Tt37iE) by NF (Lifeway comms-center project 4/7/23 - present)** 🎧
+1. [Let Em Pray](https://www.youtube.com/watch?v=6LJI6Tt37iE) by NF (Lifeway comms-center project 4/7/23 - 5/5/2023)
+1. **[Suffice](https://www.youtube.com/watch?v=JsIoJ9cxrYs) by NF (Lifeway comms-center project 5/5/2023 - present)** 🎧
