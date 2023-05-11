@@ -53,6 +53,12 @@ I'll start with VoiceOver and see if the in-app keyboard shortcuts are available
 
 While watching users move around their screens, the user spends too much time horizontal + vertical scrolling. Removing the horizontal axis will reduce the hide-and-seek experience.
 
+### What is the best way to hide input labels but still have them read by screen readers?
+
+The A11y Project offers up solutions for hiding content for screen readers or for visual users.
+
+https://www.a11yproject.com/posts/how-to-hide-content/
+
 ## My empthy dialed up
 
 Apple does a great job bringing attention to how they've solved the accessibility challenge. ([🎥 The Greatest](https://www.youtube.com/watch?v=8sX9IEHWRJ8))
