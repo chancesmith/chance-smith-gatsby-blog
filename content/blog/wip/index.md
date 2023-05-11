@@ -19,7 +19,7 @@ It depends on the progress made. If you're stuck, sync up with someone. If much 
 
 Deep work is essential, the non-distracted time heads-down brow sweating over important information and details.
 
-Showing your progress is also essential. The sooner your progress is accessible to the team you've disseminated your ideas, potential roadblocks, and utmost your progress.
+Showing your progress is also essential. The sooner your progress is accessible to the team you've disseminated your ideas, potential roadblocks, and utmost your progress ([bus-co](/glossary#busco)).
 
 In the spirit of [working out loud](/work-out-load), getting these WIPs off your machine and out of your head are a big win for you and your team.
 
