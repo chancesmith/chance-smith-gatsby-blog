@@ -3,14 +3,11 @@ import React from "react";
 // utils
 import { rhythm } from "../utils/typography";
 
-const Product = ({
-  term,
-  definition
-}) => {
-
-  const cleanTerm = term.trim().toLowerCase().replace(/(\s+)/g, "-")
+const GlossaryTerm = ({ term, definition, abv }) => {
+  const cleanTerm = term.trim().toLowerCase().replace(/(\s+)/g, "-");
   return (
     <>
+      {abv && <div id={abv}>&nbsp;</div>}
       <h2
         id={cleanTerm}
         style={{
@@ -19,11 +16,9 @@ const Product = ({
       >
         {term} <a href={`#${cleanTerm}`}>#</a>
       </h2>
-      <p>
-        {definition}
-      </p>
+      <p>{definition}</p>
     </>
   );
 };
 
-export default Product;
+export default GlossaryTerm;

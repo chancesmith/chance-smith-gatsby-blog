@@ -33,6 +33,12 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Bus Co-efficiency"
+              abv="busco"
+              definition="The number of people on your team that could get hit by a bus and the project (or company) would survive. Disseminating knowledge across your team will increase your bus co-efficiency."
+            />
+
+            <GlossaryTerm
               term="Essential Releases"
               definition="Releasing early with simply-enough so you can get feedback sooner. See also: Feature-Boxing"
             />
