@@ -6,7 +6,7 @@ tags: development, sodium halogen
 ---
 
 This post is a work in progress.
-Last updated: 02/23/2023
+Last updated: 5/11/2023 - added WAVE link
 
 I'm starting a new project helping the visually impaired use software. There are many resources; I need this to be a digital garden of sorts to organize an approach and research around the topic. I hope this is helpful and that you enjoy it. Bear with me, as this needs to be organized and curated in its current state.
 
@@ -21,6 +21,7 @@ I'm starting a new project helping the visually impaired use software. There are
 - [frontend accessiblity training with FrontendMasters](https://frontendmasters.com/courses/?q=accessibility)
 - [nocoffee firefox addon](https://addons.mozilla.org/en-US/firefox/addon/nocoffee/)
 - [A11y Style Guide](https://a11y-style-guide.com/style-guide/)
+- [WAVE - Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 
 ## Questions
 
