@@ -6,7 +6,7 @@ tags: development, sodium halogen
 ---
 
 This post is a work in progress.
-Last updated: 5/11/2023 - added WAVE link
+Last updated: 5/13/2023 - added accessibility video and visual guide
 
 I'm starting a new project helping the visually impaired use software. There are many resources; I need this to be a digital garden of sorts to organize an approach and research around the topic. I hope this is helpful and that you enjoy it. Bear with me, as this needs to be organized and curated in its current state.
 
