@@ -9,7 +9,7 @@ When we built apps at [Sodium Halogen](https://sodiumhalogen.com), we found ways
 
 In each app, we add this BetaTester Mode by adding a hidden button that reveals the version number at the top of the screen.
 
-![BetaTester Mode](./betatester-mode-version-number.jpg)
+![BetaTester Mode](./betatester-mode-version-number.jpeg)
 
 The hidden button turns on the version number that will now show on every screen you're on. This is great for knowing the version used for user testing and screenshots.
 
@@ -19,9 +19,9 @@ You'll know you are a beta-tester if your version number is green.
 
 If you press the version number, a menu will show up that allows you to turn on BetaTester Mode and see extra details and controls.
 
-![BetaTester Mode](./betatester-mode-menu-1.png)
+![BetaTester Mode](./betatester-mode-menu-1.jpeg)
 
-![BetaTester Mode](./betatester-mode-menu-2.png)
+![BetaTester Mode](./betatester-mode-menu-2.jpeg)
 
 ## BetaTesters Have SuperPowers
 
