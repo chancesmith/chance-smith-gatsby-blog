@@ -28,9 +28,7 @@ class UsesPage extends React.Component {
                 Would you rather clean a room with 100 items or zero? Get closer
                 to zero.
               </li>
-              <li>
-                I vital skill to have is the ability to duplicate yourself.
-              </li>
+              <li>Your ability to duplicate yourself is a vital skill.</li>
             </ul>
           </div>
         </div>
