@@ -25,4 +25,4 @@ I wouldn't have learned that my son preferred the voiceover. I wouldn't have dis
 
 ## The point is
 
-You'll gain so much empathy watching someone use a product you're selling, supporting, creaiting, or building.
+You'll gain so much empathy watching someone use a product you're selling, supporting, creating, or building.
