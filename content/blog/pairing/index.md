@@ -23,10 +23,11 @@ There is [no pressure to perform](/does-pair-programming-drop-your-iq). We're go
 
 ## Follow the practice
 
-- Trade the driver's seat with a rhythm using a timer or a new task.
-- Have the navigator be responsible for the timer, giving permission to interrupt to change seats.
-- Aim to uniformize how we work and think when on our own.
-- Work out loud: Give commentary on your thoughts. Share what you're thinking as you go.
+1. Break up the work into small steps together.
+1. Trade the driver's seat with a rhythm using a timer or a new task.
+1. Have the navigator be responsible for the timer, giving permission to interrupt to change seats.
+1. Aim to uniformize how we work and think when we're on our own.
+1. Work out loud: Give commentary on your thoughts. Share what you're thinking as you go.
 
 ## First day of pairing
 
