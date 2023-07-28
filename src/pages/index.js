@@ -63,12 +63,12 @@ class Homepage extends React.Component {
             </div> */}
 
             {/* newsletter signup */}
-            <script
+            {/* <script
               async
               data-uid="65c4f812b4"
               src="https://skilled-knitter-7266.ck.page/65c4f812b4/index.js"
             />
-            <div ref={(el) => (this.instance = el)} data-uid="65c4f812b4"></div>
+            <div ref={(el) => (this.instance = el)} data-uid="65c4f812b4"></div> */}
 
             <h2
               style={{
