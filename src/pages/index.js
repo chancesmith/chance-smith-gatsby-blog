@@ -7,12 +7,12 @@ import SEO from "../components/seo";
 import { rhythm, scale } from "../utils/typography";
 
 class Homepage extends React.Component {
-  componentDidMount() {
-    const script = document.createElement("script");
-    script.src = "https://skilled-knitter-7266.ck.page/65c4f812b4/index.js";
-    script.async = true;
-    this.instance.appendChild(script);
-  }
+  // componentDidMount() {
+  //   const script = document.createElement("script");
+  //   script.src = "https://skilled-knitter-7266.ck.page/65c4f812b4/index.js";
+  //   script.async = true;
+  //   this.instance.appendChild(script);
+  // }
 
   render() {
     const { data } = this.props;
