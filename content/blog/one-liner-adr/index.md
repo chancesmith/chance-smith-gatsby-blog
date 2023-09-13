@@ -2,7 +2,7 @@
 layout: post
 title: "One-Liner ADR"
 date: 2023-08-25T22Z
-tags: "process", "leadership"
+tags: ["process", "leadership"]
 ---
 
 This week has been a week of thinking through repeatable processes. I've been on-call and helped consult on a project. That's made me think about making things easier for the next person.
