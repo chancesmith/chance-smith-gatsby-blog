@@ -54,6 +54,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Surface Over Mass"
+              definition="Prioritizing what impacts the customer and high-level metrics. Peter Drucker said to run lean. Organizations often focus on internal complexities over external impact. Think about a biological organism. The inner mass grows faster than the outer surface which will divert energy to manage the internal mass."
+            />
+
+            <GlossaryTerm
               term="Reps"
               definition="Like reps in your exercises, the more you do something, the more comfortable you'll be. You're Grandfather's drill press or Grandmother's blender is overwhelming at first but less overwhelming after you've used one a hundred times. Feel uncomfortable? Most likely, you haven't been here or done this thing before. Go get some reps in."
             />
