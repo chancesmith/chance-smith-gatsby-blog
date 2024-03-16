@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Your React App Logic"
-date: "2024-03-08T08Z"
+date: "2024-03-16T08Z"
 tags: development, testing
 ---
 
@@ -149,11 +149,16 @@ const MyViewContainer = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch("/api/data").then((res) => res.json()).then(setData)
+    fetch("/api/data")
+      .then((res) => res.json())
+      .then(setData);
   }, []);
 
   const handleSubmit = (skillAreas, stagedQuestions) => {
-    fetch("/api/assessment", { method: "POST", body: JSON.stringify({ skillAreas, stagedQuestions })});
+    fetch("/api/assessment", {
+      method: "POST",
+      body: JSON.stringify({ skillAreas, stagedQuestions }),
+    });
   };
 
   return <MyView data={data} handleSubmit={handleSubmit} />;
@@ -178,7 +183,9 @@ Next time you get a error response from the server, you can test how your view h
 // MyView.test.tsx
 test("shows error message", async () => {
   const data = [{ id: 1, name: "React" }];
-  const handleSubmit = jest.fn().mockRejectedValueOnce({ message: "Server Error" });
+  const handleSubmit = jest
+    .fn()
+    .mockRejectedValueOnce({ message: "Server Error" });
 
   render(<MyView data={data} handleSubmit={handleSubmit} />);
 
@@ -201,8 +208,12 @@ import { rest } from "msw";
 
 test("MyView", async () => {
   const server = setupServer(
-    rest.get("/api/data", (req, res, ctx) => res(ctx.json([{ id: 1, name: "React" }]))),
-    rest.post("/api/assessment", (req, res, ctx) => res(ctx.json({ success: true })))
+    rest.get("/api/data", (req, res, ctx) =>
+      res(ctx.json([{ id: 1, name: "React" }]))
+    ),
+    rest.post("/api/assessment", (req, res, ctx) =>
+      res(ctx.json({ success: true }))
+    )
   );
 
   server.listen();
