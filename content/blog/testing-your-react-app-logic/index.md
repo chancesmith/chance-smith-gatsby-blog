@@ -20,7 +20,7 @@ Here, I'd like to share some quick ways to add a test with your next feature, su
 
 ## Quick Ways To Add A Test To Your Frontend
 
-### 1. The Utility {#the-utility}
+<h3 id="the-utility">1. The Utility</h3>
 
 Any new or untested utility function is a great place start writing tests. These functions are typically small and simple to test.
 
@@ -46,7 +46,7 @@ test("formatMsToTime", () => {
 });
 ```
 
-### 2. The Slice {#the-slice}
+<h3 id="the-slice">2. The Slice</h3>
 
 A function with logic and state setters, we can slice out the logic with a new function. This new function will return the value we want the new state to be. Now we have something we can test.
 
