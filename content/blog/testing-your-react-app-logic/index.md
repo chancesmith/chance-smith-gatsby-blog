@@ -5,18 +5,22 @@ date: "2024-03-08T08Z"
 tags: development, testing
 ---
 
-I find teams avoiding writing tests. I understand if they're out of practice or where there weren't enough examples in the codebase. I'll hear, "Isn't it faster to get the bug fixed." I want to get to time-saved later. Here, I'd like to share some quick ways to add a test with your next feature, such as bug fixing or refactoring.
+I find myself and other teams avoiding writing tests. Mostly because we're out of practice or if there aren't enough examples in the codebase.
 
-1. The Utility
-2. The Slice
-3. The View Brain
-4. The Shipping Container
-5. The Whole View
-6. The App
+So, I've been thinking about how to make it easier to add tests to your app.
+
+Here, I'd like to share some quick ways to add a test with your next feature, such as bug fixing or refactoring. Here's the list.
+
+1. [The Utility](#the-utility)
+2. [The Slice](#the-slice)
+3. [The View Brain](#the-view-brain)
+4. [The Shipping Container](#the-shipping-container)
+5. [The Whole View](#the-whole-view)
+6. [The App](#the-app)
 
 ## Quick Ways To Add A Test To Your Frontend
 
-### 1. The Utility
+### 1. The Utility {#the-utility}
 
 Any new or untested utility function is a great place start writing tests. These functions are typically small and simple to test.
 
@@ -42,7 +46,7 @@ test("formatMsToTime", () => {
 });
 ```
 
-### 2. The Slice
+### 2. The Slice {#the-slice}
 
 A function with logic and state setters, we can slice out the logic with a new function. This new function will return the value we want the new state to be. Now we have something we can test.
 
@@ -76,7 +80,7 @@ const handleSortItems = () => {
 };
 ```
 
-### 3. The View Brain
+### 3. The View Brain {#the-view-brain}
 
 One of my favorites, is abstracting the logic that the view needs. All our view state will live in a class, useReducer, custom hook or a tool like MST. Every state modifier will be tested in our view-brain.
 
@@ -101,7 +105,11 @@ Having all your state setters in that same place as your handlers with logic, ma
 ```ts
 // After: merge all the state and logic into a testable unit, a custom hook.
 const {
-  skillAreas, stagedQuestions, addQuestion, reorderSkillAreas, modalOpen,
+  skillAreas,
+  stagedQuestions,
+  addQuestion,
+  reorderSkillAreas,
+  modalOpen,
 } = useEditAssessment();
 ```
 
@@ -140,9 +148,13 @@ Yet, we can decouple the view from the API calls.
 const MyViewContainer = () => {
   const [data, setData] = useState([]);
 
-  useEffect(() => {fetch("/api/data").then((res) => res.json()).then(setData)}, []);
+  useEffect(() => {
+    fetch("/api/data").then((res) => res.json()).then(setData)
+  }, []);
 
-  const handleSubmit = (skillAreas, stagedQuestions) => { fetch("/api/assessment", {method: "POST",body: JSON.stringify({ skillAreas, stagedQuestions })}) };
+  const handleSubmit = (skillAreas, stagedQuestions) => {
+    fetch("/api/assessment", { method: "POST", body: JSON.stringify({ skillAreas, stagedQuestions })});
+  };
 
   return <MyView data={data} handleSubmit={handleSubmit} />;
 };
@@ -167,7 +179,7 @@ Next time you get a error response from the server, you can test how your view h
 test("shows error message", async () => {
   const data = [{ id: 1, name: "React" }];
   const handleSubmit = jest.fn().mockRejectedValueOnce({ message: "Server Error" });
-  
+
   render(<MyView data={data} handleSubmit={handleSubmit} />);
 
   // Test the error response
@@ -177,7 +189,7 @@ test("shows error message", async () => {
 });
 ```
 
-### 5. The Whole View
+### 5. The Whole View {#the-whole-view}
 
 If we want to test everything, we can set up a mock server your tests can use.
 
@@ -221,7 +233,7 @@ test('MyView', async () => {
 });
 ```
 
-### 6. The App
+### 6. The App {#the-app}
 
 Pick up an E2E tool and test your app with a few user flows. Focus on navigating through the app without errors. Use tools like [Playwright](https://playwright.dev/) or [Cypress](https://www.cypress.io/).
 
