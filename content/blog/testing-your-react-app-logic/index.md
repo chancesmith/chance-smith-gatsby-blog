@@ -80,7 +80,7 @@ const handleSortItems = () => {
 };
 ```
 
-### 3. The View Brain {#the-view-brain}
+<h3 id="the-view-brain">3. The View Brain</h3>
 
 One of my favorites, is abstracting the logic that the view needs. All our view state will live in a class, useReducer, custom hook or a tool like MST. Every state modifier will be tested in our view-brain.
 
@@ -115,8 +115,9 @@ const {
 
 Now, we can make a test suite against the `useEditAssessment()` hook to test all the state changes. As an alternative, we could also use a useReducer.
 
-4. The Shipping Container
-   Decouple your view from your API calls. Just pass in the data your view needs.
+<h3 id="the-shipping-container">4. The Shipping Container</h3>
+
+Decouple your view from your API calls. Just pass in the data your view needs.
 
 Yes, we could have the view do everything.
 
@@ -196,7 +197,7 @@ test("shows error message", async () => {
 });
 ```
 
-### 5. The Whole View {#the-whole-view}
+<h3 id="the-whole-view">5. The Whole View</h3>
 
 If we want to test everything, we can set up a mock server your tests can use.
 
@@ -244,7 +245,7 @@ test('MyView', async () => {
 });
 ```
 
-### 6. The App {#the-app}
+<h3 id="the-app">6. The App</h3>
 
 Pick up an E2E tool and test your app with a few user flows. Focus on navigating through the app without errors. Use tools like [Playwright](https://playwright.dev/) or [Cypress](https://www.cypress.io/).
 
