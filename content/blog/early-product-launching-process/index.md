@@ -48,6 +48,8 @@ What if you get an list of interested folks this month?
 If you're launching anything right now, you know what to do.
 Go make a waiting list page.
 
+There are so many tools to help you start. You can use Mailchimp, ConvertKit, Substack, Ghost, Carrd, Webflow, WordPress, and many more.
+
 ## Side note
 
 To support a friend, take a look at what Dennis is working on. If you have a WordPress site and need a blazing-fast bulk editing tool, go check out the WordPress plugin Dennis is building, 🏎️🏎️ [QuickPress](https://quickpress.io/) 🏎️🏎️.
