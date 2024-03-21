@@ -13,9 +13,12 @@ module.exports = {
     `gatsby-plugin-netlify`,
     `gatsby-plugin-sitemap`,
     {
-      resolve: "gatsby-plugin-google-analytics",
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: "UA-33562331-2",
+        trackingIds: ["G-386642925"],
+        pluginConfig: {
+          head: true,
+        },
       },
     },
     {
