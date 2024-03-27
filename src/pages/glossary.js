@@ -54,6 +54,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Foggy-Brain Tax"
+              definition="The cost of forgetting why you did something or how it works. Either write down the essential details or incentivize dealing with it now. Writing details down can help you remember them, and others can learn from them."
+            />
+
+            <GlossaryTerm
               term="Low Fidelity Work"
               abv="lofiwork"
               definition="Any non-high-fidelity work, such as a sketch, wireframe, prototype, or pixel-free, database-less experience. This is a healthy constraint on the kind of feedback and amount of work required. Do this to quickly to get feedback and iterate. See also: Thin Slices"
