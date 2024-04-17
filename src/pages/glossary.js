@@ -59,9 +59,14 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Hack-In"
+              definition="Hack-In: An in-person or remote hackathon for a single project with a small team of 3-5. The biggest benefits are reducing the feedback loop and real-time collaboration."
+            />
+
+            <GlossaryTerm
               term="Low Fidelity Work"
               abv="lofiwork"
-              definition="Any non-high-fidelity work, such as a sketch, wireframe, prototype, or pixel-free, database-less experience. This is a healthy constraint on the kind of feedback and amount of work required. Do this to quickly to get feedback and iterate. See also: Thin Slices"
+              definition="Any non-high-fidelity work, such as a sketch, wireframe, prototype, or pixel-free, database-less experience. This is a healthy constraint on the kind of feedback and amount of work required. Do this to quickly get feedback and iterate. See also: Thin Slices"
             />
 
             <GlossaryTerm
