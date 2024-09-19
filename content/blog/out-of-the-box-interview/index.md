@@ -28,8 +28,8 @@ I say: "You're the brain. I'm the hands."
 
 Simple tasks don't cut it. Complex tasks reveal their ability to think, explain, and engage.
 
-Can they break down ideas?
-Adapt when I play dumb?
+Can they break down ideas?<br/>
+Adapt when I play dumb?<br/>
 Keep me interested?
 
 ## The point is
