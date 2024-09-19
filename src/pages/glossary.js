@@ -64,6 +64,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Invariant Map"
+              definition={`The Invariant Map: the professional's mental treasure map of the business truths, universal truths, and the watch-your-step assumptions that may affect other areas. TigerBeetle calls this the "negative space"`}
+            />
+
+            <GlossaryTerm
               term="Low Fidelity Work"
               abv="lofiwork"
               definition="Any non-high-fidelity work, such as a sketch, wireframe, prototype, or pixel-free, database-less experience. This is a healthy constraint on the kind of feedback and amount of work required. Do this to quickly get feedback and iterate. See also: Thin Slices"
