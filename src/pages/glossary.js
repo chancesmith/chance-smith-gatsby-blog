@@ -60,12 +60,12 @@ class GlossaryPage extends React.Component {
 
             <GlossaryTerm
               term="Hack-In"
-              definition="Hack-In: An in-person or remote hackathon for a single project with a small team of 3-5. The biggest benefits are reducing the feedback loop and real-time collaboration."
+              definition="An in-person or remote hackathon for a single project with a small team of 3-5. The biggest benefits are reducing the feedback loop and real-time collaboration."
             />
 
             <GlossaryTerm
               term="Invariant Map"
-              definition={`The Invariant Map: the professional's mental treasure map of the business truths, universal truths, and the watch-your-step assumptions that may affect other areas. TigerBeetle calls this the "negative space"`}
+              definition={`The professional's undocumented mental landscape of the known business truths, universal truths, and the watch-your-step assumptions that may affect other areas. TigerBeetle calls invariants the negative space. (Solutions: assertions, automated tests, documentation)`}
             />
 
             <GlossaryTerm

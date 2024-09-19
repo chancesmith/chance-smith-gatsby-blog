@@ -7,7 +7,7 @@ const GlossaryTerm = ({ term, definition, abv }) => {
   const cleanTerm = term.trim().toLowerCase().replace(/(\s+)/g, "-");
   return (
     <>
-      {abv && <div id={abv}>&nbsp;</div>}
+      {abv && <div id={abv} />}
       <h2
         id={cleanTerm}
         style={{
