@@ -64,8 +64,13 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Invariant"
+              definition="Something that doesn't change and isn't documented in your process or software. See also: Invariant Map"
+            />
+
+            <GlossaryTerm
               term="Invariant Map"
-              definition={`The professional's undocumented mental landscape of the known business truths, universal truths, and the watch-your-step assumptions that may affect other areas. TigerBeetle calls invariants the negative space. (Solutions: assertions, automated tests, documentation)`}
+              definition={`The professional's undocumented mental landscape of the known business truths, universal truths, and the watch-your-step assumptions that may affect other areas. TigerBeetle calls invariants the negative space. (Solutions: assertions, automated tests, documentation) See also: Invariant`}
             />
 
             <GlossaryTerm
