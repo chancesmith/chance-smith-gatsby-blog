@@ -100,6 +100,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Work About Work"
+              definition="The work that isn't the work. The planning to plan, the meeting to meet, the task to create a task. This is the work that doesn't move the project forward."
+            />
+
+            <GlossaryTerm
               term="Work Out Loud"
               definition="Sharing your work often for accountability and feedback. Don't work on an island. Disseminate knowledge. Give a pulse of what you are doing and what is going on. The goal is to prevent clients and the team from the 3Ws. See also: 3Ws"
             />
