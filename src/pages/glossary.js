@@ -54,6 +54,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Flipped Learning"
+              definition="Turning traditional passive learning into a flipped approach. Introducing core concepts (micro videos, text reading assignment) before class so that the class time is transformed into an active place of learning: simulations, discussions, practice. A place where the teacher doesn’t talk at you, but works with you. Credit: Jon Bergmann"
+            />
+
+            <GlossaryTerm
               term="Foggy-Brain Tax"
               definition="The cost of forgetting why you did something or how it works. Either write down the essential details or incentivize dealing with it now. Writing details down can help you remember them, and others can learn from them."
             />
