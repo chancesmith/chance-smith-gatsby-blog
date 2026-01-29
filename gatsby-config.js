@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Chance Smith`,
     author: `Chance Smith`,
-    description: `A blog...about Chance.`,
+    description: `What if management wasn't about controlling the work, but creating space for it? Exploring leadership that serves engineers instead of managing them.`,
     siteUrl: `https://chancesmith.io/`,
     social: {
       twitter: `chance_smith`,
