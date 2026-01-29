@@ -39,6 +39,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Clarity Check"
+              definition="A scheduled moment to revisit and set expectations of what was once blurry. We ask: what questions got answered? What can we decide? What's still blurry and needs more time? It's permission to make calls with what's clear and honest about what isn't. Typical moments: end of sprints/prototypes/POCs/epics. See also: 3Ws, Horizon"
+            />
+
+            <GlossaryTerm
               term="Essential Releases"
               definition="Releasing early with simply-enough so you can get feedback sooner. See also: Feature-Boxing"
             />
@@ -66,6 +71,11 @@ class GlossaryPage extends React.Component {
             <GlossaryTerm
               term="Hack-In"
               definition="An in-person or remote hackathon for a single project with a small team of 3-5. The biggest benefits are reducing the feedback loop and real-time collaboration."
+            />
+
+            <GlossaryTerm
+              term="Horizon"
+              definition="How far ahead the team can see. Current work is clear, but everything approaching the horizon gets blurrier, and goals beyond it aren't visible yet. The team sees feature work ahead but can't yet see the launch date beyond the horizon. See also: Clarity Check, 3Ws"
             />
 
             <GlossaryTerm
