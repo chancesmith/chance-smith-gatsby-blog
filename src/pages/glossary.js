@@ -19,7 +19,7 @@ class GlossaryPage extends React.Component {
 
             <GlossaryTerm
               term="3Ws"
-              definition="Prevent your customers from wondering, waiting or worrying, which comes from *Burn Your Portfolio* by Michael Janda."
+              definition="Prevent your customers from worrying, waiting, wondering. Credt: *Burn Your Portfolio* by Michael Janda."
             />
 
             <GlossaryTerm
