@@ -40,7 +40,7 @@ class GlossaryPage extends React.Component {
 
             <GlossaryTerm
               term="Clarity Check"
-              definition="A scheduled moment to revisit and set expectations of what was once blurry. We ask: what questions got answered? What can we decide? What's still blurry and needs more time? It's permission to make calls with what's clear and honest about what isn't. Typical moments: end of sprints/prototypes/POCs/epics. See also: 3Ws, Horizon"
+              definition="A continuous planning practice of revisiting what's blurry, to help set expectations. We ask: What can we plan next, at any level of granularity? It's permission to move forward with what we know and be honest about what we don't. Keeps planning ongoing so teams are ready when big planning moments arrive. See also: 3Ws, Horizon"
             />
 
             <GlossaryTerm
