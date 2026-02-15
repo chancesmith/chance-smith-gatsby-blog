@@ -21,6 +21,7 @@ Primary reference: `HUGO_MIGRATION_PLAN.md`.
 - About 160 post files currently publish from Gatsby.
 - Top-level pages exist in `src/pages` and must be preserved.
 - Redirect rules exist in `static/_redirects`.
+- Netlify currently builds and hosts this blog.
 
 ## Non-negotiable requirements
 

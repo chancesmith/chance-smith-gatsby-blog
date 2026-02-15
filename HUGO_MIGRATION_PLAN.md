@@ -17,6 +17,7 @@ This plan favors a "same content, simpler stack" migration, not a redesign.
 
 - Gatsby `^4.25.7`, React `^17`
 - Build scripts in `package.json`: `gatsby develop`, `gatsby build`, `gatsby serve`
+- Netlify currently builds and hosts this blog
 - No CI workflow files in repo
 
 ### Content model
@@ -174,7 +175,7 @@ Keep redirects from `static/_redirects` exactly as-is on first pass.
 
 - [ ] Compare generated route list against baseline
 - [ ] Run final QA for mobile and desktop
-- [ ] Switch build command from Gatsby to Hugo in hosting
+- [ ] Switch Netlify build command from Gatsby to Hugo
 - [ ] Remove Gatsby dependencies/files after successful cutover
 
 ## Definition of done
