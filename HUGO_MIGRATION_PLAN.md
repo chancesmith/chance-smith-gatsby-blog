@@ -133,7 +133,6 @@ Keep redirects from `static/_redirects` exactly as-is on first pass.
 
 - [ ] Capture current route inventory (all posts + static pages)
 - [ ] Build a URL parity checklist file for verification
-- [ ] Record baseline Lighthouse/TTFB metrics for home + post page
 
 ### Phase 2 - Initialize Hugo
 
