@@ -1,6 +1,7 @@
 baseURL = "https://chancesmith.io/"
 languageCode = "en-us"
 title = "Chance Smith"
+disableKinds = ["taxonomy", "term"]
 ignoreFiles = ["^content/_drafts/", "^content/_ready/"]
 
 [params]

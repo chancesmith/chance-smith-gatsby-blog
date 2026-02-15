@@ -154,10 +154,23 @@ Phase 2 outputs:
 
 ### Phase 3 - Blog templates
 
-- [ ] Implement base layout and typography styles
-- [ ] Implement single post template with previous/next navigation
-- [ ] Implement home template showing latest 3 posts
-- [ ] Implement archive page listing all posts by date desc
+- [x] Implement base layout and typography styles
+- [x] Implement single post template with previous/next navigation
+- [x] Implement home template showing latest 3 posts
+- [x] Implement archive page listing all posts by date desc
+
+Phase 3 outputs:
+
+- Added Hugo layout templates:
+  - `layouts/_default/baseof.html`
+  - `layouts/partials/blog-post.html`
+  - `layouts/index.html`
+  - `layouts/archive/list.html`
+  - fallback templates for `single`, `post`, and generic `list`
+- Added shared Hugo stylesheet at `static/css/global.css`
+- Added `content/archive/_index.md` to preserve the `/archive/` route
+- Preserved blog ordering intent without mass content edits by sorting posts with legacy frontmatter date strings (`Params.date`) in templates
+- Verified blog URL parity remains `160/160` against `migration/phase-1-route-inventory.json`
 
 ### Phase 4 - Static pages migration
 
