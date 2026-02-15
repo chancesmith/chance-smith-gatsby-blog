@@ -131,8 +131,13 @@ Keep redirects from `static/_redirects` exactly as-is on first pass.
 
 ### Phase 1 - Baseline and parity guardrails
 
-- [ ] Capture current route inventory (all posts + static pages)
-- [ ] Build a URL parity checklist file for verification
+- [x] Capture current route inventory (all posts + static pages)
+- [x] Build a URL parity checklist file for verification
+
+Phase 1 outputs:
+
+- `migration/phase-1-route-inventory.json` (172 total routes: 12 static pages, 160 post routes)
+- `migration/phase-1-url-parity-checklist.md` (checkbox verification list for all current routes)
 
 ### Phase 2 - Initialize Hugo
 

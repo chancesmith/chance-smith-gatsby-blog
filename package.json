@@ -12,7 +12,8 @@
     "develop": "gatsby develop",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "routes:inventory": "node scripts/generate-route-inventory.js"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.13.2",
