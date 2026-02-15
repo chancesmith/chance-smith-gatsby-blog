@@ -141,10 +141,16 @@ Phase 1 outputs:
 
 ### Phase 2 - Initialize Hugo
 
-- [ ] Add Hugo config (`hugo.toml`) with site metadata from `gatsby-config.js`
-- [ ] Configure permalinks for blog posts to match existing URLs
-- [ ] Enable Goldmark and syntax highlighting defaults
-- [ ] Keep `static/robots.txt` and `static/_redirects`
+- [x] Add Hugo config (`hugo.toml`) with site metadata from `gatsby-config.js`
+- [x] Configure permalinks for blog posts to match existing URLs
+- [x] Enable Goldmark and syntax highlighting defaults
+- [x] Keep `static/robots.txt` and `static/_redirects`
+
+Phase 2 outputs:
+
+- `hugo.toml` with site metadata, blog permalink strategy, Goldmark, and syntax highlighting defaults
+- Verified blog URL parity (`160/160` post routes) against `migration/phase-1-route-inventory.json`
+- Added a temporary frontmatter date fallback (`:filename`, `:fileModTime`) to avoid mass-editing legacy date formats in parity phase
 
 ### Phase 3 - Blog templates
 
