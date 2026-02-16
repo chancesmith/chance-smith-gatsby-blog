@@ -15,6 +15,9 @@ ignoreFiles = ["^content/_drafts/", "^content/_ready/"]
 [permalinks]
   blog = "/:contentbasename/"
 
+[outputs]
+  home = ["HTML", "RSS", "404"]
+
 [frontmatter]
   date = [":filename", ":fileModTime"]
   lastmod = [":git", ":fileModTime"]
