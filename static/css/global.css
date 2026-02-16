@@ -189,6 +189,10 @@ blockquote {
   margin-top: 0;
 }
 
+.page-content > :first-child {
+  margin-top: 0;
+}
+
 .post-pagination {
   display: flex;
   flex-wrap: wrap;
@@ -214,6 +218,40 @@ blockquote {
 .archive-post h3 {
   margin-top: 0;
   margin-bottom: 0.25rem;
+}
+
+.project-item {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.project-content {
+  flex: 1;
+}
+
+.project-meta {
+  margin: 0;
+  color: #878787;
+}
+
+.project-title {
+  margin: 0;
+}
+
+.project-description {
+  margin-top: 0.5rem;
+}
+
+.project-image img {
+  max-width: 330px;
+  max-height: 400px;
+  height: auto;
+}
+
+.u-text-center {
+  text-align: center !important;
 }
 
 hr {
@@ -256,5 +294,9 @@ hr {
 
   .page-title {
     font-size: 1.8rem;
+  }
+
+  .project-item {
+    flex-direction: column;
   }
 }

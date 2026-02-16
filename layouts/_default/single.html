@@ -2,8 +2,7 @@
   {{ if eq .Section "blog" }}
     {{ partial "blog-post.html" . }}
   {{ else }}
-    <article>
-      <h1>{{ .Title }}</h1>
+    <article class="page-content">
       {{ .Content }}
     </article>
   {{ end }}
