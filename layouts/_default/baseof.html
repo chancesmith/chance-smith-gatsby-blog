@@ -23,7 +23,7 @@
   </head>
   <body>
     {{ $isBlogPost := and .IsPage (eq .Section "blog") }}
-    {{ $showPageTitle := and (not .IsHome) (not $isBlogPost) }}
+    {{ $showPageTitle := and (not .IsHome) (not $isBlogPost) (ne .Kind "404") }}
     {{ $avatarClass := "avatar-link" }}
     {{ if $isBlogPost }}
       {{ $avatarClass = "avatar-link avatar-link--tiny" }}

@@ -174,9 +174,29 @@ Phase 3 outputs:
 
 ### Phase 4 - Static pages migration
 
-- [ ] Convert each React page in `src/pages` to Hugo content + layout
-- [ ] Replace React-only components (`Product`, `GlossaryTerm`) with markdown or Hugo partials/shortcodes
-- [ ] Preserve anchors used by existing links (example: glossary hash links)
+- [x] Convert each React page in `src/pages` to Hugo content + layout
+- [x] Replace React-only components (`Product`, `GlossaryTerm`) with markdown or Hugo partials/shortcodes
+- [x] Preserve anchors used by existing links (example: glossary hash links)
+
+Phase 4 outputs:
+
+- Added Hugo content pages for static routes:
+  - `content/about.md`
+  - `content/coaching.md`
+  - `content/glossary.md`
+  - `content/hire-me-kit.md`
+  - `content/level-up-mastermind.md`
+  - `content/pair-coding.md`
+  - `content/projects.md`
+  - `content/uses.md`
+  - `content/workshop-javascript.md`
+  - `content/404.md` (to preserve `/404/`)
+- Added a static Netlify-compatible 404 page at `static/404.html` (to preserve `/404.html`)
+- Preserved glossary hash-link compatibility by rendering explicit term anchors and alias anchors in `content/glossary.md` (for existing links like `#3Ws`, `#3ws`, `#5on2`, `#busco`, `#bus-coefficiency`, `#essential-release`, and `#surface-over-mass`)
+- Updated Hugo rendering for non-blog pages:
+  - `layouts/_default/single.html` now renders content without duplicating page `<h1>`
+  - `layouts/_default/baseof.html` suppresses shell header title on Hugo 404 kind
+- Added utility/static page styles needed for migrated content in `static/css/global.css`
 
 ### Phase 5 - SEO, analytics, and sitemap
 
