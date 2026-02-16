@@ -200,10 +200,27 @@ Phase 4 outputs:
 
 ### Phase 5 - SEO, analytics, and sitemap
 
-- [ ] Port default/meta tags from `src/components/seo.js`
-- [ ] Add GA script for `G-386642925`
-- [ ] Enable Hugo sitemap and verify path/output
-- [ ] Verify Open Graph and Twitter meta tags
+- [x] Port default/meta tags from `src/components/seo.js`
+- [x] Add GA script for `G-FD4ZXPSLB6`
+- [x] Enable Hugo sitemap and verify path/output
+- [x] Verify Open Graph and Twitter meta tags
+
+Phase 5 outputs:
+
+- Added shared SEO partial at `layouts/partials/seo.html` with:
+  - page title + title template behavior
+  - description fallback behavior
+  - Open Graph tags (`og:title`, `og:description`, `og:type`, `og:url`)
+  - Twitter tags (`twitter:card`, `twitter:creator`, `twitter:title`, `twitter:description`)
+  - optional `keywords` meta output when `keywords` are provided in frontmatter
+- Updated `layouts/_default/baseof.html` to render the SEO partial and Hugo's internal GA template in `<head>`
+- Configured GA in `hugo.toml` via Hugo services:
+  - `[services.googleAnalytics].ID = "G-FD4ZXPSLB6"`
+- Explicitly set sitemap filename in `hugo.toml` (`sitemap.xml`) and verified output at `public/sitemap.xml`
+- Added section-level build exclusions for migration staging content:
+  - `content/_drafts/_index.md`
+  - `content/_ready/_index.md`
+  This keeps `_drafts` and `_ready` routes out of generated output and sitemap in parity builds.
 
 ### Phase 6 - Content and asset cleanup
 
