@@ -21,6 +21,13 @@ ignoreFiles = ["^content/_drafts/", "^content/_ready/"]
   publishDate = []
   expiryDate = []
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-FD4ZXPSLB6"
+
+[sitemap]
+  filename = "sitemap.xml"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

@@ -3,23 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {{ $pageTitle := .Site.Title }}
-    {{ if not .IsHome }}
-      {{ $pageTitle = printf "%s | %s" .Title .Site.Title }}
-    {{ end }}
-    <title>{{ $pageTitle }}</title>
-
-    {{ $description := .Site.Params.description }}
-    {{ with .Description }}
-      {{ $description = . }}
-    {{ end }}
-    {{ if and (not .IsHome) (eq $description .Site.Params.description) }}
-      {{ with .Summary }}
-        {{ $description = . | plainify | replaceRE "\\s+" " " | truncate 170 }}
-      {{ end }}
-    {{ end }}
-    <meta name="description" content="{{ $description }}">
+    {{ partial "seo.html" . }}
     <link rel="stylesheet" href="{{ "/css/global.css" | relURL }}">
+    {{ template "_internal/google_analytics.html" . }}
   </head>
   <body>
     {{ $isBlogPost := and .IsPage (eq .Section "blog") }}
