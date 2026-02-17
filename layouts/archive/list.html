@@ -1,15 +1,32 @@
 {{ define "main" }}
   {{ $posts := sort (where .Site.RegularPages "Section" "blog") "Params.date" "desc" }}
 
+  <section class="insights-search" aria-label="Search insights">
+    <label class="insights-search-label" for="insights-search-input">Search insights</label>
+    <form class="insights-search-form" action="/archive/" method="get" role="search">
+      <input
+        id="insights-search-input"
+        class="insights-search-input"
+        type="search"
+        name="q"
+        placeholder="Search by title"
+        autocomplete="off"
+      >
+    </form>
+    <p id="insights-search-status" class="insights-search-status" aria-live="polite"></p>
+  </section>
+
   <section>
     {{ range $posts }}
       {{ $rawDate := printf "%v" .Params.date }}
       {{ $displayDate := .Date.Format "Jan 02, 2006" }}
+      {{ $searchTitle := .RelPermalink }}
+      {{ with .Title }}{{ $searchTitle = . }}{{ end }}
       {{ if gt (len (findRE "^\\d{4}-\\d{2}-\\d{2}T\\d{2}Z$" $rawDate)) 0 }}
         {{ $normalizedDate := replaceRE "^([0-9]{4}-[0-9]{2}-[0-9]{2})T([0-9]{2})Z$" "${1}T${2}:00:00Z" $rawDate }}
         {{ $displayDate = (time.AsTime $normalizedDate).Format "Jan 02, 2006" }}
       {{ end }}
-      <article class="archive-post">
+      <article class="archive-post" data-search-title="{{ lower $searchTitle }}">
         <small>{{ $displayDate }}</small>
         <h3>
           <a href="{{ .RelPermalink }}">
@@ -19,4 +36,100 @@
       </article>
     {{ end }}
   </section>
+
+  <script>
+    (function () {
+      var input = document.getElementById("insights-search-input");
+      if (!input) {
+        return;
+      }
+
+      var posts = Array.prototype.slice.call(
+        document.querySelectorAll(".archive-post[data-search-title]")
+      );
+      var status = document.getElementById("insights-search-status");
+      var params = new URLSearchParams(window.location.search);
+
+      function normalize(value) {
+        return (value || "").trim().toLowerCase();
+      }
+
+      function updateStatus(visibleCount, totalCount, query) {
+        if (!status) {
+          return;
+        }
+
+        if (!totalCount) {
+          status.textContent = "No insights are available yet.";
+          return;
+        }
+
+        if (!query) {
+          status.textContent = "Showing all " + visibleCount + " insights.";
+          return;
+        }
+
+        if (!visibleCount) {
+          status.textContent = "No insights match \"" + query + "\".";
+          return;
+        }
+
+        status.textContent =
+          "Showing " +
+          visibleCount +
+          " of " +
+          totalCount +
+          " insights for \"" +
+          query +
+          "\".";
+      }
+
+      function updateUrl(query) {
+        var url = new URL(window.location.href);
+        if (query) {
+          url.searchParams.set("q", query);
+        } else {
+          url.searchParams.delete("q");
+        }
+
+        window.history.replaceState({}, "", url.pathname + url.search + url.hash);
+      }
+
+      function filterPosts(rawValue, syncUrl) {
+        var query = normalize(rawValue);
+        var visible = 0;
+
+        posts.forEach(function (post) {
+          var title = normalize(post.getAttribute("data-search-title"));
+          var matches = !query || title.indexOf(query) !== -1;
+          post.hidden = !matches;
+          if (matches) {
+            visible += 1;
+          }
+        });
+
+        updateStatus(visible, posts.length, query);
+
+        if (syncUrl) {
+          updateUrl(query);
+        }
+      }
+
+      var initialQuery = normalize(params.get("q"));
+      if (initialQuery) {
+        input.value = initialQuery;
+      }
+
+      filterPosts(input.value, false);
+
+      input.addEventListener("input", function (event) {
+        filterPosts(event.target.value, true);
+      });
+
+      if (window.location.hash === "#insights-search" || initialQuery) {
+        input.focus();
+        input.setSelectionRange(input.value.length, input.value.length);
+      }
+    })();
+  </script>
 {{ end }}

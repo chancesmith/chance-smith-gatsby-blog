@@ -20,6 +20,16 @@
     <div class="site-shell">
       <div class="site-nav">
         <a class="nav-link{{ if eq .RelPermalink "/archive/" }} is-active{{ end }}" href="/archive/">Insights</a>
+        <a
+          class="nav-link nav-link--icon{{ if eq .RelPermalink "/archive/" }} is-active{{ end }}"
+          href="/archive/#insights-search"
+          aria-label="Search insights"
+        >
+          <svg class="nav-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <circle cx="11" cy="11" r="7"></circle>
+            <line x1="16.65" y1="16.65" x2="21" y2="21"></line>
+          </svg>
+        </a>
       </div>
 
       <header class="site-header{{ if $showPageTitle }} site-header--with-title{{ end }}">
