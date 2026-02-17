@@ -2,7 +2,7 @@
 layout: post
 title: "Better understand your next steps"
 date: 2023-07-20T22Z
-tags: ["productivity", "leadership"]
+tags: productivity, leadership
 ---
 
 Next7 is to note your next seven: months, days, tasks.

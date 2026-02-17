@@ -3,3 +3,7 @@
 /chat         https://meet.google.com/oeq-rewx-rgm?authuser=1
 /chancechat     https://meet.google.com/oeq-rewx-rgm?authuser=1
 /mtwchance      https://meet.google.com/oeq-rewx-rgm?authuser=1
+# Legacy image fallbacks (temporary migration safety net).
+/content/images/* /css/legacy-missing-asset.svg 302
+/Hire-Me-Kit-Cover.png /css/legacy-missing-asset.svg 302
+/chancesmith_s.png /css/legacy-missing-asset.svg 302
