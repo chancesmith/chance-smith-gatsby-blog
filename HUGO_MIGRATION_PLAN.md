@@ -71,11 +71,11 @@ This plan favors a "same content, simpler stack" migration, not a redesign.
 
 ### Known migration risks found in current content
 
-1. Some markdown links likely contain typos:
-   - `/focus-closer-to-zero` (post folder is `focus-get-closer-to-zero`)
-   - `/work-out-load` (likely `/work-out-loud`)
+1. Some markdown links contained typos (resolved in Phase 6):
+   - `/focus-closer-to-zero` -> `/focus-get-closer-to-zero/`
+   - `/work-out-load` -> `/work-out-loud/`
 2. Several legacy posts reference `/content/images/...` assets, but `content/images` is not present in repo.
-3. Some page assets referenced in React appear missing in repo:
+3. Some page assets referenced in React were missing in repo:
    - `/chancesmith_s.png`
    - `Hire-Me-Kit-Cover.png`
 
@@ -224,19 +224,47 @@ Phase 5 outputs:
 
 ### Phase 6 - Content and asset cleanup
 
-- [ ] Validate internal links and fix known typos
-- [ ] Decide strategy for missing legacy assets:
+- [x] Validate internal links and fix known typos
+- [x] Decide strategy for missing legacy assets:
   - recover files, or
   - replace/remove broken references, or
   - add redirects/placeholders
-- [ ] Normalize frontmatter where needed (`tags` consistency)
+- [x] Normalize frontmatter where needed (`tags` consistency)
+
+Phase 6 outputs:
+
+- Fixed known typo links in content:
+  - `content/blog/hotels-start-at-zero/index.md`
+  - `content/blog/wip/index.md`
+- Added migration-safe missing-asset fallback strategy:
+  - `static/_redirects` now redirects known missing legacy image paths to a shared placeholder
+  - Added placeholder file: `static/css/legacy-missing-asset.svg`
+- Normalized tags frontmatter format for consistency in:
+  - `content/blog/one-liner-adr/index.md`
+  - `content/blog/next7/index.md`
+- Ran local link/asset scan across markdown content with route+redirect checks:
+  - `local_refs=125 unresolved=0`
+- Added validation record: `migration/phase-6-validation.md`
 
 ### Phase 7 - Cutover and cleanup
 
-- [ ] Compare generated route list against baseline
-- [ ] Run final QA for mobile and desktop
-- [ ] Switch Netlify build command from Gatsby to Hugo
-- [ ] Remove Gatsby dependencies/files after successful cutover
+- [x] Compare generated route list against baseline
+- [x] Run final QA for mobile and desktop
+- [x] Switch Netlify build command from Gatsby to Hugo
+- [x] Remove Gatsby dependencies/files after successful cutover
+
+Phase 7 outputs:
+
+- Switched build/dev scripts to Hugo in `package.json`
+- Removed Gatsby runtime/config/source artifacts:
+  - `gatsby-browser.js`, `gatsby-config.js`, `gatsby-node.js`
+  - `src/**`
+  - `scripts/generate-route-inventory.js`
+  - `yarn.lock`
+- Verified route parity against Phase 1 baseline:
+  - `expected_routes=172 rendered=172 missing=0`
+  - `posts expected=160 got=160 missing=0 extra=0`
+- Added validation record: `migration/phase-7-validation.md`
 
 ## Definition of done
 
