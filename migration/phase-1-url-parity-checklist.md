@@ -188,5 +188,5 @@ Mark routes as verified when the Hugo build is available.
 
 ## Known pre-existing route risks
 
-- [ ] `/focus-closer-to-zero` (expected typo risk, likely `/focus-get-closer-to-zero/`)
-- [ ] `/work-out-load` (expected typo risk, likely `/work-out-loud/`)
+- [x] `/focus-closer-to-zero` (resolved to `/focus-get-closer-to-zero/`)
+- [x] `/work-out-load` (resolved to `/work-out-loud/`)
