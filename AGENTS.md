@@ -2,8 +2,8 @@
 
 ## Purpose
 
-This repo is migrating from Gatsby to Hugo.
-Your job as an implementation agent is to execute that migration in small, safe steps.
+This repo is in the late stage of migrating from Gatsby to Hugo.
+Your job as an implementation agent is to finish cleanup and cutover in small, safe steps.
 
 Primary reference: `HUGO_MIGRATION_PLAN.md`.
 
@@ -14,14 +14,14 @@ Primary reference: `HUGO_MIGRATION_PLAN.md`.
 3. Prefer boring, explicit templates over abstraction-heavy setups.
 4. Make small commits with clear scope.
 
-## Current repo facts you should assume
+## Current repo facts you should assume (2026-02-18)
 
-- Gatsby-driven blog today (`gatsby-config.js`, `gatsby-node.js`).
-- Blog content lives in `content/blog` with mixed markdown formats.
-- About 160 post files currently publish from Gatsby.
-- Top-level pages exist in `src/pages` and must be preserved.
-- Redirect rules exist in `static/_redirects`.
-- Netlify currently builds and hosts this blog.
+- Migration Phases 1-5 are completed and documented in `migration/phase-*-validation.md`.
+- Baseline route inventory is `172` routes (`12` static pages + `160` posts) in `migration/phase-1-route-inventory.json`.
+- Hugo parity scaffolding exists (`hugo.toml`, `layouts/`, `content/`, `static/css/global.css`).
+- Gatsby stack still exists and has not been removed yet (`gatsby-config.js`, `gatsby-node.js`, `src/pages`, Gatsby scripts/dependencies in `package.json`).
+- Redirect rules still exist in `static/_redirects` and are part of parity constraints.
+- Static files `static/chancesmith_s.png` and `static/Hire-Me-Kit-Cover.png` exist (they are not currently missing).
 
 ## Non-negotiable requirements
 
@@ -34,15 +34,34 @@ Primary reference: `HUGO_MIGRATION_PLAN.md`.
 3. Keep `static/_redirects` behavior unchanged on first pass.
 4. Do not redesign UI in the parity phase.
 
-## Recommended execution order
+## Remaining work (cleanup + cutover)
 
-1. Create Hugo config and base layouts.
-2. Recreate blog post rendering.
-3. Recreate home and archive pages.
-4. Migrate static React pages to Hugo content/templates.
-5. Port SEO + analytics.
-6. Run link and route validation.
-7. Only then remove Gatsby.
+### Phase 6 - Content and asset cleanup (still open)
+
+- [ ] Fix known typoed internal links:
+  - `content/blog/hotels-start-at-zero/index.md`: `/focus-closer-to-zero` -> `/focus-get-closer-to-zero/`
+  - `content/blog/wip/index.md`: `/work-out-load` -> `/work-out-loud/`
+- [ ] Resolve legacy image references in blog content:
+  - 25 posts still reference `/content/images/...`
+  - 79 unique `/content/images/...` paths are currently unresolved
+  - `static/content/images/` does not exist
+- [ ] Fix project image path mismatches:
+  - `content/projects.md` currently references `/envie.png`, `/sevco.png`, `/funfact-game.webp`, `/vtx-zoom.png`
+  - matching files currently live in `static/projects/` (served as `/projects/...`)
+- [ ] Re-run link validation and record results under `migration/`.
+
+### Phase 7 - Cutover and cleanup (still open)
+
+- [ ] Switch local build/develop scripts from Gatsby to Hugo in `package.json`.
+- [ ] Update deploy configuration/settings to Hugo (Netlify build command + publish dir).
+- [ ] Re-run final route parity checks against `migration/phase-1-route-inventory.json`.
+- [ ] Run final QA on required routes:
+  - `/`
+  - `/archive/`
+  - post routes like `/<slug>/`
+  - `/about/`, `/coaching/`, `/glossary/`, `/hire-me-kit/`, `/level-up-mastermind/`, `/pair-coding/`, `/projects/`, `/uses/`, `/workshop-javascript/`
+- [ ] Remove Gatsby files and dependencies only after successful Hugo cutover.
+- [ ] Replace Gatsby starter instructions in `README.md` with Hugo usage.
 
 ## File mapping guidance
 
@@ -65,15 +84,18 @@ Primary reference: `HUGO_MIGRATION_PLAN.md`.
 - Do not mass-edit post bodies unless required for broken links/assets.
 - Frontmatter can be normalized carefully (`tags` format consistency), but avoid churn.
 
-## Known issues already present
+## Known issues currently tracked
 
-- Some links appear typoed:
+- Internal links with typos:
   - `/focus-closer-to-zero`
   - `/work-out-load`
-- Some assets referenced in content/pages are missing from repo:
+- Legacy blog image references:
   - `/content/images/...`
-  - `/chancesmith_s.png`
-  - `Hire-Me-Kit-Cover.png`
+- Project image path mismatches in `content/projects.md`:
+  - `/envie.png`
+  - `/sevco.png`
+  - `/funfact-game.webp`
+  - `/vtx-zoom.png`
 
 Track these as explicit migration tasks; do not ignore silently.
 
@@ -84,6 +106,7 @@ Track these as explicit migration tasks; do not ignore silently.
 - Archive page renders.
 - Sample old + new post URLs render.
 - Previous/next links on posts work.
+- Known broken links/assets count is not increasing (and should trend down).
 - Redirects file still present and unchanged unless intentionally updated.
 
 ## Definition of done
