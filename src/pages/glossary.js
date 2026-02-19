@@ -96,7 +96,7 @@ class GlossaryPage extends React.Component {
 
             <GlossaryTerm
               term="Process Flow"
-              definition="A pixel-free, low‑fidelity representation of a user journey. This allows teams to discuss the process, sequence, actor interactions, and edge cases without focusing on specific content, screens, element placement, or colors. Examples include slide decks, sticky notes, or Lucidchart diagrams."
+              definition="A pixel-free, low‑fidelity representation of a user journey. This allows teams to discuss the process, sequence, actor interactions, and edge cases without focusing on specific content, screens, element placement, or colors. Examples include slide decks, sticky notes, or Lucidchart diagrams. See also: Low Fidelity Work"
             />
                 
             <GlossaryTerm
