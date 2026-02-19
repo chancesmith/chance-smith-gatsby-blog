@@ -95,6 +95,11 @@ class GlossaryPage extends React.Component {
             />
 
             <GlossaryTerm
+              term="Process Flow"
+              definition="A pixel-free, low‑fidelity representation of a user journey. This allows teams to discuss the process, sequence, actor interactions, and edge cases without focusing on specific content, screens, element placement, or colors. Examples include slide decks, sticky notes, or Lucidchart diagrams."
+            />
+                
+            <GlossaryTerm
               term="Reps"
               definition="Like reps in your exercises, the more you do something, the more comfortable you'll be. You're Grandfather's drill press or Grandmother's blender is overwhelming at first but less overwhelming after you've used one a hundred times. Feel uncomfortable? Most likely, you haven't been here or done this thing before. Go get some reps in."
             />
